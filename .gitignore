@@ -1,0 +1,22 @@
+# .gitignore
+echo "*.pyc
+__pycache__/
+.env
+data/raw/*
+models/*.pt
+models/*.pkl
+.DS_Store
+*.log" > .gitignore
+
+# requirements.txt
+echo "pandas
+numpy
+scikit-learn
+torch
+transformers
+praw
+beautifulsoup4
+requests
+matplotlib
+seaborn
+jupyter" > requirements.txt
