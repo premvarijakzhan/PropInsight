@@ -20,3 +20,4 @@ requests
 matplotlib
 seaborn
 jupyter" > requirements.txt
+PropInsightData.md
