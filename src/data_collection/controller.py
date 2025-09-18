@@ -72,7 +72,7 @@ class ScrapingConfig:
     requests_per_minute: int = 60
     
     # Output directories
-    base_output_dir: str = "d:\\Test\\New folder\\PropInsight\\data\\raw"
+    base_output_dir: str = "data/raw"
     
     # Date range
     start_date: str = "2023-09-01"
@@ -414,7 +414,7 @@ class PropInsightController:
     
     def run_parallel_scraping(self) -> Dict[str, ScrapingResult]:
         """
-        Run all scrapers in parallel using multiprocessing
+        Run all scrapers in parallel using threading
         
         Returns:
             Dictionary of scraping results by source
@@ -433,7 +433,9 @@ class PropInsightController:
         
         if self.config.use_multiprocessing:
             # Use ProcessPoolExecutor for true parallelism
-            with ProcessPoolExecutor(max_workers=self.config.max_workers) as executor:
+            #with ProcessPoolExecutor(max_workers=self.config.max_workers) as executor:
+            # Use ThreadPoolExecutor instead of ProcessPoolExecutor to avoid pickle issues
+            with ThreadPoolExecutor(max_workers=self.config.max_workers) as executor:
                 # Submit all scraping tasks
                 future_to_scraper = {
                     executor.submit(self.run_scraper_with_retry, func): func.__name__
