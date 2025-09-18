@@ -11,8 +11,9 @@ praw==7.7.1                   # Python Reddit API Wrapper - official Reddit API 
 feedparser==6.0.10            # Parse RSS feeds from government sources
 
 # Data processing and storage
-pandas==2.0.3                 # Data manipulation and analysis
-numpy==1.24.3                 # Numerical operations
+pandas==2.2.2                 # Data manipulation and analysis
+numpy==2.0.2                 # Numerical operations
+
 
 # Web scraping utilities
 selenium==4.15.0              # Browser automation for complex sites (backup option)
@@ -39,8 +40,11 @@ requests-cache==1.1.1         # Cache HTTP requests to avoid re-scraping
 urllib3==2.0.7                # HTTP client utilities
 
 # Parallel processing
-concurrent-futures==3.1.1     # Parallel execution support
+#concurrent-futures==3.1.1     # Parallel execution support
 multiprocessing-logging==0.3.4 # Safe logging in multiprocess environment
 
 # Data validation
 jsonschema==4.19.2            # Validate scraped data structure
+
+
+cryptography==46.0.1        # Security for web requests
