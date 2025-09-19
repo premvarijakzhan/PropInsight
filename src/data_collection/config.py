@@ -280,6 +280,66 @@ class ConfigManager:
                         ],
                         "sentiment_analysis": True
                     }
+                },
+                
+                "renotalk": {
+                    "name": "renotalk",
+                    "enabled": True,
+                    "max_workers": 1,
+                    "rate_limit_delay": 2.5,
+                    "max_retries": 3,
+                    "timeout": 30,
+                    "max_items": 3000,
+                    "date_range_days": 730,
+                    "custom_settings": {
+                        "forum_sections": ["property", "renovation", "interior"],
+                        "keywords": [
+                            "property", "renovation", "interior", "design",
+                            "contractor", "cost", "budget", "experience"
+                        ],
+                        "sentiment_analysis": True
+                    }
+                },
+                
+                "edgeprop_srx": {
+                    "name": "edgeprop_srx",
+                    "enabled": True,
+                    "max_workers": 1,
+                    "rate_limit_delay": 2.0,
+                    "max_retries": 3,
+                    "timeout": 30,
+                    "max_items": 2000,
+                    "date_range_days": 365,
+                    "proxy_enabled": True,
+                    "custom_settings": {
+                        "sites": ["edgeprop", "srx"],
+                        "property_types": ["residential", "commercial"],
+                        "keywords": [
+                            "property", "market", "price", "trend", "analysis",
+                            "investment", "rental", "yield", "transaction"
+                        ]
+                    }
+                },
+                
+                "99co": {
+                    "name": "99co",
+                    "enabled": True,
+                    "max_workers": 1,
+                    "rate_limit_delay": 2.0,
+                    "max_retries": 3,
+                    "timeout": 30,
+                    "max_items": 2000,
+                    "date_range_days": 365,
+                    "proxy_enabled": True,
+                    "custom_settings": {
+                        "property_types": ["hdb", "condo", "landed"],
+                        "regions": ["all"],
+                        "keywords": [
+                            "property", "review", "rating", "experience",
+                            "agent", "developer", "location", "amenities"
+                        ],
+                        "sentiment_analysis": True
+                    }
                 }
             },
             

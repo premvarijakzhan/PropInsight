@@ -39,6 +39,9 @@ from reddit.reddit_scraper import RedditScraper
 from government.government_scraper import GovernmentScraper
 from propertyguru.propertyguru_scraper import PropertyGuruScraper
 from hardwarezone.hardwarezone_scraper import HardwareZoneScraper
+from renotalk.renotalk_scraper import RenotalkScraper
+from edgeprop_srx.edgeprop_srx_scraper import EdgePropSRXScraper
+from ninety_nine_co.ninety_nine_co_scraper import NinetyNineCoScraper
 
 # Setup logging
 logging.basicConfig(
@@ -59,6 +62,9 @@ class ScrapingConfig:
     government_target: int = 1000
     propertyguru_target: int = 5000
     hardwarezone_target: int = 5000
+    renotalk_target: int = 3000
+    edgeprop_srx_target: int = 2000
+    ninety_nine_co_target: int = 2000
     
     # Parallel execution settings
     max_workers: int = 4
@@ -98,7 +104,10 @@ class ProgressMonitor:
             'reddit': {'collected': 0, 'target': config.reddit_target, 'status': 'pending'},
             'government': {'collected': 0, 'target': config.government_target, 'status': 'pending'},
             'propertyguru': {'collected': 0, 'target': config.propertyguru_target, 'status': 'pending'},
-            'hardwarezone': {'collected': 0, 'target': config.hardwarezone_target, 'status': 'pending'}
+            'hardwarezone': {'collected': 0, 'target': config.hardwarezone_target, 'status': 'pending'},
+            'renotalk': {'collected': 0, 'target': config.renotalk_target, 'status': 'pending'},
+            'edgeprop_srx': {'collected': 0, 'target': config.edgeprop_srx_target, 'status': 'pending'},
+            '99co': {'collected': 0, 'target': config.ninety_nine_co_target, 'status': 'pending'}
         }
         self.start_time = datetime.now()
         self.lock = threading.Lock()
@@ -334,6 +343,147 @@ def run_hardwarezone_scraper(config: ScrapingConfig, progress_monitor: ProgressM
             error_message=str(e)
         )
 
+def run_renotalk_scraper(config: ScrapingConfig, progress_monitor: ProgressMonitor) -> ScrapingResult:
+    """
+    Run Renotalk forum scraper
+    
+    Reasoning: Renotalk is a popular Singapore property forum with valuable discussions.
+    Forum scraping requires careful rate limiting and session management.
+    """
+    start_time = time.time()
+    
+    try:
+        logger.info("Starting Renotalk scraper...")
+        progress_monitor.update_progress('renotalk', 0, 'running')
+        
+        # Initialize Renotalk scraper
+        output_dir = os.path.join(config.base_output_dir, 'renotalk')
+        scraper = RenotalkScraper(output_dir=output_dir)
+        
+        # Run scraping
+        stats = scraper.run_full_scrape()
+        
+        execution_time = time.time() - start_time
+        samples_collected = stats.get('total_posts', 0)
+        
+        progress_monitor.update_progress('renotalk', samples_collected, 'completed')
+        
+        return ScrapingResult(
+            source='renotalk',
+            success=True,
+            samples_collected=samples_collected,
+            execution_time=execution_time,
+            statistics=stats,
+            output_files=[f"{output_dir}/renotalk_combined_{datetime.now().strftime('%Y%m%d')}.json"]
+        )
+        
+    except Exception as e:
+        execution_time = time.time() - start_time
+        progress_monitor.update_progress('renotalk', 0, 'failed')
+        
+        logger.error(f"Renotalk scraper failed: {e}")
+        return ScrapingResult(
+            source='renotalk',
+            success=False,
+            samples_collected=0,
+            execution_time=execution_time,
+            error_message=str(e)
+        )
+
+def run_edgeprop_srx_scraper(config: ScrapingConfig, progress_monitor: ProgressMonitor) -> ScrapingResult:
+    """
+    Run EdgeProp and SRX property scraper
+    
+    Reasoning: EdgeProp and SRX are major property platforms in Singapore.
+    They provide valuable property market insights and discussions.
+    """
+    start_time = time.time()
+    
+    try:
+        logger.info("Starting EdgeProp/SRX scraper...")
+        progress_monitor.update_progress('edgeprop_srx', 0, 'running')
+        
+        # Initialize EdgeProp/SRX scraper
+        output_dir = os.path.join(config.base_output_dir, 'edgeprop_srx')
+        scraper = EdgePropSRXScraper(output_dir=output_dir)
+        
+        # Run scraping
+        stats = scraper.run_full_scrape()
+        
+        execution_time = time.time() - start_time
+        samples_collected = stats.get('total_articles', 0)
+        
+        progress_monitor.update_progress('edgeprop_srx', samples_collected, 'completed')
+        
+        return ScrapingResult(
+            source='edgeprop_srx',
+            success=True,
+            samples_collected=samples_collected,
+            execution_time=execution_time,
+            statistics=stats,
+            output_files=[f"{output_dir}/edgeprop_srx_combined_{datetime.now().strftime('%Y%m%d')}.json"]
+        )
+        
+    except Exception as e:
+        execution_time = time.time() - start_time
+        progress_monitor.update_progress('edgeprop_srx', 0, 'failed')
+        
+        logger.error(f"EdgeProp/SRX scraper failed: {e}")
+        return ScrapingResult(
+            source='edgeprop_srx',
+            success=False,
+            samples_collected=0,
+            execution_time=execution_time,
+            error_message=str(e)
+        )
+
+def run_99co_scraper(config: ScrapingConfig, progress_monitor: ProgressMonitor) -> ScrapingResult:
+    """
+    Run 99.co property platform scraper
+    
+    Reasoning: 99.co is a major property platform with valuable market data,
+    reviews, and property discussions from Singapore users.
+    """
+    start_time = time.time()
+    
+    try:
+        logger.info("Starting 99.co scraper...")
+        progress_monitor.update_progress('99co', 0, 'running')
+        
+        # Initialize 99.co scraper
+        output_dir = os.path.join(config.base_output_dir, '99co')
+        scraper = NinetyNineCoScraper(output_dir=output_dir)
+        
+        # Run scraping
+        stats = scraper.run_full_scrape()
+        
+        execution_time = time.time() - start_time
+        samples_collected = stats.get('total_reviews', 0)
+        
+        progress_monitor.update_progress('99co', samples_collected, 'completed')
+        
+        return ScrapingResult(
+            source='99co',
+            success=True,
+            samples_collected=samples_collected,
+            execution_time=execution_time,
+            statistics=stats,
+            output_files=[f"{output_dir}/99co_combined_{datetime.now().strftime('%Y%m%d')}.json"]
+        )
+        
+    except Exception as e:
+        execution_time = time.time() - start_time
+        progress_monitor.update_progress('99co', 0, 'failed')
+        
+        logger.error(f"99.co scraper failed: {e}")
+        return ScrapingResult(
+            source='99co',
+            success=False,
+            samples_collected=0,
+            execution_time=execution_time,
+            error_message=str(e)
+        )
+
 class PropInsightController:
     """
     Master controller for PropInsight data collection
@@ -426,7 +576,10 @@ class PropInsightController:
            # run_reddit_scraper,
             run_government_scraper,
             run_propertyguru_scraper,
-            run_hardwarezone_scraper
+            run_hardwarezone_scraper,
+            run_renotalk_scraper,
+            run_edgeprop_srx_scraper,
+            run_99co_scraper
         ]
         
         results = {}

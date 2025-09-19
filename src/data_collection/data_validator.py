@@ -51,7 +51,7 @@ class DataValidator:
             'metadata', 'sentiment', 'rating', 'location', 'quality_score', 'processing_flags'
         }
         
-        self.valid_sources = {'reddit', 'government', 'propertyguru', 'hardwarezone'}
+        self.valid_sources = {'reddit', 'government', 'propertyguru', 'hardwarezone', 'renotalk', 'edgeprop_srx', '99co'}
         self.valid_sentiments = {'positive', 'negative', 'neutral'}
         self.valid_rating_methods = {'explicit', 'sentiment', 'keyword', 'hybrid'}
         self.valid_confidences = {'high', 'medium', 'low'}
