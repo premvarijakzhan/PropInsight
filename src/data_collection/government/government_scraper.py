@@ -24,7 +24,7 @@ import time
 import logging
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional
-from dataclasses import dataclass
+from dataclasses import dataclass, asdict
 import re
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -69,28 +69,37 @@ class GovernmentScraper:
         # These are the primary sources for Singapore property policy updates
         self.sources = {
             'MND': {
-                'rss_feeds': [
-                    'https://www.mnd.gov.sg/rss/press-releases',
-                    'https://www.mnd.gov.sg/rss/news-and-publications'
-                ],
+                'name': 'Ministry of National Development',
+                'rss_url': None,  # No RSS feed available
                 'base_url': 'https://www.mnd.gov.sg',
-                'name': 'Ministry of National Development'
+                'news_url': 'https://www.mnd.gov.sg/newsroom/press-releases',
+                'scrape_method': 'html'
             },
             'HDB': {
-                'rss_feeds': [
-                    'https://www.hdb.gov.sg/cs/infoweb/rss/press-releases',
-                    'https://www.hdb.gov.sg/cs/infoweb/rss/news'
-                ],
+                'name': 'Housing & Development Board',
+                'rss_url': None,  # No RSS feed available
                 'base_url': 'https://www.hdb.gov.sg',
-                'name': 'Housing & Development Board'
+                'news_url': 'https://www.hdb.gov.sg/about-us/news-and-publications/press-releases',
+                'scrape_method': 'html'
             },
             'URA': {
-                'rss_feeds': [
-                    'https://www.ura.gov.sg/Corporate/Media/Media-Room/rss/press-releases',
-                    'https://www.ura.gov.sg/Corporate/Data/rss/property-market-updates'
-                ],
+                'name': 'Urban Redevelopment Authority',
+                'rss_url': None,  # No RSS feed available
                 'base_url': 'https://www.ura.gov.sg',
-                'name': 'Urban Redevelopment Authority'
+                'news_url': 'https://www.ura.gov.sg/Corporate/Media/Media-Room/Media-Releases',
+                'scrape_method': 'html'
+            },
+            'NEA': {
+                'name': 'National Environment Agency',
+                'rss_url': 'https://www.nea.gov.sg/rss/news-releases.xml',
+                'base_url': 'https://www.nea.gov.sg',
+                'scrape_method': 'rss'
+            },
+            'SFA': {
+                'name': 'Singapore Food Agency',
+                'rss_url': 'https://www.sfa.gov.sg/docs/default-source/default-document-library/rss-feeds/news-releases.xml',
+                'base_url': 'https://www.sfa.gov.sg',
+                'scrape_method': 'rss'
             }
         }
         
@@ -135,6 +144,16 @@ class GovernmentScraper:
             'Accept-Encoding': 'gzip, deflate',
             'Connection': 'keep-alive'
         })
+        
+        # Update sources with base URLs for HTML scraping
+        for agency in self.sources:
+            if self.sources[agency]['scrape_method'] == 'html':
+                if agency == 'MND':
+                    self.sources[agency]['base_url'] = 'https://www.mnd.gov.sg'
+                elif agency == 'HDB':
+                    self.sources[agency]['base_url'] = 'https://www.hdb.gov.sg'
+                elif agency == 'URA':
+                    self.sources[agency]['base_url'] = 'https://www.ura.gov.sg'
     
     def is_property_related(self, text: str) -> bool:
         """
@@ -401,14 +420,128 @@ class GovernmentScraper:
         
         logger.info(f"Saved {len(articles)} articles to {output_path}")
     
+    def scrape_html_news_page(self, news_url: str, agency: str) -> List[Dict]:
+        """
+        Scrape news articles from HTML pages for agencies without RSS feeds
+        
+        Args:
+            news_url: News page URL
+            agency: Government agency name
+            
+        Returns:
+            List of article dictionaries
+        """
+        articles = []
+        
+        try:
+            logger.info(f"Scraping HTML news page: {news_url}")
+            
+            # Fetch news page with timeout and error handling
+            response = self.session.get(news_url, timeout=30)
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Agency-specific selectors for news articles
+            selectors = {
+                'MND': {
+                    'container': '.press-release-item, .news-item',
+                    'title': 'h3, h4, .title',
+                    'date': '.date, .published-date',
+                    'link': 'a'
+                },
+                'HDB': {
+                    'container': '.press-release-item, .news-item, .content-item',
+                    'title': 'h3, h4, .title',
+                    'date': '.date, .published-date',
+                    'link': 'a'
+                },
+                'URA': {
+                    'container': '.media-release-item, .news-item',
+                    'title': 'h3, h4, .title',
+                    'date': '.date, .published-date',
+                    'link': 'a'
+                }
+            }
+            
+            selector = selectors.get(agency, selectors['MND'])
+            
+            # Find all news items
+            news_items = soup.select(selector['container'])
+            
+            for item in news_items[:20]:  # Limit to recent 20 articles
+                try:
+                    # Extract title
+                    title_elem = item.select_one(selector['title'])
+                    if not title_elem:
+                        continue
+                    title = title_elem.get_text(strip=True)
+                    
+                    # Extract link
+                    link_elem = item.select_one(selector['link'])
+                    if not link_elem:
+                        continue
+                    
+                    article_url = link_elem.get('href', '')
+                    if article_url.startswith('/'):
+                        article_url = urljoin(self.sources[agency]['base_url'], article_url)
+                    
+                    # Extract date (try multiple formats)
+                    date_elem = item.select_one(selector['date'])
+                    published_date = datetime.now()  # Default to now if date not found
+                    
+                    if date_elem:
+                        date_text = date_elem.get_text(strip=True)
+                        # Try to parse various date formats
+                        for fmt in ['%d %b %Y', '%d %B %Y', '%Y-%m-%d', '%d/%m/%Y']:
+                            try:
+                                published_date = datetime.strptime(date_text, fmt)
+                                break
+                            except ValueError:
+                                continue
+                    
+                    # Check if within date range
+                    if not self.is_within_date_range(published_date):
+                        continue
+                    
+                    # Check if property-related
+                    if not self.is_property_related(title):
+                        continue
+                    
+                    # Create article dictionary
+                    article = {
+                        'id': f"{agency}_{hash(article_url)}",
+                        'title': title,
+                        'url': article_url,
+                        'published_date': published_date,
+                        'agency': agency,
+                        'summary': title,  # Use title as summary initially
+                        'content': '',  # Will be filled by full content scraping
+                        'category': 'press-release',
+                        'tags': []
+                    }
+                    
+                    articles.append(article)
+                    
+                except Exception as e:
+                    logger.warning(f"Error processing news item: {e}")
+                    continue
+            
+            logger.info(f"Found {len(articles)} property-related articles from {agency}")
+            
+        except Exception as e:
+            logger.error(f"Error scraping HTML news page {news_url}: {e}")
+        
+        return articles
+
     def run_full_scrape(self) -> Dict[str, int]:
         """
-        Run complete government RSS scraping process
+        Run complete government scraping process (RSS + HTML)
         
         Returns:
             Dictionary with scraping statistics
         """
-        logger.info("Starting Government RSS scraping for PropInsight dataset")
+        logger.info("Starting Government scraping for PropInsight dataset")
         
         all_articles = []
         stats = {
@@ -416,8 +549,10 @@ class GovernmentScraper:
             'mnd_articles': 0,
             'hdb_articles': 0,
             'ura_articles': 0,
+            'nea_articles': 0,
+            'sfa_articles': 0,
             'total_words': 0,
-            'failed_feeds': 0
+            'failed_sources': 0
         }
         
         for agency, config in self.sources.items():
@@ -425,16 +560,21 @@ class GovernmentScraper:
             
             agency_articles = []
             
-            # Process each RSS feed for the agency
-            for rss_url in config['rss_feeds']:
-                try:
-                    articles = self.parse_rss_feed(rss_url, agency)
+            try:
+                if config['scrape_method'] == 'rss' and config['rss_url']:
+                    # Use RSS feed
+                    articles = self.parse_rss_feed(config['rss_url'], agency)
                     agency_articles.extend(articles)
-                    time.sleep(1)  # Rate limiting between feeds
-                    
-                except Exception as e:
-                    logger.error(f"Failed to process RSS feed {rss_url}: {e}")
-                    stats['failed_feeds'] += 1
+                elif config['scrape_method'] == 'html' and config['news_url']:
+                    # Use HTML scraping
+                    articles = self.scrape_html_news_page(config['news_url'], agency)
+                    agency_articles.extend(articles)
+                
+                time.sleep(2)  # Rate limiting between agencies
+                
+            except Exception as e:
+                logger.error(f"Failed to process {agency}: {e}")
+                stats['failed_sources'] += 1
             
             # Remove duplicates based on article ID/URL
             unique_articles = {}

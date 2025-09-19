@@ -134,18 +134,29 @@ class PropertyGuruScraper:
         self.driver = None
     
     def setup_session(self):
-        """Setup requests session with anti-bot headers"""
+        """Setup requests session with enhanced anti-bot headers"""
         self.session.headers.update({
             'User-Agent': random.choice(self.user_agents),
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Accept-Encoding': 'gzip, deflate',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+            'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
             'Upgrade-Insecure-Requests': '1',
             'Sec-Fetch-Dest': 'document',
             'Sec-Fetch-Mode': 'navigate',
             'Sec-Fetch-Site': 'none',
-            'Cache-Control': 'max-age=0'
+            'Sec-Fetch-User': '?1',
+            'Cache-Control': 'max-age=0',
+            'DNT': '1',
+            'Sec-CH-UA': '"Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"',
+            'Sec-CH-UA-Mobile': '?0',
+            'Sec-CH-UA-Platform': '"Windows"'
+        })
+        
+        # Set initial cookies to appear more legitimate
+        self.session.cookies.update({
+            'session_id': f'sess_{random.randint(100000, 999999)}',
+            'visitor_id': f'vis_{random.randint(100000, 999999)}'
         })
     
     def rotate_user_agent(self):
@@ -289,7 +300,16 @@ class PropertyGuruScraper:
                 # Rotate user agent for each page
                 self.rotate_user_agent()
                 
+                # Add referrer header to appear more legitimate
+                if page > 1:
+                    self.session.headers['Referer'] = f"{self.base_urls['reviews']}?page={page-1}"
+                else:
+                    self.session.headers['Referer'] = 'https://www.propertyguru.com.sg/'
+                
                 url = f"{self.base_urls['reviews']}?page={page}"
+                
+                # Add random delay between requests (1-3 seconds)
+                time.sleep(random.uniform(1.0, 3.0))
                 
                 try:
                     response = self.session.get(url, timeout=30)

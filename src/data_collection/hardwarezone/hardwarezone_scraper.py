@@ -140,16 +140,31 @@ class HardwareZoneScraper:
         self.driver = None
     
     def setup_session(self):
-        """Setup requests session with proper headers"""
+        """Setup requests session with enhanced anti-bot headers"""
         self.session.headers.update({
             'User-Agent': random.choice(self.user_agents),
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Accept-Encoding': 'gzip, deflate',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+            'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
             'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'same-origin',
+            'Sec-Fetch-User': '?1',
             'Referer': 'https://forums.hardwarezone.com.sg/',
-            'Cache-Control': 'max-age=0'
+            'Cache-Control': 'max-age=0',
+            'DNT': '1',
+            'Sec-CH-UA': '"Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"',
+            'Sec-CH-UA-Mobile': '?0',
+            'Sec-CH-UA-Platform': '"Windows"'
+        })
+        
+        # Set session cookies to appear more legitimate
+        self.session.cookies.update({
+            'hwz_session': f'hwz_{random.randint(100000, 999999)}',
+            'visitor_id': f'vis_{random.randint(100000, 999999)}',
+            'timezone': 'Asia/Singapore'
         })
     
     def rotate_user_agent(self):
@@ -268,8 +283,16 @@ class HardwareZoneScraper:
             for page in range(1, max_pages + 1):
                 logger.info(f"Getting thread URLs for '{search_keyword}' - page {page}")
                 
+                # Rotate user agent and add delay
+                self.rotate_user_agent()
+                time.sleep(random.uniform(2.0, 4.0))  # Random delay between requests
+                
                 # Add page parameter
                 page_url = f"{search_url}&page={page}"
+                
+                # Update referrer for subsequent pages
+                if page > 1:
+                    self.session.headers['Referer'] = f"{search_url}&page={page-1}"
                 
                 try:
                     response = self.session.get(page_url, timeout=30)

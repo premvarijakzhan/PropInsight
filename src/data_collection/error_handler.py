@@ -222,23 +222,51 @@ class ErrorHandler:
     
     def categorize_error(self, error: Exception) -> ErrorCategory:
         """
-        Categorize error based on error message and type
+        Categorize error for appropriate handling strategy
         
         Args:
             error: Exception to categorize
             
         Returns:
-            ErrorCategory enum value
+            Error category
         """
-        error_msg = str(error).lower()
+        error_str = str(error).lower()
         error_type = type(error).__name__.lower()
         
-        for category, patterns in self.error_patterns.items():
-            for pattern in patterns:
-                if pattern in error_msg or pattern in error_type:
-                    return category
+        # Network-related errors
+        if any(keyword in error_str for keyword in ['timeout', 'connection', 'network', 'dns', 'ssl', 'certificate']):
+            return ErrorCategory.NETWORK
+        elif any(keyword in error_type for keyword in ['connectionerror', 'timeout', 'sslerror']):
+            return ErrorCategory.NETWORK
         
-        return ErrorCategory.UNKNOWN
+        # Rate limiting errors
+        elif any(keyword in error_str for keyword in ['rate limit', '429', 'too many requests', 'quota exceeded']):
+            return ErrorCategory.RATE_LIMIT
+        elif '429' in str(getattr(error, 'response', {}).get('status_code', '')):
+            return ErrorCategory.RATE_LIMIT
+        
+        # Authentication/Authorization errors
+        elif any(keyword in error_str for keyword in ['401', '403', 'unauthorized', 'forbidden', 'authentication']):
+            return ErrorCategory.AUTHENTICATION
+        elif any(code in str(getattr(error, 'response', {}).get('status_code', '')) for code in ['401', '403']):
+            return ErrorCategory.AUTHENTICATION
+        
+        # Parsing errors
+        elif any(keyword in error_str for keyword in ['parse', 'json', 'xml', 'html', 'decode', 'encoding']):
+            return ErrorCategory.PARSING
+        elif any(keyword in error_type for keyword in ['jsondecodeerror', 'parseerror', 'unicodeerror']):
+            return ErrorCategory.PARSING
+        
+        # Validation errors
+        elif any(keyword in error_str for keyword in ['validation', 'schema', 'format', 'invalid']):
+            return ErrorCategory.VALIDATION
+        
+        # Resource errors
+        elif any(keyword in error_str for keyword in ['memory', 'disk', 'resource', 'space']):
+            return ErrorCategory.RESOURCE
+        
+        else:
+            return ErrorCategory.UNKNOWN
     
     def determine_severity(self, error: Exception, context: ErrorContext) -> ErrorSeverity:
         """
@@ -393,18 +421,33 @@ def retry_with_backoff(
                 except config.retry_on_exceptions as e:
                     last_exception = e
                     
+                    # Categorize error for appropriate handling
+                    category = error_handler.categorize_error(e)
+                    
                     # Log the error
                     context = ErrorContext(
                         scraper_name=getattr(func, '__module__', 'unknown'),
                         function_name=func.__name__,
-                        attempt_number=attempt
+                        attempt_number=attempt,
+                        additional_info={'error_category': category.value}
                     )
                     error_handler.log_error(e, context)
                     
                     # Don't sleep on the last attempt
                     if attempt < config.max_attempts:
+                        # Calculate delay based on error category
+                        base_delay = config.base_delay
+                        
+                        # Adjust delay based on error type
+                        if category == ErrorCategory.RATE_LIMIT:
+                            base_delay *= 3  # Longer delays for rate limits
+                        elif category == ErrorCategory.NETWORK:
+                            base_delay *= 2  # Moderate delays for network issues
+                        elif category == ErrorCategory.AUTHENTICATION:
+                            base_delay *= 1.5  # Slightly longer for auth issues
+                        
                         delay = min(
-                            config.base_delay * (config.exponential_base ** (attempt - 1)),
+                            base_delay * (config.exponential_base ** (attempt - 1)),
                             config.max_delay
                         )
                         
@@ -413,6 +456,9 @@ def retry_with_backoff(
                             import random
                             delay *= (0.5 + random.random() * 0.5)
                         
+                        error_handler.logger.info(
+                            f"Retrying {func.__name__} in {delay:.2f}s (attempt {attempt}/{config.max_attempts})"
+                        )
                         time.sleep(delay)
             
             # All attempts failed
