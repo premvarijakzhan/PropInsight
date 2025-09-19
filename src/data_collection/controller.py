@@ -423,7 +423,7 @@ class PropInsightController:
         
         # Define scraper functions
         scraper_functions = [
-            run_reddit_scraper,
+           # run_reddit_scraper,
             run_government_scraper,
             run_propertyguru_scraper,
             run_hardwarezone_scraper

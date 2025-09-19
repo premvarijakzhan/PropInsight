@@ -80,14 +80,27 @@ class HardwareZoneScraper:
         self.base_url = 'https://forums.hardwarezone.com.sg'
         self.edmw_url = f'{self.base_url}/forums/eat-drink-man-woman.16/'
         
-        # Search URLs for property-related threads
+        # HardwareZone search URLs for property-related discussions
+        # Enhanced to target HomeSeekers forum (node 74) specifically
         self.search_urls = {
-            'property': f'{self.base_url}/search/search?keywords=property&c[child_nodes]=1&c[nodes][0]=16&o=date',
-            'bto': f'{self.base_url}/search/search?keywords=BTO&c[child_nodes]=1&c[nodes][0]=16&o=date',
-            'hdb': f'{self.base_url}/search/search?keywords=HDB&c[child_nodes]=1&c[nodes][0]=16&o=date',
-            'condo': f'{self.base_url}/search/search?keywords=condo&c[child_nodes]=1&c[nodes][0]=16&o=date',
-            'resale': f'{self.base_url}/search/search?keywords=resale+flat&c[child_nodes]=1&c[nodes][0]=16&o=date'
+            'property': 'https://forums.hardwarezone.com.sg/search/search?keywords=property&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'bto': 'https://forums.hardwarezone.com.sg/search/search?keywords=BTO&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'hdb': 'https://forums.hardwarezone.com.sg/search/search?keywords=HDB&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'condo': 'https://forums.hardwarezone.com.sg/search/search?keywords=condo&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'resale': 'https://forums.hardwarezone.com.sg/search/search?keywords=resale&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'rental': 'https://forums.hardwarezone.com.sg/search/search?keywords=rental&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'mortgage': 'https://forums.hardwarezone.com.sg/search/search?keywords=mortgage&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'investment': 'https://forums.hardwarezone.com.sg/search/search?keywords=investment&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'ec': 'https://forums.hardwarezone.com.sg/search/search?keywords=EC&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date',
+            'landed': 'https://forums.hardwarezone.com.sg/search/search?keywords=landed&c%5Bchild_nodes%5D=1&c%5Bnodes%5D%5B0%5D=74&o=date'
         }
+        
+        # Direct HomeSeekers forum URLs for comprehensive scraping
+        self.homeseeker_urls = [
+            'https://forums.hardwarezone.com.sg/forums/homeseekers-and-homemakers.74/',
+            'https://forums.hardwarezone.com.sg/forums/homeseekers-and-homemakers.74/page-2',
+            'https://forums.hardwarezone.com.sg/forums/homeseekers-and-homemakers.74/page-3'
+        ]
         
         # User agents for rotation
         self.user_agents = [
@@ -491,30 +504,30 @@ class HardwareZoneScraper:
         for keyword in self.search_urls.keys():
             logger.info(f"Processing keyword: {keyword}")
             
-            # Get thread URLs for this keyword
-            thread_urls = self.get_thread_urls(keyword, max_pages=5)
+            # Get thread URLs for this keyword (increased pages for more coverage)
+            thread_urls = self.get_thread_urls(keyword, max_pages=10)
             logger.info(f"Found {len(thread_urls)} threads for keyword '{keyword}'")
             
             keyword_posts = []
             
-            # Scrape posts from each thread
-            for thread_url in thread_urls[:20]:  # Limit threads per keyword
+            # Scrape posts from each thread (increased thread limit)
+            for thread_url in thread_urls[:50]:  # Increased from 20 to 50 threads per keyword
                 try:
-                    posts = self.scrape_thread_posts(thread_url, max_posts=30)
+                    posts = self.scrape_thread_posts(thread_url, max_posts=50)  # Increased from 30 to 50 posts per thread
                     keyword_posts.extend(posts)
                     
                     if posts:
                         stats['threads_scraped'] += 1
                     
                     # Rate limiting between threads
-                    time.sleep(random.uniform(3, 7))
+                    time.sleep(random.uniform(2, 4))  # Reduced delay for faster scraping
                     
                 except Exception as e:
                     logger.error(f"Error processing thread {thread_url}: {e}")
                     continue
                 
-                # Stop if we have enough posts for this keyword
-                if len(keyword_posts) >= 1000:
+                # Stop if we have enough posts for this keyword (increased target)
+                if len(keyword_posts) >= 1500:  # Increased from 1000 to 1500 per keyword
                     break
             
             all_posts.extend(keyword_posts)

@@ -10,7 +10,7 @@ Challenges addressed:
 3. Dynamic content loading (handling JavaScript-rendered content)
 4. Rate limiting (respectful scraping with delays)
 
-Target: 4,000 samples from PropertyGuru reviews and discussions
+Target: 5,000 samples from PropertyGuru reviews, discussions, and investment Q&A
 Time Range: September 2023 - September 2025 (24 months)
 """
 
@@ -52,7 +52,7 @@ class PropertyGuruReview:
     property_type: str
     location: str
     url: str
-    review_type: str  # 'property_review', 'forum_post', 'project_comment'
+    review_type: str  # 'property_review', 'forum_post', 'project_comment', 'investment_qa'
     
 class PropertyGuruScraper:
     """
@@ -81,6 +81,7 @@ class PropertyGuruScraper:
             'reviews': 'https://www.propertyguru.com.sg/property-reviews',
             'forum': 'https://www.propertyguru.com.sg/property-talk',
             'projects': 'https://www.propertyguru.com.sg/new-project-reviews',
+            'investment_qa': 'https://www.propertyguru.com.sg/property-investment-questions',
             'search': 'https://www.propertyguru.com.sg/property-for-sale'
         }
         
@@ -498,6 +499,142 @@ class PropertyGuruScraper:
         
         return discussions
     
+    def scrape_investment_qa(self, max_pages: int = 20) -> List[PropertyGuruReview]:
+        """
+        Scrape PropertyGuru investment Q&A section
+        
+        Args:
+            max_pages: Maximum number of pages to scrape
+            
+        Returns:
+            List of PropertyGuruReview objects from Q&A discussions
+        """
+        logger.info(f"Scraping PropertyGuru investment Q&A (max {max_pages} pages)")
+        
+        qa_posts = []
+        base_url = self.base_urls['investment_qa']
+        
+        for page in range(1, max_pages + 1):
+            try:
+                # Construct page URL
+                if page == 1:
+                    url = base_url
+                else:
+                    url = f"{base_url}?page={page}"
+                
+                logger.info(f"Scraping Q&A page {page}: {url}")
+                
+                # Get page content
+                response = self.session.get(url, timeout=30)
+                response.raise_for_status()
+                
+                soup = BeautifulSoup(response.content, 'html.parser')
+                
+                # Find Q&A items (adjust selectors based on actual page structure)
+                qa_items = soup.find_all(['div', 'article'], class_=re.compile(r'question|qa|discussion|post'))
+                
+                if not qa_items:
+                    # Try alternative selectors
+                    qa_items = soup.find_all('div', attrs={'data-testid': re.compile(r'question|qa')})
+                    
+                if not qa_items:
+                    # Generic fallback
+                    qa_items = soup.find_all('div', class_=re.compile(r'card|item|entry'))
+                
+                if not qa_items:
+                    logger.warning(f"No Q&A items found on page {page}")
+                    continue
+                
+                page_posts = 0
+                for item in qa_items:
+                    try:
+                        # Extract question title
+                        title_elem = item.find(['h1', 'h2', 'h3', 'h4'], class_=re.compile(r'title|question|heading'))
+                        if not title_elem:
+                            title_elem = item.find('a', class_=re.compile(r'title|question|link'))
+                        
+                        if not title_elem:
+                            continue
+                            
+                        title = title_elem.get_text(strip=True)
+                        
+                        # Extract content/description
+                        content_elem = item.find(['div', 'p'], class_=re.compile(r'content|description|body|text'))
+                        if not content_elem:
+                            content_elem = item.find('div', class_=re.compile(r'excerpt|summary'))
+                        
+                        content = content_elem.get_text(strip=True) if content_elem else title
+                        
+                        # Skip if content is too short or not property-related
+                        if len(content) < 50 or not self.is_property_related(content):
+                            continue
+                        
+                        # Extract author
+                        author_elem = item.find(['span', 'div'], class_=re.compile(r'author|user|by'))
+                        author = author_elem.get_text(strip=True) if author_elem else "Anonymous"
+                        
+                        # Extract date
+                        date_elem = item.find(['time', 'span', 'div'], class_=re.compile(r'date|time|posted'))
+                        if date_elem:
+                            date_str = date_elem.get('datetime') or date_elem.get_text(strip=True)
+                            posted_date = self.parse_date(date_str)
+                        else:
+                            posted_date = datetime.now()
+                        
+                        # Skip if outside date range
+                        if not (self.start_date <= posted_date <= self.end_date):
+                            continue
+                        
+                        # Extract URL
+                        link_elem = item.find('a', href=True)
+                        item_url = urljoin(base_url, link_elem['href']) if link_elem else url
+                        
+                        # Infer rating from content sentiment
+                        rating, confidence = self.infer_rating_from_text(content)
+                        
+                        # Create review object
+                        review = PropertyGuruReview(
+                            id=f"pg_qa_{hash(item_url)}_{int(posted_date.timestamp())}",
+                            title=title,
+                            content=content,
+                            rating=rating,
+                            rating_confidence=confidence,
+                            author=author,
+                            date_posted=posted_date,
+                            property_name="Investment Q&A",
+                            property_type="Investment Discussion",
+                            location="Singapore",
+                            url=item_url,
+                            review_type="investment_qa"
+                        )
+                        
+                        qa_posts.append(review)
+                        page_posts += 1
+                        
+                        # Rate limiting
+                        time.sleep(random.uniform(0.5, 1.5))
+                        
+                    except Exception as e:
+                        logger.warning(f"Error processing Q&A item: {e}")
+                        continue
+                
+                logger.info(f"Extracted {page_posts} Q&A posts from page {page}")
+                
+                # Break if no posts found (likely end of content)
+                if page_posts == 0:
+                    logger.info("No more Q&A posts found, stopping pagination")
+                    break
+                
+                # Rate limiting between pages
+                time.sleep(random.uniform(2, 4))
+                
+            except Exception as e:
+                logger.error(f"Error scraping Q&A page {page}: {e}")
+                continue
+        
+        logger.info(f"Total Q&A posts scraped: {len(qa_posts)}")
+        return qa_posts
+    
     def save_reviews_to_json(self, reviews: List[PropertyGuruReview], filename: str):
         """
         Save reviews to JSON file with proper formatting
@@ -548,6 +685,7 @@ class PropertyGuruScraper:
             'total_reviews': 0,
             'property_reviews': 0,
             'forum_posts': 0,
+            'investment_qa': 0,  # New category
             'explicit_ratings': 0,
             'inferred_ratings': 0,
             'no_ratings': 0,
@@ -578,6 +716,19 @@ class PropertyGuruScraper:
             self.save_reviews_to_json(
                 forum_posts, 
                 f'propertyguru_forum_{datetime.now().strftime("%Y%m%d")}.json'
+            )
+        
+        # Scrape investment Q&A
+        logger.info("Scraping investment Q&A...")
+        qa_posts = self.scrape_investment_qa(max_pages=20)
+        all_reviews.extend(qa_posts)
+        stats['investment_qa'] = len(qa_posts)
+        
+        # Save Q&A posts
+        if qa_posts:
+            self.save_reviews_to_json(
+                qa_posts, 
+                f'propertyguru_qa_{datetime.now().strftime("%Y%m%d")}.json'
             )
         
         # Calculate statistics

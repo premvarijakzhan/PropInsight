@@ -2,18 +2,19 @@
 PropInsight Government RSS Scraper
 
 This module scrapes property-related announcements from Singapore government agencies:
-- Ministry of National Development (MND)
+- Ministry of National Development (MND) - Enhanced for comprehensive press releases
 - Housing & Development Board (HDB) 
 - Urban Redevelopment Authority (URA)
 
-We use RSS feeds because:
+We use RSS feeds and HTML scraping because:
 1. Official, structured data source
 2. Real-time updates on policy changes
 3. High-quality, authoritative content
 4. Consistent format across agencies
 
-Target: 2,000 samples from government sources
-Time Range: September 2023 - September 2025 (24 months)
+Target: 3,000 samples from government sources (increased from 2,000)
+Time Range: January 2022 - December 2025 (48 months - expanded coverage)
+Focus: Enhanced MND press release collection for comprehensive policy coverage
 """
 
 import feedparser
@@ -70,10 +71,15 @@ class GovernmentScraper:
         self.sources = {
             'MND': {
                 'name': 'Ministry of National Development',
-                'rss_url': None,  # No RSS feed available
+                'rss_url': 'https://www.mnd.gov.sg/rss/press-releases.xml',  # Enable RSS
                 'base_url': 'https://www.mnd.gov.sg',
                 'news_url': 'https://www.mnd.gov.sg/newsroom/press-releases',
-                'scrape_method': 'html'
+                'archive_urls': [
+                    'https://www.mnd.gov.sg/newsroom/press-releases?year=2024',
+                    'https://www.mnd.gov.sg/newsroom/press-releases?year=2023',
+                    'https://www.mnd.gov.sg/newsroom/press-releases?year=2022'
+                ],
+                'scrape_method': 'enhanced'  # Use both RSS and HTML for comprehensive coverage
             },
             'HDB': {
                 'name': 'Housing & Development Board',
@@ -131,9 +137,9 @@ class GovernmentScraper:
             'Toa Payoh', 'Ang Mo Kio', 'Bedok', 'Clementi', 'Pasir Ris'
         ]
         
-        # Date range: Last 24 months
-        self.start_date = datetime(2023, 9, 1)
-        self.end_date = datetime(2025, 9, 18)
+        # Date range for scraping (expanded for more comprehensive coverage)
+        self.start_date = datetime(2022, 1, 1)  # Extended back to 2022
+        self.end_date = datetime(2025, 12, 31)  # Extended to end of 2025
         
         # Setup session with proper headers
         self.session = requests.Session()
@@ -536,12 +542,12 @@ class GovernmentScraper:
 
     def run_full_scrape(self) -> Dict[str, int]:
         """
-        Run complete government scraping process (RSS + HTML)
+        Run complete government scraping process (RSS + HTML + Enhanced MND)
         
         Returns:
             Dictionary with scraping statistics
         """
-        logger.info("Starting Government scraping for PropInsight dataset")
+        logger.info("Starting Enhanced Government scraping for PropInsight dataset (Target: 3,000 samples)")
         
         all_articles = []
         stats = {
@@ -561,7 +567,32 @@ class GovernmentScraper:
             agency_articles = []
             
             try:
-                if config['scrape_method'] == 'rss' and config['rss_url']:
+                if config['scrape_method'] == 'enhanced' and agency == 'MND':
+                    # Enhanced MND scraping: RSS + HTML + Archives
+                    logger.info("Using enhanced MND scraping (RSS + HTML + Archives)")
+                    
+                    # 1. RSS Feed
+                    if config['rss_url']:
+                        rss_articles = self.parse_rss_feed(config['rss_url'], agency)
+                        agency_articles.extend(rss_articles)
+                        logger.info(f"Collected {len(rss_articles)} articles from MND RSS")
+                    
+                    # 2. Main news page
+                    if config['news_url']:
+                        html_articles = self.scrape_html_news_page(config['news_url'], agency)
+                        agency_articles.extend(html_articles)
+                        logger.info(f"Collected {len(html_articles)} articles from MND main page")
+                    
+                    # 3. Archive pages for historical data
+                    if 'archive_urls' in config:
+                        for archive_url in config['archive_urls']:
+                            logger.info(f"Scraping MND archive: {archive_url}")
+                            archive_articles = self.scrape_html_news_page(archive_url, agency)
+                            agency_articles.extend(archive_articles)
+                            logger.info(f"Collected {len(archive_articles)} articles from archive")
+                            time.sleep(3)  # Rate limiting between archive pages
+                    
+                elif config['scrape_method'] == 'rss' and config['rss_url']:
                     # Use RSS feed
                     articles = self.parse_rss_feed(config['rss_url'], agency)
                     agency_articles.extend(articles)
