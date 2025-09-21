@@ -1,0 +1,21 @@
+{
+  "total_articles": 32,
+  "avg_content_length": 2305.53125,
+  "date_range_coverage": {
+    "start": "2024-06-19T00:00:00",
+    "end": "2025-09-21T16:52:15.162924"
+  },
+  "source_breakdown": {
+    "press_release": 20,
+    "bto_information": 3,
+    "community_programs": 9
+  },
+  "policy_type_breakdown": {
+    "bto_launch": 15,
+    "rental_policy": 2,
+    "ec_development": 3,
+    "bto_process": 3,
+    "community_development": 9
+  },
+  "bto_related_count": 18
+}

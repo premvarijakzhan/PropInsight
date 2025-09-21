@@ -1,0 +1,1270 @@
+{
+  "scraping_metadata": {
+    "scraper_version": "1.0",
+    "scraping_date": "2025-09-21T16:52:16.168393",
+    "total_articles": 32,
+    "date_range": {
+      "start": "2023-01-01T00:00:00",
+      "end": "2025-12-31T00:00:00"
+    },
+    "sources_scraped": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "source_breakdown": {
+      "press_release": 20,
+      "bto_information": 3,
+      "community_programs": 9
+    },
+    "policy_type_breakdown": {
+      "bto_launch": 15,
+      "rental_policy": 2,
+      "ec_development": 3,
+      "bto_process": 3,
+      "community_development": 9
+    }
+  },
+  "articles": [
+    {
+      "id": "hdb_pr_20250921_4ab58393",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿Whampoa Park Bags HDB’s Inaugural Landscape Award21 Sep 2025A total of 36 projects will be conferred the HDB Awards, in recognition of their excellence in design, engineering, and construction in public housing. Among the winning projects is Whampoa Park, which will receive the first ever HDB Landscape Award.Read press releaseProvisional Tender Results for: (i) Mixed Commercial and Residential Development at Chencharu Close; and (ii) Executive Condominium Housing Development at Sembawang Road11 Sep 2025HDB, as the Government’s land sales agent, launched land parcels at Chencharu Close and Sembawang Road for tender on 26 September 2024 and 29 May 2025 respectively. The tenders have closed and HDB has announced details of the provisional tender results.Read press releaseHDB Issues Rated Fixed Rate Notes10 Sep 2025The Housing & Development Board (\"HDB\") has issued S$1 billion, 10-year Fixed Rate Notes (the “Notes”) under its S$42 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseSingapore’s First Polder at Pulau Tekong Adds 800 Hectares of Land08 Sep 2025Singapore has reclaimed about 800 hectares of land – the size of about two Toa Payoh towns – at the north-western tip of Pulau Tekong, with the completion of main construction works for Singapore’s first polder.Read press releaseHDB Unveils Masterplan for Mount Pleasant: A Rich Tapestry of Homes, Heritage and Nature02 Sep 2025HDB had earlier announced the conceptual development plans to transform Mount Pleasant into a distinctive new housing estate that interweaves modern new homes, conserved heritage buildings, and lush green spaces. Following further detailed planning studies, the 33-hectare site will yield about 6,000 new HDB flats across four projects, up from the previously announced 5,000 units. The increased supply will help to meet strong housing demand and offer Singaporeans more housing options. These plans are part of a broader strategy to enhance the geographical distribution of public housing and cater to the evolving aspirations and diverse needs of Singaporeans, including young families who wish to live near their parents for better mutual care and support.Read press releaseTemporary Road Closure along West Coast Highway for Construction of New Pedestrian Overhead Bridge27 Aug 2025A section of West Coast Highway, between the road junctions of West Coast Highway/ West Coast Link and West Coast Highway/ Pandan Crescent, will be temporarily closed to traffic in both directions from Tuesday 2 September 2025 to Friday 4 September 2025, from 11:00pm till 5:00am the next day.Read press releaseFinal Tender Results for the Two Executive Condominium Housing Development Sites at Senja Close and Woodlands Drive 1726 Aug 2025The Housing & Development Board (HDB), as the Government’s land sales agent, launched tenders for the",
+      "timestamp": "2025-09-21T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0921",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Sembawang",
+        "content_length": 2999,
+        "keywords": [
+          "launch",
+          "housing",
+          "flat",
+          "hdb",
+          "public housing",
+          "executive condominium",
+          "ec",
+          "sembawang",
+          "toa payoh",
+          "woodlands"
+        ],
+        "target_group": [
+          "families"
+        ],
+        "market_segment": [
+          "rental_market",
+          "ec_market",
+          "commercial_market"
+        ],
+        "grant_amount": 42,
+        "is_truncated": true,
+        "original_length": 4106
+      },
+      "content_length": 2999,
+      "word_count": 445,
+      "is_truncated": true,
+      "original_length": 4106,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250921_78169af3",
+      "source": "government_hdb",
+      "text": "Whampoa Park Bags HDB’s Inaugural Landscape AwardPublished Date: 21 Sep 2025Tampines GreenGem and Harmony Village @ Bukit Batok among those recognised for design and construction excellence at HDB Awards 2025A total of 36 projects will be conferred the HDB Awards, in recognition of their excellence in design, engineering, and construction in public housing. Additionally, three projects will be presented the Construction Resilience Recognition for demonstrating resilience in completing pandemic-delayed projects. Minister for National Development, Mr Chee Hong Tat will be giving out the awards to the teams behind the projects at this year’s HDB Awards ceremony on 23 September 2025. The full list of winners can be found in theAnnex.2Among the winning projects is Whampoa Park, which will receive the first ever HDB Landscape Award. Given to outstanding landscape projects in HDB towns, the new Landscape Award reflects HDB’s commitment to creating greener and more comfortable living environments for our residents while addressing challenges such as climate change.3HDB's Chief Executive Officer, Mr Tan Meng Dui said, \"The Landscape Award recognises the efforts of our industry partners in creating quality and sustainable living environments for Singaporeans. These winning landscape projects show how well-designed green spaces can enhance the health and well-being of our residents, while contributing to greater biodiversity and thermal comfort in our living environment. I congratulate all winners of the HDB Awards. Their achievements reflect the dedication of our industry partners in working alongside HDB to deliver excellence in design, engineering, and construction to meet Singaporeans’ housing needs.\"Whampoa Park: Designed with Residents, for Residents4Nestled between Whampoa Road and Sungei Whampoa, the 1.3-hectare Whampoa Park shows how thoughtful landscape design can transform an underutilised field into a vibrant and inclusive community space. Designed by AGA Architects Pte Ltd and Surbana Jurong Consultants Pte Ltd, the park seamlessly integrates new recreational spaces with the site’s natural features.Once an underutilised field, Whampoa Park is now a vibrant green heart for the neighbourhood. [Credit: HDB]5The park was shaped with inputs from 950 Whampoa residents, via online surveys and ideation workshops facilitated by community volunteers. One key outcome was Whampoa’s first pet park, where pet owners can take their pets for a run or simply to enjoy the open space. The park also features a lawn space to accommodate community activities such as picnics and movie screenings, as well as disc golf – a popular sport amongst residents.6Completed in 2023, the park offers several zones for active living, catering to different fitness levels and park users. Fitness enthusiasts can challenge themselves at the Ninja Challenge Course – an obstacle course-style fitness station, while others can work out at the more conventional fitness area featuring dedic",
+      "timestamp": "2025-09-21T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/whampoa-park-bags-hdbs-inaugural-landscape-award",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Whampoa Park Bags HDB’s Inaugural Landscape Award",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0921",
+        "category": "press_release",
+        "policy_type": "rental_policy",
+        "bto_related": false,
+        "location": "Bukit Batok",
+        "content_length": 3000,
+        "keywords": [
+          "housing",
+          "hdb",
+          "public housing",
+          "ec",
+          "bukit batok",
+          "tampines",
+          "development",
+          "construction"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "rental_market",
+          "ec_market"
+        ],
+        "is_truncated": true,
+        "original_length": 12052
+      },
+      "content_length": 3000,
+      "word_count": 441,
+      "is_truncated": true,
+      "original_length": 12052,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250911_24d1cbb6",
+      "source": "government_hdb",
+      "text": "Provisional Tender Results for: (i) Mixed Commercial and Residential Development at Chencharu Close; and (ii) Executive Condominium Housing Development at Sembawang RoadPublished Date: 11 Sep 2025The Housing & Development Board (HDB), as the Government’s land sales agent, launched land parcels atChencharu CloseandSembawang Roadfor tender on 26 September 2024 and 29 May 2025 respectively.2The details of the two land parcels are as follows:Proposed DevelopmentMixed Use Development comprising a Commercial and Residential Development integrated with a Bus Interchange and a Hawker CentreExecutive Condominium Housing DevelopmentLocationChencharu CloseSembawang RoadSite Area29,450.3 sq m18,967.2 sq mMaximum GFA96,008 sq m26,555 sq mMaximum Building Height61Singapore Height Datum (SHD)40 - 45mSingapore Height Datum (SHD)Estimated No. of Housing Units875*265*Lease Term99 years99 yearsProject Completion Period84 months from the date ofacceptance of tender60 months from the date of acceptance of tender*Actual number of housing units proposed by developer may vary3The tenders closed at 12pm today. The details of the provisional tender results are as shownbelow:(i)Chencharu CloseS/NName of TendererTender Price($)$psm/GFA($)1Evia MCS Pte. Ltd., Gamuda (Singapore) Pte. Ltd. and H108 Pte. Ltd.$1,012,588,989.89$10,546.922Phoenix Property 1 Pte. Ltd. and Phoenix Property 2 Pte. Ltd.$845,000,000$8,801.353Sim Lian Land Pte Ltd & Sim Lian Development Pte Ltd$692,400,000$7,211.90(ii)Sembawang RoadS/NName of TendererTender Price($)$psm/GFA($)1Oriental Pacific Development Pte. Ltd.$197,777,000$7,447.832TID Residential Pte. Ltd.$190,089,000$7,158.313ABR Holdings Limited, RP Ventures Pte. Ltd., Macly Capital Pte. Ltd., LWH Holdings Pte. Ltd.$168,168,168$6,332.833Sim Lian Land Pte Ltd & Sim Lian Development Pte Ltd$109,000,000$4,104.694A decision on the award of the tenders will be made after the bids have been evaluated. This will be published at a later date.",
+      "timestamp": "2025-09-11T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/provisional-tender-results-chencharu-close-and-sembawang-road",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Provisional Tender Results for: (i) Mixed Commercial and Residential Development at Chencharu Close; and (ii) Executive Condominium Housing Development at Sembawang Road",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0911",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Sembawang",
+        "content_length": 1968,
+        "keywords": [
+          "launch",
+          "housing",
+          "hdb",
+          "executive condominium",
+          "ec",
+          "sembawang",
+          "tender",
+          "development",
+          "completion"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "rental_market",
+          "ec_market",
+          "commercial_market"
+        ],
+        "grant_amount": 1012588989,
+        "is_truncated": false,
+        "original_length": 1968
+      },
+      "content_length": 1968,
+      "word_count": 247,
+      "is_truncated": false,
+      "original_length": 1968,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250910_3e7f673a",
+      "source": "government_hdb",
+      "text": "HDB Issues Rated Fixed Rate NotesPublished Date: 10 Sep 2025The Housing & Development Board (\"HDB\") has issued S$1 billion, 10-year Fixed Rate Notes (the “Notes”) under its S$42 billion Multicurrency Medium Term Note (\"MTN\") Programme.2The Notes have a coupon of 2.162% per annum payable semi-annually in arrear. The Notes were issued on 10 Sep 2025 and will mature on 10 Sep 2035. The Notes are rated AAA by Fitch Ratings.3The Notes are in denominations of S$250,000 and were offered by way of placement to institutional investors (as defined in Section 4A of the Securities and Futures Act 2001 of Singapore (“SFA”)) pursuant to Section 274 of the SFA and accredited investors (as defined in Section 4A of the SFA) pursuant to and in accordance with the conditions specified in Section 275 of the SFA and (where applicable) Regulation 3 of the Securities and Futures (Classes of Investors) Regulations 2018. Approval in principle for the listing of the Notes on the Singapore Exchange Securities Trading Limited (“SGX-ST”) has been obtained. Admission of the Notes to the Official List of the SGX-ST and quotation of any Notes on the SGX-ST is not to be taken as an indication of the merits of HDB, its subsidiaries or the Notes. The Notes are cleared through The Central Depository (Pte) Limited.4The Joint Lead Managers and Bookrunners are DBS Bank Ltd., The Hongkong and Shanghai Banking Corporation Ltd, Singapore Branch, Oversea-Chinese Banking Corporation Limited, Standard Chartered Bank (Singapore) Limited and United Overseas Bank Limited.5Under HDB's MTN programme, HDB may from time to time, issue bonds (or notes) to finance its development programmes and working capital requirements as well as to refinance the existing borrowings.6HDB was set up as a statutory board on 1 February 1960. HDB flats are home to close to 80% of Singapore's resident population, of which about 90% own their home. Providing affordable and quality housing, creating vibrant and sustainable towns, and promoting active and cohesive communities, will remain the focus for HDB.NOT FOR DISTRIBUTION, DIRECTLY OR INDIRECTLY, IN OR INTO THE UNITED STATES OR TO U.S. PERSONSThis announcement is not an offer for sale of securities in the United States. The Notes have not been and will not be registered under the U.S. Securities Act of 1933 (as amended), and may not be offered or sold in the United States or to U.S. persons absent registration under, or an applicable exemption from, the registration requirements of the U.S. securities laws. No public offering of securities is being made in the United States or in any other jurisdiction where such an offering is restricted or prohibited. A rating is not a recommendation to buy, sell or hold any securities and may be subject to suspension, reduction or withdrawal at any time by the rating agencies.",
+      "timestamp": "2025-09-10T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/HDB-issues-rated-fixed-rate-notes-sep25",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | HDB Issues Rated Fixed Rate Notes",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0910",
+        "category": "press_release",
+        "policy_type": "ec_development",
+        "bto_related": false,
+        "location": "Central",
+        "content_length": 2845,
+        "keywords": [
+          "housing",
+          "flat",
+          "hdb",
+          "ec",
+          "central",
+          "development",
+          "quota"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "ec_market"
+        ],
+        "grant_amount": 250000,
+        "is_truncated": false,
+        "original_length": 2845
+      },
+      "content_length": 2845,
+      "word_count": 462,
+      "is_truncated": false,
+      "original_length": 2845,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250908_51e24931",
+      "source": "government_hdb",
+      "text": "Singapore’s First Polder at Pulau Tekong Adds 800 Hectares of LandPublished Date: 08 Sep 2025- Empoldering method of land reclamation cuts sand usage by half and includes coastal protection featureSingapore has reclaimed about 800 hectares of land – the size of about two Toa Payoh towns – at the north-western tip of Pulau Tekong, with the completion of main construction works for Singapore’s first polder. The reclaimed land will be used for military training purposes, freeing up space on the mainland for other uses, such as developing new homes and amenities for Singaporeans.Polder area at Pulau Tekong in 2016 (left photo: includes material © KARI (2016), distributed by SIIS, all rights reserved), andlater in 2024 (right photo; credit: ST Engineering Geo-Insights).Singapore’s First Polder2The completion of main construction works for the polder via the empoldering method marks the first time Singapore has reclaimed land below the mean sea level. Compared to the traditional land reclamation method of infilling with sand to reclaim land above sea level, the empoldering method uses less sand. This has resulted in close to 50 percent of savings in sand used for the reclamation.3Using this method, a tract of dry land below the surrounding sea level has been created by constructing a coastal dike and a network of drains and water pumping systems, as well as a stormwater collection pond. Together, these features protect the area from rising sea levels and more intense rainfall due to climate change:A Robust Coastal DikeThe coastal dike is a 10-kilometre long structure that runs along the perimeter of the polder and protects the low-lying polder land from the sea. It stands at up to six metres above mean sea level at its highest point, and allows for the polder land to lie about 1.2 metres below mean sea level. The coastal dike height can be raised if needed, to adapt to future increase in sea levels.A 10km-long coastal dike protecting the low-lying polder land from the sea (Credit: HDB)The coastal dike was the first key infrastructure to be completed, as it was necessary to fully enclose the area being reclaimed to manage water levels within the polder. A road that runs along the entire crest of the coastal dike has also been built to facilitate maintenance works. This road, together with another 21 kilometres of roads constructed within the polder land, allow vehicles to safely navigate the polder.A Comprehensive Water Management SystemDue to Singapore’s high rainfall and the polder’s low-lying nature below mean sea level, managing stormwater runoff requires special attention. The polder’s water management system comprises a stormwater collection pond, two pumping stations, and an extensive 45 kilometres of drainage network with more than 30 water control, inlet and outlet structures with gates to manage rainfall.During dry weather, water is recirculated by pumping water from the stormwater collection pond to the polder drainage network to prevent stag",
+      "timestamp": "2025-09-08T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/Singapores-first-polder-at-pulau-tekong-adds-800-hectares-of-land",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Singapore’s First Polder at Pulau Tekong Adds 800 Hectares of Land",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0908",
+        "category": "press_release",
+        "policy_type": "ec_development",
+        "bto_related": false,
+        "location": "Toa Payoh",
+        "content_length": 3000,
+        "keywords": [
+          "hdb",
+          "ec",
+          "toa payoh",
+          "construction",
+          "completion"
+        ],
+        "target_group": [
+          "first_time_buyers"
+        ],
+        "market_segment": [
+          "ec_market"
+        ],
+        "is_truncated": true,
+        "original_length": 4472
+      },
+      "content_length": 3000,
+      "word_count": 477,
+      "is_truncated": true,
+      "original_length": 4472,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250902_af0862de",
+      "source": "government_hdb",
+      "text": "HDB Unveils Masterplan for Mount Pleasant: A Rich Tapestry of Homes, Heritage and NaturePublished Date: 02 Sep 2025Masterplan draws on strong partnership with police community to preserve heritage of Old Police AcademyHDB had earlier announced the conceptual development plans to transform Mount Pleasant into a distinctive new housing estate that interweaves modern new homes, conserved heritage buildings, and lush green spaces. Following further detailed planning studies, the 33-hectare site will yield about 6,000 new HDB flats across four projects, up from the previously announced 5,000 units. The increased supply will help to meet strong housing demand and offer Singaporeans more housing options. These plans are part of a broader strategy to enhance the geographical distribution of public housing and cater to the evolving aspirations and diverse needs of Singaporeans, including young families who wish to live near their parents for better mutual care and support.Aerial perspective of Mount Pleasant.2The first BTO project, Mount Pleasant Crest, will launch in October 2025 with about 1,350 units of 2-room Flexi to 4-room flats. There will also be 270 units of public rental flats. More details on the project, including its classification, will be announced at the October 2025 sales exercise. HDB will progressively launch the rest of the projects in the coming years.Artist’s impression of Mount Pleasant Crest, the first BTO project in Mount Pleasant.Mount Pleasant – A Rich Tapestry of Homes, Heritage and Nature3Earmarked for residential development in URA’s Master Plan since 1998, the Mount Pleasant site was formerly home to the Old Police Academy (OPA) from 1929 to 2005. Given the site’s historical significance as Singapore’s first police academy, HDB worked closely with Urban Redevelopment Authority (URA) and National Heritage Board (NHB) to carry out a detailed heritage study. An Environmental Impact Assessment was also conducted to assess the ecological value of the area. Together, the findings guide HDB’s development plans to mitigate the potential impact to both its natural and built environment.4 As part of the consultation process, HDB, URA and NHB engaged various heritage groups, including the Heritage Advisory Panel[1], Heritage and Identity Partnership[2], All Things Bukit Brown, and the Singapore Heritage Society.5 An OPA Workgroup was also formed in November 2021, chaired by then-Minister of State for Home Affairs and National Development, Associate Professor Muhammad Faishal Ibrahim, and co-led by HDB and the Singapore Police Force (SPF). The workgroup also comprised members from URA, NHB, the police fraternity and architectural heritage specialists. Their recommendations focused on integrating OPA’s heritage into the new Mount Pleasant estate to enhance its distinctiveness and identity.6Thoroughly considering feedback from these stakeholders, HDB formulated a Heritage Interpretation Plan to guide how the area's policing history and id",
+      "timestamp": "2025-09-02T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/hdb-unveils-masterplan-for-mount-pleasant",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | HDB Unveils Masterplan for Mount Pleasant: A Rich Tapestry of Homes, Heritage and Nature",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0902",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": null,
+        "content_length": 3000,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "rental",
+          "hdb",
+          "public housing",
+          "ec",
+          "estate",
+          "development"
+        ],
+        "target_group": [
+          "families",
+          "public_rental_families"
+        ],
+        "market_segment": [
+          "bto_market",
+          "rental_market",
+          "ec_market"
+        ],
+        "is_truncated": true,
+        "original_length": 9976
+      },
+      "content_length": 3000,
+      "word_count": 443,
+      "is_truncated": true,
+      "original_length": 9976,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250827_6a3dccb2",
+      "source": "government_hdb",
+      "text": "Temporary Road Closure along West Coast Highway for Construction of New Pedestrian Overhead BridgePublished Date: 27 Aug 2025A section of West Coast Highway, between the road junctions of West Coast Highway/ West Coast Link and West Coast Highway/ Pandan Crescent, will be temporarily closed to traffic in both directions from Tuesday 2 September 2025 to Thursday 4 September 2025, from 11:00pm till 5:00am on the next day.2The temporary road closures are needed to facilitate the construction of a new pedestrian overhead bridge across West Coast Highway, near Block 801 West Coast Crescent.3The new pedestrian overhead bridge, which is estimated to be completed in 1Q2026, will provide residents of nearby housing developments with a closer, sheltered connection to West Coast Park and an existing bus stop along West Coast Highway (Northbound). The pedestrian overhead bridge will also provide barrier-free access for pedestrians, as ramps and lifts will be installed.4During the road closures, motorists are advised to use West Coast Link and West Coast Road as an alternative route to the closed segment of West Coast Highway. One lane will remain open for public buses until the last bus service ends. Access to Pandan Crescent will remain open during this period. Please refer to the layout plan in theAnnexfor details on the temporary road closure and diversion routes.5Barricades and diversion signs will be put up to guide motorists. Motorists are advised to drive carefully and follow the information signs displayed.",
+      "timestamp": "2025-08-27T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/temporary-road-closure-along-west-coast-highway-for-construction-of-new-pedestrian-overhead-bridge",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Temporary Road Closure along West Coast Highway for Construction of New Pedestrian Overhead Bridge",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0827",
+        "category": "press_release",
+        "policy_type": "rental_policy",
+        "bto_related": false,
+        "location": null,
+        "content_length": 1528,
+        "keywords": [
+          "housing",
+          "ec",
+          "development",
+          "construction"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "rental_market",
+          "ec_market"
+        ],
+        "is_truncated": false,
+        "original_length": 1528
+      },
+      "content_length": 1528,
+      "word_count": 238,
+      "is_truncated": false,
+      "original_length": 1528,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250826_9b706496",
+      "source": "government_hdb",
+      "text": "Final Tender Results for the Two Executive Condominium Housing Development Sites at Senja Close and Woodlands Drive 17Published Date: 26 Aug 2025The Housing & Development Board (HDB), as the Government’s land sales agent, launched tenders for the land parcels atSenja Closeon 21 March 2025 andWoodlands Drive 17on 8 April 2025.2The details of the two land parcels are as follows:Proposed DevelopmentExecutive Condominium HousingLocationSenja CloseWoodlands Drive 17Site Area10,159.2 sq m25,207.2 sq mMaximum GFA30,478 sq m42,853 sq mMaximum Building Height150m – 153mSingapore Height Datum (SHD)61mSingapore Height Datum(SHD)Estimated No. of Housing Units295*420*Lease Term99 yearsProject Completion Period60 months from the date of acceptance of tender*Actual number of housing units proposed by developer may vary3The tenders for the two land parcels have been awarded to the respective Successful Tenderers today (26 August 2025), as follows:Land ParcelSuccessful TendererTender PriceSenja CloseCDL Constellation Pte. Ltd.$252,899,000Woodlands Drive 17CDL Divine Pte. Ltd.$360,899,0004The details of the tender result can also be viewedhere.",
+      "timestamp": "2025-08-26T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/final-tender-results-for-the-two-ec-housing-development-sites-at-senja-close-and-woodlands-drive-17",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Final Tender Results for the Two Executive Condominium Housing Development Sites at Senja Close and Woodlands Drive 17",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0826",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Woodlands",
+        "content_length": 1144,
+        "keywords": [
+          "launch",
+          "housing",
+          "hdb",
+          "executive condominium",
+          "ec",
+          "woodlands",
+          "tender",
+          "development",
+          "completion"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "rental_market",
+          "ec_market"
+        ],
+        "grant_amount": 360899000,
+        "is_truncated": false,
+        "original_length": 1144
+      },
+      "content_length": 1144,
+      "word_count": 150,
+      "is_truncated": false,
+      "original_length": 1144,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250805_3a990d85",
+      "source": "government_hdb",
+      "text": "Provisional Tender Results For 2 Executive Condominium Housing Development Sites at Senja Close and Woodlands Drive 17Published Date: 05 Aug 2025The Housing & Development Board (HDB), as the Government’s land sales agent, launched the land parcel at Senja Close for tender on 21 March 2025, and the land parcel at Woodlands Drive 17 for tender on 8 April 2025.2The details of the two land parcels are as follows:Proposed DevelopmentExecutive Housing CondominiumLocationSenja CloseWoodlands Drive 17Site Area10,159.2 sq m25,207.2 sq mMaximum GFA30,478 sq m42,853 sq mMaximum Building Height150m – 153mSingapore Height Datum (SHD)61mSingapore Height Datum(SHD)Estimated No. of Housing Units295*420*Lease Term99 yearsProject Completion Period60 months from the date of acceptance of tender*Actual number of housing units proposed by developer may vary3The tenders closed at 12pm today. The details of the provisional tender results are as shown below:i)Senja CloseS/NName of TendererTender Price($)$psm/GFA($)1CDL Constellation Pte. Ltd.$252,899,000$8,297.762TID Residential Pte. Ltd.$238,008,888$7,809.203Oriental Pacific Development Pte. Ltd.$234,889,000$7,706.844Wee Hur Development Pte Ltd$231,390,000$7,592.035ABR Holdings Limited, RP Ventures Pte. Ltd, LWH Holdings Pte Ltd$230,888,888$7,575.59ii)Woodlands Drive 17S/NName of TendererTender Price($)$psm/GFA($)1CDL Divine Pte. Ltd.$360,899,000$8,421.792Sim Lian Land Pte Ltd and Sim LianDevelopment Pte Ltd$360,280,000$8,407.353Intrepid Investments Pte. Ltd. and TIDResidential Pte. Ltd.$355,177,663$8,288.284Hoi Hup Realty Pte Ltd and SunwayDevelopments Pte. Ltd.$352,000,000$8,214.135EL Development Pte Ltd$328,100,000$7,656.414A decision on the award of the tenders will be made after the bids have been evaluated. This will be published at a later date.",
+      "timestamp": "2025-08-05T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/provisional-tender-results-for-ec-at-senja-close-and-woodlands-drive-17",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Provisional Tender Results For 2 Executive Condominium Housing Development Sites at Senja Close and Woodlands Drive 17",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0805",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Woodlands",
+        "content_length": 1810,
+        "keywords": [
+          "launch",
+          "housing",
+          "hdb",
+          "executive condominium",
+          "ec",
+          "woodlands",
+          "tender",
+          "development",
+          "completion"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "rental_market",
+          "ec_market"
+        ],
+        "grant_amount": 360899000,
+        "is_truncated": false,
+        "original_length": 1810
+      },
+      "content_length": 1810,
+      "word_count": 221,
+      "is_truncated": false,
+      "original_length": 1810,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250801_3db6ea29",
+      "source": "government_hdb",
+      "text": "First General Practitioner Clinic Tender Awarded under Price-Quality MethodPublished Date: 01 Aug 2025Three more PQM tenders for GP clinics to be launched later this yearThe Ministry of Health (MOH) and Housing & Development Board (HDB) have awarded the tender for a General Practitioner (GP) clinic at Bartley Beacon, a Build-To-Order (BTO) project in Bidadari estate1, under the new Price-Quality Method (PQM).2A total of 18 bids were received for the tender, which opened on 8 May 2025 and closed on 29 May 2025. Under the pilot PQM framework for GP clinics, tender proposals were evaluated based on quality (70%) and price (30%) components by MOH and HDB, respectively.3The tender has been awarded to BridgePoint Health Pte Ltd. The awarded monthly rent is $18,000 for the clinic space of about 100 square metres (sqm), which is twice the size of a typical clinic. This works out to $180 per sqm, which is lower than the average awarded bid of $382 per sqm for GP clinic tenders in new housing projects awarded in the last three years (2022 to 2024). In comparison, the unusually high tendered rent for the recent clinic in Tampines GreenGem was about $1,000 per sqm.Commitment to Providing Quality GP Services4As part of ensuring quality of the GP services provided, under the tender requirements, the awarded tenderer will have to be onboarded to Healthier SG as part of the Primary Care Network, and will have to be Community Health Assist Scheme (CHAS) accredited.5In addition to the above requirements, the awarded tenderer has committed to focus on the provision of primary care services and steer away from the provision of aesthetic services. They have also committed to work with community partners, such as the Community Health Posts in Active Ageing Centres, to strengthen preventive and chronic care for residents. This includes the provision of basic ancillary services onsite such as Diabetic Retinal Photography (DRP), Diabetic Foot Screening (DFS), and nurse counselling for diabetic patients.6The awarded tenderer will continue to be part of the Mental Health General Practitioner Partnership (MHGPP) and manage patients with more complex mental health conditions in the community. They will also collaborate with the healthcare clusters to provide more integrated and seamless care for residents. With a larger clinic space of about 100 sqm, the awarded tenderer will also offer most of their services onsite, minimising the need for referrals.7MOH will follow up with the awarded tenderer to monitor and review their compliance with their tender commitments.Upcoming GP Clinic Tenders8Three more GP clinic tenders will be launched under the pilot PQM framework in 2025. The next PQM tender for a GP clinic will be launched at Costa Grove, a BTO project in Pasir Ris. Another two PQM tenders, at Parc Point and Toh Guan Grove, will be launched by the end of 2025.Providing Residents with Quality and Affordable Goods and Services9MOH and HDB are working closely to bring value h",
+      "timestamp": "2025-08-01T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/first-gp-clinic-tender-awarded-under-price-quality-method",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | First General Practitioner Clinic Tender Awarded under Price-Quality Method",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0801",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Pasir Ris",
+        "content_length": 3000,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "hdb",
+          "ec",
+          "pasir ris",
+          "tampines",
+          "estate",
+          "tender",
+          "development"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "bto_market",
+          "rental_market",
+          "ec_market"
+        ],
+        "grant_amount": 18000,
+        "is_truncated": true,
+        "original_length": 3947
+      },
+      "content_length": 3000,
+      "word_count": 482,
+      "is_truncated": true,
+      "original_length": 3947,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250729_a1dec0f2",
+      "source": "government_hdb",
+      "text": "HDB Issues Rated Fixed Rate NotesPublished Date: 29 Jul 2025The Housing & Development Board (\"HDB\") has issued S$700 million, 7-year Fixed Rate Notes (the “Notes”) under its S$42 billion Multicurrency Medium Term Note (\"MTN\") Programme.2The Notes have a coupon of 1.976% per annum payable semi-annually in arrear. The Notes were issued on 29 July 2025 and will mature on 29 July 2032. The Notes are rated AAA by Fitch Ratings.3The Notes are in denominations of S$250,000 and were offered by way of placement to institutional investors (as defined in Section 4A of the Securities and Futures Act 2001 of Singapore (“SFA”)) pursuant to Section 274 of the SFA and accredited investors (as defined in Section 4A of the SFA) pursuant to and in accordance with the conditions specified in Section 275 of the SFA and (where applicable) Regulation 3 of the Securities and Futures (Classes of Investors) Regulations 2018. Approval in principle for the listing of the Notes on the Singapore Exchange Securities Trading Limited (“SGX-ST”) has been obtained. Admission of the Notes to the Official List of the SGX-ST and quotation of any Notes on the SGX-ST is not to be taken as an indication of the merits of HDB, its subsidiaries or the Notes. The Notes are cleared through The Central Depository (Pte) Limited.4The Joint Lead Managers and Bookrunners are Bank of China, China Construction Bank Corporation, Singapore Branch, Industrial and Commercial Bank of China Limited, Singapore Branch and United Overseas Bank Limited.5Under HDB's MTN programme, HDB may from time to time, issue bonds (or notes) to finance its development programmes and working capital requirements as well as to refinance the existing borrowings.6HDB was set up as a statutory board on 1 February 1960. HDB flats are home to close to 80% of Singapore's resident population, of which about 90% own their home. Providing affordable and quality housing, creating vibrant and sustainable towns, and promoting active and cohesive communities, will remain the focus for HDB.NOT FOR DISTRIBUTION, DIRECTLY OR INDIRECTLY, IN OR INTO THE UNITED STATES OR TO U.S. PERSONSThis announcement is not an offer for sale of securities in the United States. The Notes have not been and will not be registered under the U.S. Securities Act of 1933 (as amended), and may not be offered or sold in the United States or to U.S. persons absent registration under, or an applicable exemption from, the registration requirements of the U.S. securities laws. No public offering of securities is being made in the United States or in any other jurisdiction where such an offering is restricted or prohibited. A rating is not a recommendation to buy, sell or hold any securities and may be subject to suspension, reduction or withdrawal at any time by the rating agencies.",
+      "timestamp": "2025-07-29T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/hdb-issues-rated-fixed-rate-notes-july25",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | HDB Issues Rated Fixed Rate Notes",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0729",
+        "category": "press_release",
+        "policy_type": "ec_development",
+        "bto_related": false,
+        "location": "Central",
+        "content_length": 2811,
+        "keywords": [
+          "housing",
+          "flat",
+          "hdb",
+          "ec",
+          "central",
+          "development",
+          "construction",
+          "quota"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "ec_market",
+          "commercial_market"
+        ],
+        "grant_amount": 250000,
+        "is_truncated": false,
+        "original_length": 2811
+      },
+      "content_length": 2811,
+      "word_count": 459,
+      "is_truncated": false,
+      "original_length": 2811,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250921_fc5651d5",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿Whampoa Park Bags HDB’s Inaugural Landscape Award21 Sep 2025A total of 36 projects will be conferred the HDB Awards, in recognition of their excellence in design, engineering, and construction in public housing. Among the winning projects is Whampoa Park, which will receive the first ever HDB Landscape Award.Read press releaseProvisional Tender Results for: (i) Mixed Commercial and Residential Development at Chencharu Close; and (ii) Executive Condominium Housing Development at Sembawang Road11 Sep 2025HDB, as the Government’s land sales agent, launched land parcels at Chencharu Close and Sembawang Road for tender on 26 September 2024 and 29 May 2025 respectively. The tenders have closed and HDB has announced details of the provisional tender results.Read press releaseHDB Issues Rated Fixed Rate Notes10 Sep 2025The Housing & Development Board (\"HDB\") has issued S$1 billion, 10-year Fixed Rate Notes (the “Notes”) under its S$42 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseSingapore’s First Polder at Pulau Tekong Adds 800 Hectares of Land08 Sep 2025Singapore has reclaimed about 800 hectares of land – the size of about two Toa Payoh towns – at the north-western tip of Pulau Tekong, with the completion of main construction works for Singapore’s first polder.Read press releaseHDB Unveils Masterplan for Mount Pleasant: A Rich Tapestry of Homes, Heritage and Nature02 Sep 2025HDB had earlier announced the conceptual development plans to transform Mount Pleasant into a distinctive new housing estate that interweaves modern new homes, conserved heritage buildings, and lush green spaces. Following further detailed planning studies, the 33-hectare site will yield about 6,000 new HDB flats across four projects, up from the previously announced 5,000 units. The increased supply will help to meet strong housing demand and offer Singaporeans more housing options. These plans are part of a broader strategy to enhance the geographical distribution of public housing and cater to the evolving aspirations and diverse needs of Singaporeans, including young families who wish to live near their parents for better mutual care and support.Read press releaseTemporary Road Closure along West Coast Highway for Construction of New Pedestrian Overhead Bridge27 Aug 2025A section of West Coast Highway, between the road junctions of West Coast Highway/ West Coast Link and West Coast Highway/ Pandan Crescent, will be temporarily closed to traffic in both directions from Tuesday 2 September 2025 to Friday 4 September 2025, from 11:00pm till 5:00am the next day.Read press releaseFinal Tender Results for the Two Executive Condominium Housing Development Sites at Senja Close and Woodlands Drive 1726 Aug 2025The Housing & Development Board (HDB), as the Government’s land sales agent, launched tenders for the",
+      "timestamp": "2025-09-21T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=1",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0921",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Sembawang",
+        "content_length": 2999,
+        "keywords": [
+          "launch",
+          "housing",
+          "flat",
+          "hdb",
+          "public housing",
+          "executive condominium",
+          "ec",
+          "sembawang",
+          "toa payoh",
+          "woodlands"
+        ],
+        "target_group": [
+          "families"
+        ],
+        "market_segment": [
+          "rental_market",
+          "ec_market",
+          "commercial_market"
+        ],
+        "grant_amount": 42,
+        "is_truncated": true,
+        "original_length": 4106
+      },
+      "content_length": 2999,
+      "word_count": 445,
+      "is_truncated": true,
+      "original_length": 4106,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250726_fdafdb35",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿HDB Community Day 2025: Tengah Volunteers Lead the Way in Building Stronger Communities26 Jul 2025More than 2,100 residents, volunteers, schools and community groups were honoured today at HDB Community Day 2025 for their dedication to building caring, inclusive and vibrant neighbourhoods across Singapore. Among them were 41 trailblazing volunteers from Tengah, commended for their help to lay the foundations for strong community bonds in Singapore's newest town.Read press release2nd Quarter 2025 Public Housing Data and Upcoming Flat Supply25 Jul 2025HDB’s Resale Price Index for 2nd Quarter 2025 is 202.9, representing an increase of 0.9% over the 1st Quarter of 2025. Price growth has moderated for the third consecutive quarter, and this is the lowest quarter-on-quarter growth since 2Q2020.Read press releaseHDB Launches 10,209 Flats in the July 2025 BTO and SBF Sales Exercises23 Jul 2025HDB launched 10,209 flats for sale today, under the July 2025 Build-To-Order (BTO) and Sale of Balance Flats (SBF) exercises.Read press releaseNew Family Care Scheme (Proximity) Better Supports Parents and Children to Live Closer Together20 Jul 2025From the July 2025 sales exercises, married and single children will enjoy priority access when they apply for a new flat to live with or near their parents, under the new Family Care Scheme (FCS) (Proximity).Read press releaseHDB Issues Rated Fixed Rate Green Notes08 Jul 2025The Housing & Development Board (\"HDB\") has issued S$875 million, 5-year Fixed Rate Green Notes (the “Notes”) under its S$42 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseHDB to Launch First BTO Project in Sembawang North in the July Sales Exercise06 Jul 2025HDB will launch its first Build-To-Order (BTO) project in the new Sembawang North neighbourhood during the July 2025 BTO sales exercise.Read press releaseFlash Estimate of 2nd Quarter 2025 Resale Price Index and Upcoming Flat Supply01 Jul 2025HDB’s flash estimate of the 2nd Quarter 2025 Resale Price Index (RPI) is 202.8, an increase of 0.9% over that in the 1st Quarter 2025. This marks the third consecutive quarter of slowdown in price growth, and is the lowest quarter-on-quarter growth since 2Q2020.Read press releaseHDB to Extend Parenthood Provisional Housing Scheme (PPHS) Voucher till 31 December 202516 Jun 2025To support young couples and families who are renting from the open market while awaiting the completion of their new flats, HDB will extend the Parenthood Provisional Housing Scheme (PPHS) Voucher by six months till 31 December 2025.Read press releaseJoint Press Release by SportsSG, URA and HDB: New Sport-in-Precinct facility in Kolam Ayer to keep community active as Kallang Basin Swimming Complex and St Wilfred Sport Centre close for redevelopment13 Jun 2025The community can look forward to a new Sport-in-Pre",
+      "timestamp": "2025-07-26T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=2",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0726",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Kallang",
+        "content_length": 3000,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "resale",
+          "hdb",
+          "public housing",
+          "ec",
+          "kallang",
+          "sembawang"
+        ],
+        "target_group": [
+          "young_couples",
+          "families",
+          "singles"
+        ],
+        "market_segment": [
+          "bto_market",
+          "resale_market",
+          "rental_market",
+          "ec_market"
+        ],
+        "grant_amount": 875,
+        "grant_type": "proximity_grant",
+        "is_truncated": true,
+        "original_length": 3641
+      },
+      "content_length": 3000,
+      "word_count": 450,
+      "is_truncated": true,
+      "original_length": 3641,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250522_8409043a",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿CPF Interest Rates from 1 July to 30 September 202522 May 2025The Special, MediSave and Retirement Account (SMRA) interest rate will remain unchanged at the floor rate of 4% per annum from 1 July to 30 September 2025, as the SMRA pegged rate remains below the floor rate of 4%.Read press releasePrice-Quality Method Tender Pilot for Private General Practitioner Clinic at Bartley Beacon08 May 2025The Ministry of Health (MOH) and Housing & Development Board (HDB) will jointly pilot the new Price-Quality Method (PQM) tender approach to holistically evaluate both price and quality factors when renting out HDB shops to General Practitioner (GP) clinics.Read press releaseUpcoming Flat Supply and 1st Quarter 2025 Public Housing Data25 Apr 2025Come July 2025, HDB will launch about 5,400 Build-To-Order (BTO) flats in Bukit Merah, Bukit Panjang, Clementi, Sembawang, Tampines, Toa Payoh, and Woodlands.Read press releaseJoint Press Release: URA and HDB release three residential sites at Lakeside Drive, Dunearn Road and Woodlands Drive 1708 Apr 2025The Urban Redevelopment Authority (URA) and the Housing & Development Board (HDB) have released three residential sites at Lakeside Drive, Dunearn Road and Woodlands Drive 17 (Executive Condominium (EC)) for sale today under the first half 2025 (1H2025) Government Land Sales (GLS) Programme.Read press releaseNew River Crab Playground, Designed and Built by 2,000 Residents, Makes a Splash in Toa Payoh06 Apr 2025About 2,000 Toa Payoh residents, students, and community stakeholders have created a distinctive River Crab playground, which will be a new landmark in Toa Payoh. Located at 9 Lorong 7 Toa Payoh, the new playground replaces an existing one at Toa Payoh N1 Neighbourhood Park. It is the centrepiece of the park’s transformation under HDB’s Remaking Our Heartland (ROH) programme to renew existing HDB towns and estates.Read press releaseOver 36,000 HDB Households to Benefit from Upgrading Projects06 Apr 2025At the Community Build Day event at Toa Payoh N1 Neighbourhood Park on 6 April, Minister for National Development Desmond Lee announced that over 36,000 HDB households will benefit from the upgrading works to be implemented under the latest batch of the Neighbourhood Renewal Programme (NRP) and Silver Upgrading Programme (SUP). Additionally, for the small number of HDB residents who currently do not have direct lift access to their flats, HDB will increase the Lift access Housing Grant (LHG) by almost threefold, to help seniors and residents with mobility challenges to purchase a new or resale HDB flat with direct lift access.Read press releaseUpcoming Flat Supply and Flash Estimate of 1st Quarter 2025 Resale Price Index01 Apr 2025HDB’s flash estimate of the 1st Quarter 2025 Resale Price Index (RPI) is 200.",
+      "timestamp": "2025-05-22T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=3",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0522",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Bukit Merah",
+        "content_length": 2940,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "resale",
+          "hdb",
+          "public housing",
+          "executive condominium",
+          "ec",
+          "grant"
+        ],
+        "target_group": [
+          "elderly"
+        ],
+        "market_segment": [
+          "bto_market",
+          "resale_market",
+          "rental_market",
+          "ec_market"
+        ],
+        "is_truncated": true,
+        "original_length": 4609
+      },
+      "content_length": 2940,
+      "word_count": 447,
+      "is_truncated": true,
+      "original_length": 4609,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250305_4a16f9a1",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿Providing More Support for Home Buyers and Public Rental Families05 Mar 2025At MND’s Committee of Supply debate today, Minister for National Development, Mr Desmond Lee, and Minister of State for National Development Associate Professor Muhammad Faishal Ibrahim, announced several measures to enhance public housing accessibility and strengthen support for public rental families with children in their journey towards achieving home ownership.Read press releaseEnhancements to Silver Housing Bonus to boost retirement income for seniors right-sizing their homes05 Mar 2025At MND’s Committee of Supply debate today, Minister for National Development Mr Desmond Lee announced several enhancements to the Silver Housing Bonus (SHB) to provide greater support to seniors who right-size to a 3-room or smaller HDB flat to supplement their retirement income.Read press releaseHDB Issues Rated Fixed Rate Notes25 Feb 2025The Housing & Development Board (\"HDB\") has issued S$700 million, 7-year Fixed Rate Notes (the “Notes”) under its S$32 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseOver 29,000 More Homes to be Upgraded Under HDB’s Home Improvement Programme (HIP)16 Feb 2025The Ministry of National Development (MND) and Housing & Development Board (HDB) have selected over 29,000 HDB flats for upgrading, in the latest selection of the HIP.Read press releaseHDB Launches 10,622 Flats in February 2025 BTO and SBF Exercises10 Feb 2025HDB has launched 10,622 flats for sale today, under the February 2025 Build-To-Order (BTO) and Sale of Balance Flats (SBF) exercises.Read press releaseHDB to Extend Cool Coatings Initiative to All Existing HDB Estates03 Feb 2025HDB will intensify its sustainability efforts to create more energy-efficient and climate-resilient public housing estates, with the 10-year Green Towns Programme (GTP) reaching its mid-point in 2025.Read press releaseUpcoming Flat Supply And 4th Quarter 2024 Public Housing Data24 Jan 2025HDB will launch over 25,000 new flats in 2025 comprising 19,600 Build-To-Order (BTO) flats across three sales exercises and more than 5,500 flats under the Sale of Balance Flats (SBF) exercise. Of the 19,600 BTO flats, about 3,800 units are shorter waiting time flats with waiting time of less than three years. We are on track to launch about 102,300 BTO flats from 2021 to 2025, exceeding our commitment to launch 100,000 flats over the 5-year period.Read press releaseHDB Issues Rated Fixed Rate Green Notes21 Jan 2025The Housing & Development Board (\"HDB\") has issued S$950 million, 5-year Fixed Rate Green Notes (the “Notes”) under its S$32 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseFinal Two Pandemic-Delayed Housing Projects Completed in January 202520 Jan 2025At his visit to Punggol Point Cove Build-To-Order (BTO) development o",
+      "timestamp": "2025-03-05T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=4",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0305",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Punggol",
+        "content_length": 3000,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "rental",
+          "hdb",
+          "public housing",
+          "ec",
+          "punggol",
+          "estate"
+        ],
+        "target_group": [
+          "families",
+          "elderly",
+          "public_rental_families"
+        ],
+        "market_segment": [
+          "bto_market",
+          "rental_market",
+          "ec_market"
+        ],
+        "grant_amount": 950,
+        "is_truncated": true,
+        "original_length": 3742
+      },
+      "content_length": 3000,
+      "word_count": 435,
+      "is_truncated": true,
+      "original_length": 3742,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20250102_1922d5cb",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿Upcoming Flat Supply and Flash Estimate of 4th Quarter 2024 Resale Price Index02 Jan 2025In 2024, HDB launched 21,225 new flats, comprising 19,637 Build-To-Order (BTO) flats and 1,588 flats offered under the Sale of Balance Flats (SBF) exercise.Read press releaseCPF Interest Rates from 1 January to 31 March 2025 and Basic Healthcare Sum for 202511 Dec 2024Savings in the Special, MediSave and Retirement Accounts (SMRA) will earn the floor rate of 4% per annum from 1 January to 31 March 2025, as the SMRA pegged rate has fallen below the floor rate of 4%.Read press releaseHDB Issues Rated Fixed Rate Notes27 Nov 2024The Housing & Development Board (\"HDB\") has issued S$900 million, 7-year Fixed Rate Notes (the “Notes”) under its S$32 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseHDB Unveils Winning Design of Inaugural Town Centre Placemaking Challenge in Bukit Merah17 Nov 2024OWAA Architects LLP, in collaboration with local artist Tobyato, has won the Bukit Merah Town Centre Placemaking Challenge with their design \"The Tale of the Swordfish & The Seven Hills\".Read press releaseFinal Tender Result for Land Parcel at Tampines Street 95 for Executive Condominium Housing Development08 Nov 2024The Housing & Development Board (HDB), as the Government’s land sales agent, launched the land parcel at Tampines Street 95 for tender on 22 August 2024.Read press releaseHDB Incurred Higher Expenditure in FY 2023 to Keep Public Housing Affordable07 Nov 2024In the Financial Year (FY) 2023, HDB incurred a net deficit of $6.775 billion before government grants. Of the $6.775 billion deficit, $6.225 billion was incurred for the Home Ownership segment. HDB incurs significant deficit every year as the amount collected from the sale of flats is lower than the total development cost of BTO flats and housing grants disbursed.Read press releaseBringing Families Closer: New Family Care Scheme to Support Parents and Children to Live Closer Together06 Nov 2024From mid-2025, both married and single children will enjoy priority access when they apply for a new flat to live with or near their parents, under the new Family Care Scheme (FCS).Read press releaseHDB Issues Rated Fixed Rate Green Notes30 Oct 2024The Housing & Development Board (\"HDB\") has issued S$900 million, 4-year Fixed Rate Green Notes (the “Notes”) under its S$32 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseUpcoming SBF Exercise in February 2025 and 3rd Quarter 2024 Public Housing Data25 Oct 2024In 2024, HDB launched 21,225 new flats, comprising 19,637 Build-To-Order (BTO) flats and 1,588 flats offered under the Sale of Balance Flats (SBF) exercise in February 2024.Read press releaseProvisional Tender Results for Land Parcel at Tampines Street 95 for Executive Condominium Housing Development24 Oct 2024The Housi",
+      "timestamp": "2025-01-02T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=5",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2025_0102",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Bukit Merah",
+        "content_length": 3000,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "resale",
+          "hdb",
+          "public housing",
+          "executive condominium",
+          "ec",
+          "grant"
+        ],
+        "target_group": [
+          "families",
+          "singles"
+        ],
+        "market_segment": [
+          "bto_market",
+          "resale_market",
+          "rental_market",
+          "ec_market"
+        ],
+        "grant_amount": 900,
+        "is_truncated": true,
+        "original_length": 3236
+      },
+      "content_length": 3000,
+      "word_count": 455,
+      "is_truncated": true,
+      "original_length": 3236,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20241023_98ad2afe",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿HDB to Scale Up the Use of Robotics and Automation at Construction Sites to Increase Construction Productivity23 Oct 2024Starting from next year, HDB will progressively expand the use of robots to carry out painting and skimming works across approximately half of new Build-To-Order (BTO) construction sites, to enhance site productivity and deliver better homes for Singaporeans.Read press releaseHDB Unveils Development Plans for Sembawang North and Woodlands North Coast22 Oct 2024At the HDB Awards Ceremony on 22 October 2024, Minister for National Development Mr Desmond Lee announced plans to develop two new housing areas at Sembawang North and Woodlands North Coast. When fully developed, these two housing areas will offer around 14,000 new homes, including 12,000 public housing flats, helping to meet sustained housing demand.Read press releaseRivervale Shores and Kim Keat Beacon Projects Recognised for Design and Construction Excellence at HDB Awards 202420 Oct 2024At the HDB Awards ceremony on 22 October 2024, Minister for National Development Mr Desmond Lee will present a total of 26 HDB Design, Construction, and Engineering Awards to recognise the excellent work of architectural and engineering consultants, as well as building contractors in public housing projects.Read press releaseJoint Press Release: URA and HDB Release Four Sale Sites at Lentor Gardens, River Valley Green (Parcel B), Marina Gardens Lane and Woodlands Drive 1717 Oct 2024The Urban Redevelopment Authority (URA) and the Housing & Development Board (HDB) have released four residential sites at Lentor Gardens, River Valley Green (Parcel B), Marina Gardens Lane, and Woodlands Drive 17 (Executive Condominium) for sale today under the second half 2024 (2H2024) Government Land Sales (GLS) Programme.Read press releaseHDB Launches Record Number of Projects in October 2024 BTO Exercise under New Flat Classification Framework16 Oct 2024HDB launched 8,573 Standard, Plus, and Prime flats in 15 projects under a new flat classification framework in the October 2024 Build-To-Order (BTO) exercise today.Read press releaseFinal Tender Result for Land Parcel at Tampines Street 94 for Mixed Commercial and Residential Development10 Oct 2024The Housing & Development Board (HDB), as the Government’s land sales agent, launched the land parcel at Tampines Street 94 for tender on 27 June 2024.Read press releaseTemporary Road Closure Along New Punggol Road for Construction of New Pedestrian Overhead Bridge10 Oct 2024On 17 October 2024 (Thursday), a section of New Punggol Road will be temporarily closed to traffic from 1.00am to 5.00am. The closed section of the road will be between the junctions of New Punggol Road/Northshore Drive and New Punggol Road/Punggol Way.",
+      "timestamp": "2024-10-23T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=6",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2024_1023",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Punggol",
+        "content_length": 2907,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "hdb",
+          "public housing",
+          "executive condominium",
+          "ec",
+          "punggol",
+          "sembawang"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "bto_market",
+          "rental_market",
+          "ec_market",
+          "commercial_market"
+        ],
+        "is_truncated": true,
+        "original_length": 3871
+      },
+      "content_length": 2907,
+      "word_count": 428,
+      "is_truncated": true,
+      "original_length": 3871,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20241001_2af76beb",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿Upcoming Flat Supply and Flash Estimate of 3rd Quarter 2024 Resale Price Index01 Oct 2024HDB will offer about 8,500 flats in 15 Build-To-Order (BTO) projects in the October 2024 BTO exercise.Read press releaseJoint Press Release by MND and HDB - Changes to the Board Members of the Housing & Development Board30 Sep 2024The Ministry of National Development (MND) has announced changes to the board appointments at the Housing & Development Board (HDB).Read press releaseJoint Press Release by HDB & Keppel - HDB Awards 20-Year Centralised Cooling Systems Contract for Three Tengah BTO Projects to Keppel30 Sep 2024The Housing & Development Board (HDB) has awarded Keppel Ltd.’s Infrastructure Division (Keppel) the chilled water supply contract to design, build, own and operate Centralised Cooling Systems (CCS) at three upcoming Build-to-Order (BTO) projects Brickland Weave, Plantation Edge I & II and Plantation Verge in Tengah.Read press releaseHDB Launches Sale Site at Chencharu Close26 Sep 2024The Housing & Development Board (HDB), as the Government’s land sales agent, has launched a mixed-use site comprising a commercial and residential development integrated with a bus interchange and a hawker centre at Chencharu Close for sale by public tender today, under the Confirmed List of 2nd half 2024 (2H2024) Government Land Sales (GLS) Programme.Read press releaseJoint Press Release by CPF Board and HDB - Government Extends 4% Interest Rate Floor on Special, Medisave and Retirement Account Monies Until 31 December 202520 Sep 2024The Government has extended the 4% interest rate floor for interest earned on all Special, MediSave and Retirement Account (SMRA) monies for another year from 1 January to 31 December 2025. This extension of the floor rate will continue to provide CPF members with certainty on the returns of their CPF savings amidst the volatile interest rate environment.Read press releaseProvisional Tender Results for Land Parcel at Tampines Street 94 for Mixed Commercial and Residential Development19 Sep 2024The Housing & Development Board (HDB), as the Government’s land sales agent, launched the land parcel at Tampines Street 94 for sale by public tender on 27 June 2024.Read press releaseJoint Press Release by HDB, NParks, PUB and NHB - Opening of Bidadari Park and Alkaff Lake Marks Another Milestone in Realising the Vision for Bidadari Estate03 Sep 2024The newly opened Bidadari Park and Alkaff Lake marks yet another milestone in realising Bidadari estate’s vision as “A Community in a Garden”, where homes and facilities are situated in a garden-like setting, offering residents a unique “living in a park” experience. Well-known as a site for nature appreciation since the 1990s, Bidadari Park has been sensitively enhanced so that it can continue to be a stopover site for migratory birds.",
+      "timestamp": "2024-10-01T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=7",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2024_1001",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Central",
+        "content_length": 2985,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "resale",
+          "hdb",
+          "public housing",
+          "ec",
+          "cpf",
+          "central"
+        ],
+        "target_group": [],
+        "market_segment": [
+          "bto_market",
+          "resale_market",
+          "rental_market",
+          "ec_market",
+          "commercial_market"
+        ],
+        "is_truncated": true,
+        "original_length": 4559
+      },
+      "content_length": 2985,
+      "word_count": 457,
+      "is_truncated": true,
+      "original_length": 4559,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20240819_5671c2a3",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿Measures to Cool the HDB Resale Market and Provide More Support for First-Time Home Buyers19 Aug 2024MND and HDB announced today a set of measures to cool the HDB resale market, and to provide more support to lower-to-middle income first-time home buyers.Read press releaseFinal Tender Result for Land Parcel at Jalan Loyang Besar for Executive Condominium Housing Development16 Aug 2024The Housing & Development Board (HDB), as the Government’s land sales agent, launched theland parcel at Jalan Loyang Besarfor tender on 16 May 2024.Read press releaseProvisional Tender Results for Land Parcel at Jalan Loyang Besar for Executive Condominium Housing Development01 Aug 2024The Housing & Development Board (HDB), as the Government’s land sales agent, launched the land parcel at Jalan Loyang Besar for sale by public tender on 16 May 2024.Read press releaseOver 53,000 More Homes to be Upgraded Under HDB’s Home Improvement Programme (HIP)28 Jul 2024The Ministry of National Development (MND) and Housing & Development Board (HDB) have selected over 53,000 HDB flats for upgrading, in the latest selection of the Home Improvement Programme (HIP).Read press releaseUpcoming Flat Supply and 2nd Quarter 2024 Public Housing Data26 Jul 2024HDB will offer about 8,500 flats across 15 Build-To-Order (BTO) projects in the October 2024 BTO exercise.Read press releaseHDB Issues Rated Fixed Rate Green Notes23 Jul 2024The Housing & Development Board (\"HDB\") has issued S$965 million, 2-year Fixed Rate Green Notes (the “Notes”) under its S$32 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseMore Coffee Shops to Offer Budget Meals to Boost Affordable Food Options01 Jul 2024More coffee shops in the heartlands will soon offer budget meals to provide affordable food options for residents. Another 180 coffee shops under nine private chain operators will provide budget meals, marking an expansion of the budget meal initiative beyond rental HDB coffee shops. In total, about 330 coffee shops in the heartlands will provide budget meals to meet the needs of residents.Read press releaseUpcoming Flat Supply and Flash Estimate of 2nd Quarter 2024 Resale Price Index01 Jul 2024HDB will offer about 8,500 flats in 15 Build-To-Order (BTO) projects in the October 2024 BTO exercise. The new BTO projects will be offered as Standard, Plus or Prime flats based on their specific locational attributes. More details on the projects will be shared during the launch.Read press releaseHDB Launches Sale Site at Tampines Street 9427 Jun 2024The Housing & Development Board (HDB), as the Government’s land sales agent, has launched a mixed commercial and residential site at Tampines Street 94 for sale by public tender today, under the Confirmed List of 1st Half 2024 (1H2024) Government Land Sales (GLS) Programme.",
+      "timestamp": "2024-08-19T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=8",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2024_0819",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Tampines",
+        "content_length": 2972,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "resale",
+          "rental",
+          "hdb",
+          "public housing",
+          "executive condominium",
+          "ec"
+        ],
+        "target_group": [
+          "first_time_buyers"
+        ],
+        "market_segment": [
+          "bto_market",
+          "resale_market",
+          "rental_market",
+          "ec_market",
+          "commercial_market"
+        ],
+        "grant_amount": 965,
+        "is_truncated": true,
+        "original_length": 3619
+      },
+      "content_length": 2972,
+      "word_count": 450,
+      "is_truncated": true,
+      "original_length": 3619,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_pr_20240619_f5b1b8d2",
+      "source": "government_hdb",
+      "text": "About UsPress ReleasesYou can find a list of our press releases, on issues related to public housing, here.Select YearAll20252024202320222021FromToGo﻿HDB Launches 6,938 Flats in June 2024 BTO Exercise19 Jun 2024HDB launched 6,938 flats for sale today, under the June 2024 Build-to-Order (BTO) exercise. This is the second of the three BTO launches in 2024, with 19,600 new flats to be launched in total this year.Read press releaseHDB to Launch the Parenthood Provisional Housing Scheme (Open Market) Voucher Scheme on 1 July 202413 Jun 2024From 1 July 2024, HDB will be launching the Parenthood Provisional Housing Scheme (PPHS) (Open Market) Voucher scheme toprovide temporarysupportfor young couples and families who are renting from the open market while awaiting the completion of their new flats.Read press releaseHDB Unveils Masterplan for Chencharu: A Vibrant Village, Connecting Communities and Heritage12 Jun 2024At this year’s Committee of Supply debate on 5 March 2024, Minister for National Development Mr Desmond Lee shared plans to develop a new housing area within Yishun town, as part of efforts to meet housing demand. Chencharu in Yishun will offer around 10,000 new homes by 2040, of which at least 80% will be set aside for public housing. This will provide a sizeable supply of new homes for Singaporeans, including families who wish to live near their parents in the area to provide mutual care and support.Read press releaseOver $95 Million Set Aside to Fund 23 Upgrading Projects in HDB Neighbourhoods, Benefiting More than 15,600 Households01 Jun 2024The Ministry of National Development (MND) and Housing & Development Board (HDB) have selected 23 projects for upgrading in the latest 15th batch of the Neighbourhood Renewal Programme (NRP).Read press releaseBidadari Estate wins World Gold at the 2024 FIABCI World Prix d’Excellence Awards31 May 2024The Housing & Development Board (HDB) has clinched the prestigious World Gold award for Bidadari estate in the Master Plan category, at the 2024 FIABCI World Prix d’Excellence Awards held on 30 May 2024 at Gardens by the Bay.Read press releaseOfficial Launch of Resale Flat Listing Service on HDB Flat Portal30 May 2024Since the soft launch of the Resale Flat Listing (RFL) service on 13 May 2024, over 600 resale flats have been listed for sale on the HDB Flat Portal. The RFL service on the HDB Flat Portal has been officially launched today, on 30 May 2024.Read press releaseHDB Issues Rated Fixed Rate Notes21 May 2024The Housing & Development Board (\"HDB\") has issued S$900 million, 7-year Fixed Rate Notes (the “Notes”) under its S$32 billion Multicurrency Medium Term Note (\"MTN\") Programme.Read press releaseHDB Launches Placemaking Challenge to Revitalise Bukit Merah Town Centre16 May 2024HDB has launched a call for design proposals to revitalise and rejuvenate the Bukit Merah Town Centre at the Singapore Archifest today.",
+      "timestamp": "2024-06-19T00:00:00",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases?PageNo=9",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Press Releases",
+        "agency": "HDB",
+        "press_release_id": "HDB_2024_0619",
+        "category": "press_release",
+        "policy_type": "bto_launch",
+        "bto_related": true,
+        "location": "Bukit Merah",
+        "content_length": 2912,
+        "keywords": [
+          "bto",
+          "launch",
+          "housing",
+          "flat",
+          "resale",
+          "hdb",
+          "public housing",
+          "ec",
+          "bukit merah",
+          "yishun"
+        ],
+        "target_group": [
+          "young_couples",
+          "families"
+        ],
+        "market_segment": [
+          "bto_market",
+          "resale_market",
+          "rental_market",
+          "ec_market"
+        ],
+        "grant_amount": 900,
+        "is_truncated": true,
+        "original_length": 3981
+      },
+      "content_length": 2912,
+      "word_count": 454,
+      "is_truncated": true,
+      "original_length": 3981,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_bto_20250921_9066b7e3",
+      "source": "government_hdb",
+      "text": "How the BTO process worksTheflat typesoffered are Community Care Apartments, 2-room Flexi, 3-, 4-, 5-room and 3Gen flats. You may apply for your preferred flat type and town, and a computer balloting will be conducted to determine whether your flat application is successful.First-timer families enjoy higher priority for BTO flats. Couples comprising a first-timer and second-timer are treated as first-timer families with the samepriority benefits and privileges.Here is an overview of the BTO process:Distribution of flat supplyMore flats are allocated to first-timer families as they have a more pressing need for a home.For seniors, at least 40% (minimum of 100 units per project) of the public flat supply of 2-room Flexi flats across Standard, Plus and Prime projects are set aside for them. Within this, half in Standard and Plus projects, and a quarter in Prime projects, are set aside for eligible seniors applying under the Senior Priority Scheme (SPS) (near existing home[1]) or Family Care Scheme (FCS) (Proximity). Any unused seniors’ quota will be distributed among the other non-senior households.[1] For seniors applying a 2-room Flexi flat that is within 4 km of their owner-occupied property (either HDB flat or private residential property).For second-timer families, up to 20% of the public flat supply will be set aside for them. If there are more second-timer families than the flat supply set aside for them, not all of them will be successful in their flat application.BTO flat distribution for non-seniors for Standard flatsFlat TypeFirst-timer FamiliesSecond-timer FamiliesFirst-timer SinglesFPPS^FCS (Proximity)*OthersASSISTFCS (Proximity)*OthersFCS (Proximity)*Others2-room Flexi#10%5%5%5%5%5%30%35%3-room40%30%10%10%5%5%NANA4-room and bigger40%30%20%NA5%5%NANAFPPS – Family and Parenthood Priority SchemeFCS (Proximity) – Family Care Scheme (Proximity)ASSIST – Assistance Scheme for Second-Timers (Divorced/Widowed Parents)^ Within the FPPS quota, first priority is given to FT(PMC)s who apply for a 4-room or smaller flat in Standard projects.* Within the FCS (Proximity) quota, first priority is given to applicants who apply for a flat to live with their parents/ child.# For 2-room Flexi flats, the allocation quota will be among the non-senior public supply.BTO flat distribution for non-seniors for Plus flatsFlat TypeFirst-timer FamiliesSecond-timer FamiliesFirst-timer SinglesFPPSFCS (Proximity)*OthersFCS (Proximity)*OthersFCS (Proximity)*Others2-room Flexi#10%5%5%5%10%30%35%3-room and bigger40%30%20%5%5%NANAFPPS – Family and Parenthood Priority SchemeFCS (Proximity) – Family Care Scheme (Proximity)* Within the FCS (Proximity) quota, first priority is given to applicants who apply for a flat to live with their parents/ child.# For 2-room Flexi flats, the allocation quota will be among the non-senior public supply.BTO flat distribution for non-seniors for Prime flatsFlat TypeFirst-timer FamiliesSecond-timer FamiliesFirst-timer SinglesFPPSFCS (Proximity",
+      "timestamp": "2025-09-21T16:52:02.862382",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/modes-of-sale",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Modes of Sale",
+        "agency": "HDB",
+        "category": "bto_information",
+        "policy_type": "bto_process",
+        "bto_related": true,
+        "content_type": "informational",
+        "content_length": 3000,
+        "keywords": [
+          "bto",
+          "ballot",
+          "application",
+          "flat",
+          "apartment",
+          "hdb",
+          "ec",
+          "scheme",
+          "priority",
+          "quota"
+        ],
+        "is_truncated": true,
+        "original_length": 8464
+      },
+      "content_length": 3000,
+      "word_count": 405,
+      "is_truncated": true,
+      "original_length": 8464,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_bto_20250921_7e6aab18",
+      "source": "government_hdb",
+      "text": "For first-timer applicants and those with more urgent housing needs, there are priority schemes in place to enhance your chances in the computer ballot for flats offered in the Build-To-Order (BTO) and Sale of Balance Flats (SBF) sales exercises. Read more about the variouspriority schemes. The Fresh Start Housing Scheme integrates financial assistance with personal responsibility and social support, and aims to help second-timer families with young children, who live in public rental flats, to own a 2-room Flexi or 3-room flat on shorter lease.Find out on theFresh Start Housing Scheme. No. of Applications ReceivedApplication Status/ ResultsBuild-To-Order ExerciseYou will receive an email notification to log in to theHDB Flat Portalto check the ballot results within 2 months after the application period has closed. The timeline to release the ballot results is dependent on the sales exercise and flat supply.For flat applications made before May 2023, you can check the application status viaMy HDBPage.July 2025February 2025Sales of Balance Flats ExerciseJuly 2025February 2025If you have been invited to select a flat, you maycheck out the flats available for selection. Flat applications are only valid if there are no changes to the household particulars and financial circumstances. Cancellation procedures and financial forfeitures may apply if there are changes to the flat application that may render you ineligible to continue with the flat purchase.Changes toStage of flat applicationDuring sales exerciseAfter sales exerciseCorrespondence address, contact details or priority scheme request (if applicable)You can log in toMy Flat Dashboardto make the changes, if applicable.Town or flat type applied forYou must cancel your existing flat application and re-apply online during the sales exercise application period with the payment of an administrative fee of $10 (inclusive of GST).You cannot change the town/ flat type you applied for.Household particulars or financial circumstancesAll details of the household in the flat application must be the same as the approved HFE letter.For any changes in household particulars or financial circumstances, such as income, you must cancel both your HFE letter and flat application, and apply for a fresh HFE letter (i.e. complete Step 1 - Check Preliminary HDB Flat Eligibility (HFE) and Step 2 - Apply for HDB Flat Eligibility (HFE) letter of the buying process again) by logging in to theHDB Flat Portal.As an HFE letter application takes about a month to process after HDB receives all the required documents, you would not be able to apply for a flat in the ongoing sales exercise.Please contact us viaMyRequest@HDB. If the changes render you ineligible to continue with the flat purchase, your flat application will be cancelled. Theusual financial forfeitures and consequences for the cancellationwill apply, depending on the stage of the application at the time of the cancellation.",
+      "timestamp": "2025-09-21T16:52:03.977534",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/application",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Application",
+        "agency": "HDB",
+        "category": "bto_information",
+        "policy_type": "bto_process",
+        "bto_related": true,
+        "content_type": "informational",
+        "content_length": 2958,
+        "keywords": [
+          "bto",
+          "ballot",
+          "application",
+          "housing",
+          "flat",
+          "rental",
+          "hdb",
+          "ec",
+          "fresh start",
+          "scheme"
+        ],
+        "is_truncated": true,
+        "original_length": 6378
+      },
+      "content_length": 2958,
+      "word_count": 447,
+      "is_truncated": true,
+      "original_length": 6378,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_bto_20250921_1172aef4",
+      "source": "government_hdb",
+      "text": "ResidentialTimelineHere is an overview of the flat buying process.MilestonesCheck eligibility and plan your financesYou must have a validHDB Flat Eligibility (HFE) letterbefore you may apply for a flat in our sales exercises. The HFE letter will provide you with a holistic understanding of your housing and financing options before you embark on your home buying journey. It will inform you upfront of your eligibility to purchase a new or resale flat, as well as the amounts of CPF housing grants and HDB housing loan you are eligible for. Read ourfrequently asked questionson the HFE letter.You may request for an In-Principle Approval from the participating financial institutions when you apply for an HFE letter on theHDB Flat Portal.Read on how toplan your finances, andcalculate your housing budgetbefore you search for a suitable home.Apply onlineApply for a new flat on theHDB Flat Portalduring a sales exercise. Find out more aboutmodes of salesandapplication of flat.Subscribe to HDB eAlertsto be notified of the sales exercises.You will receive an email notification to log in to theHDB Flat Portalto check the ballot results within 2 months after the applications period has closed. The timeline to release the ballot results is dependent on the sales exercise and flat supply.Book a flatThe booking exercise commences from 4 weeks after the release of the ballot results. It will take several months to complete, depending on the flat supply and the take-up rate. You will be invited to book a flat based on your balloted queue position and receive our invitation about 2 weeks before your booking appointment. Find out more onbooking of flat.Sign Agreement for LeaseYou will be invited to sign the Agreement for Lease within 9 months after booking a flat. Find out more onsign Agreement for Lease.Collect keysYou will be invited to collect keys when your booked flat is ready. Find out more onkey collection.NEXT STEPSFlat and Grant EligibilityLearn about the eligibility conditions for buying a flat and the CPF Housing Grants available for couples/ families, singles and seniors.Modes of SalesFind out about Build-To-Order and Sale of Balance Flats, exercises, and open booking of flats.ApplicationLearn about applying for a new flat, the priority schemes available and Fresh Start Housing Scheme.Conditions After BuyingLearn about the conditions that flat buyers have to follow after moving into their flat.",
+      "timestamp": "2025-09-21T16:52:05.089179",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/timeline",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Timeline",
+        "agency": "HDB",
+        "category": "bto_information",
+        "policy_type": "bto_process",
+        "bto_related": true,
+        "content_type": "informational",
+        "content_length": 2426,
+        "keywords": [
+          "ballot",
+          "application",
+          "housing",
+          "flat",
+          "resale",
+          "hdb",
+          "ec",
+          "grant",
+          "cpf",
+          "housing loan"
+        ],
+        "is_truncated": false,
+        "original_length": 2426
+      },
+      "content_length": 2426,
+      "word_count": 379,
+      "is_truncated": false,
+      "original_length": 2426,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_a567a671",
+      "source": "government_hdb",
+      "text": "CommunityCommunityMore than homes, HDB towns are vibrant places for all.Take part in our activities and programmes to bond with your neighbours, or lead your own projects to add liveliness to your community spaces.Check out the latest news and neighbourhood buzz. Or pick up some handy tips on how to be a gracious neighbour. All these information is just a click away!HDB Community Day 2025HDB Community Day 2025 recognises the dedicated efforts of our residents and community stakeholders in creating more vibrant and cohesive neighbourhoods.Find out how our residents enlivened their neighbourhoods and built stronger neighourly ties through their stories.Right arrow iconRead moreHighlightsLively Places ProgrammeMyNiceHome Roadshow for Sun SailsMyNiceHome Roadshow for Dakota OneMyNiceHome Roadshow for Parc ResidencesMyNiceHome Roadshow for Toa Payoh RidgeMyNiceHome Roadshow for Tampines Green OpalMyNiceHome Roadshow for Yishun BoardwalkMyNiceHome Roadshow for Bishan TowersMyNiceHome Roadshow for Bartley GreenRiseMyNiceHome Roadshow for Bartley BeaconPrevNextHDB Community DayBe inspired by residents who go the extra mile to enliven their neighbourhoods and build strong community ties.Find out moreCreating Vibrant PlacesShared spaces and facilities in your neighbourhoods are important areas where neighbours can build and strengthen their ties. Some of our communities have worked together with other stakeholders to enhance the vibrancy of these community spaces. Discover some of these projects, and be surprised by the gems that your neighbourhoods have to offer.Find out moreCaring for Your NeighboursA shared spirit of neighbourliness does wonder to make you feel at home. Through our designs and programmes, we create opportunities for neighbours to bond and foster good relationships.Find out morePractising Eco-LivingYou can learn more about eco-innovations and how you can adopt eco-living practices in your home. Join our eco-programmes and live the sustainable way today.Find out moreGetting InvolvedYou can play a part in shaping a great living environment and experience. Through a series of exciting ideas and initiatives, we work hand-in-hand with residents and community partners to promote stronger bonds in your neighbourhoods!Find out moreCommunity PublicationsFeel the pulse and get the buzz – straight from the heartlands! We’ve put together great reads, news, and more on heartland living. Come find out what’s been happening around our towns!Find out more",
+      "timestamp": "2025-09-21T16:52:06.343008",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Community",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 2492,
+        "keywords": [
+          "hdb",
+          "ec",
+          "bishan",
+          "tampines",
+          "toa payoh",
+          "yishun"
+        ],
+        "is_truncated": false,
+        "original_length": 2492
+      },
+      "content_length": 2492,
+      "word_count": 351,
+      "is_truncated": false,
+      "original_length": 2492,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_0ab44ea5",
+      "source": "government_hdb",
+      "text": "CommunityHDB Community DayHDB Community Day 2025The HDB Community Day celebrates the everyday heroes who bring our heartlands to life. Through the theme “Celebrating LIFE in the Heartlands”, we spotlight residents, volunteers, and partners who create vibrant spaces and nurture cohesive communities. HDB Community Day 2025 took place on 26 July 2025 at our newest town, Tengah. The event was held in conjunction with the official opening of Plantation Plaza – the town’s first new-generation Neighbourhood Centre.Event highlightsAt the event, Minister for National Development, Mr Chee Hong Tat, presented theSingapore’s Friendly Neighbourhood Awardto 12 awarded neighbourhoods, in recognition of their outstanding contributions to their community. Mdm Halimah Yacob, Patron for theFriends of Our Heartlands (FOH) Network, presented the FOH Awards to a total of 17 volunteers and schools who have contributed their time and services to nurturing caring, inclusive and vibrant neighbourhoods.Title1Renewal of Memorandum of Understanding with Temasek Polytechnic and Singapore PolytechnicTitle1Opening Address by Minister for National Development, Mr Chee Hong TatTitle1Stage Performance by MINDS Lee Kong Chian Gardens SchoolTitle1Selfie by Punggol Zenith – Recipient of Singapore’s Friendly Neighbourhood Award 2025Title1Deyi Secondary School – Recipient of Friends of Our Heartlands Platinum Award (Schools)Title1Tan Ha Eng – Recipient of Friends of Our Heartlands Diamond AwardTitle1Official Opening of Plantation PlazaTitle1Tengah Friends of Our Heartlands VolunteersTitle1Guests on the Tengah Familiarisation TourTitle1Event participants enjoying activities at the Grand PiazzaPrevNextMore photos can be found in theHDB Community Day 2025 photo gallery.PartnersHDB Community Day 2025 was made possible through collaboration with our valued partners:HDB Community Day 2023Find out what happened atHDB Community Day 2023.",
+      "timestamp": "2025-09-21T16:52:07.440118",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community/hdb-community-day",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | HDB Community Day",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 1923,
+        "keywords": [
+          "hdb",
+          "ec",
+          "punggol",
+          "development"
+        ],
+        "is_truncated": false,
+        "original_length": 1923
+      },
+      "content_length": 1923,
+      "word_count": 257,
+      "is_truncated": false,
+      "original_length": 1923,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_c2d0a420",
+      "source": "government_hdb",
+      "text": "CommunityCreating Vibrant PlacesShared spaces and facilities, such as playgrounds, rooftop gardens, and pavilions, are important areas where neighbours can build and strengthen ties. Many in our communities have worked together to enhance the shared spaces for all to enjoy.Discover some of these projects, and be surprised by the gems that our neighbourhoods have to offer.Your Community SpacesHDB towns are designed for social interaction and community bonding for residents of all ages.Find out moreTown & Community PlazasConveniently located at the town centres in the heartlands, you and your neighbours can take part in activities and make your Town Plaza a more vibrant community space.Find out morePunggol WaterwaySingapore’s largest man-made waterway is a wonder to behold, and a scenic sanctuary to enjoy. Get in touch with nature and discover the many eco-innovations of Punggol.Find out moreCommunity Participatory ProjectsResidents and communities took part in these projects and contributed to the designs and plans of their neighbourhood's community spaces. Check out the process of their involvement and the collective outcomes!Find out more",
+      "timestamp": "2025-09-21T16:52:08.521743",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community/creating-vibrant-places",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Creating Vibrant Places",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 1157,
+        "keywords": [
+          "hdb",
+          "ec",
+          "punggol"
+        ],
+        "is_truncated": false,
+        "original_length": 1157
+      },
+      "content_length": 1157,
+      "word_count": 168,
+      "is_truncated": false,
+      "original_length": 1157,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_b1831ccc",
+      "source": "government_hdb",
+      "text": "CommunityCaring for Your NeighboursBeing a good neighbour and having good neighbours make your estate a warm and pleasant place to live in. Be inspired by some of our shining examples of good neighbours and take simple steps to get to know those living near you today.Get to Know Your NeighboursFind out about the various opportunities and activities you can participate in to get to know your neighbours and your surroundings better!Find out moreBeing a Good NeighbourHere’s where you can learn to be a good neighbour! Small actions of being considerate and mindful go a long way towards those living around you. In turn, your neighbours may reciprocate your kindness in ways you have never imagined!Find out moreGood Neighbours MovementLearn about the different initiatives promoting neighbourliness and social harmony in our community.Find out moreInitiatives for the Young and YouthNo one is too young to impact their community in a positive way. Through our initiatives for our young people, the younger generation can play their part in strengthening the social fabric of Singapore.Find out moreInitiatives for SeniorsThese initiatives enrich our senior citizens’ lives and help them forge bonds with the rest of the community.Find out more",
+      "timestamp": "2025-09-21T16:52:09.635719",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community/caring-for-your-neighbours",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Caring for Your Neighbours",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 1246,
+        "keywords": [
+          "ec",
+          "estate"
+        ],
+        "is_truncated": false,
+        "original_length": 1246
+      },
+      "content_length": 1246,
+      "word_count": 194,
+      "is_truncated": false,
+      "original_length": 1246,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_748be34b",
+      "source": "government_hdb",
+      "text": "CommunityPractising Eco-LivingSustainable design, coupled with the adopting of good eco-living habits by residents, ensures that our HDB estates remain great living environments for ourselves and future generations.Over the years, HDB has established numerous initiatives and programmes to promote sustainability. On top of using innovative designs and new technologies to make public housing more resource-efficient, programmes and initiatives are also in place to encourage the community to adopt an environmentally responsible lifestyle.Sustainability TrailsKeen to learn more about Singapore's first eco-town, Punggol? Participate in our Sustainability Trails!Find out moreEco-Living TipsCheck out the energy saving tips and DIY eco-crafts in our Green Living Guide.Find out more",
+      "timestamp": "2025-09-21T16:52:10.729442",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community/practising-ecoliving",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Practising Eco-Living",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 783,
+        "keywords": [
+          "housing",
+          "hdb",
+          "public housing",
+          "ec",
+          "punggol",
+          "estate"
+        ],
+        "is_truncated": false,
+        "original_length": 783
+      },
+      "content_length": 783,
+      "word_count": 103,
+      "is_truncated": false,
+      "original_length": 783,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_65cbcebb",
+      "source": "government_hdb",
+      "text": "CommunityGetting InvolvedJoin us as a volunteer to shape positive and endearing heartland living experiences, or start your own ground-up projects to enliven public spaces.Lively Places ProgrammeThe Lively Places Programme is a joint initiative by HDB and URA to better support community-led efforts in enlivening Singapore’s public spaces. Under this programme, you can organise activities in public spaces and streets that bring communities together, or create installations that enliven our public spaces.Find out moreFriends of Our Heartlands NetworkFriends of Our Heartlands is a volunteer programme designed for residents, students, and community partners who are looking for opportunities to create change in HDB neighbourhoods.Find out moreProgrammes and Resources for SchoolsFind out more about our programmes that empower the young and youth to build caring and cohesive communities.We have also put together different learning resources for teachers to engage their students with.Find out more",
+      "timestamp": "2025-09-21T16:52:11.824871",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community/getting-involved",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Getting Involved",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 1004,
+        "keywords": [
+          "hdb",
+          "ec"
+        ],
+        "is_truncated": false,
+        "original_length": 1004
+      },
+      "content_length": 1004,
+      "word_count": 141,
+      "is_truncated": false,
+      "original_length": 1004,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_d4624974",
+      "source": "government_hdb",
+      "text": "CommunityCommunity PublicationsHere, you will find stories of the community that will move and inspire you. Learn more about these neighbourly stories and be connected to your community through these shared experiences.Read on to immerse yourself in these heart-warming stories.Life StoreysWe bring you heartfelt human stories in our quarterly publication ‘Life Storeys’.Find out moreMaddie and FriendsCheck out this pictorial storybook series that aims to inspire young children to be friendly and caring neighbours.Find out moreGood Neighbours’ StoriesRead more about the inspirational stories of past Good Neighbour Award and Good Neighbours Project recipients!Find out more",
+      "timestamp": "2025-09-21T16:52:12.914859",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community/community-publications",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Community Publications",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 677,
+        "keywords": [
+          "ec"
+        ],
+        "is_truncated": false,
+        "original_length": 677
+      },
+      "content_length": 677,
+      "word_count": 93,
+      "is_truncated": false,
+      "original_length": 677,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_eec4c861",
+      "source": "government_hdb",
+      "text": "CommunityLively Places ProgrammeThe Lively Places Programme is a joint initiative by HDB and URA to better support community-led efforts in enlivening Singapore’s public spaces. Under this programme, you can organise activities in public spaces and streets that bring communities together, or create installations that enliven our public spaces.Interested to start a project? Learn more about theLively Places Programmeand submit your interest to us.",
+      "timestamp": "2025-09-21T16:52:14.043380",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community/getting-involved/lively-places-programme",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Lively Places Programme",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 450,
+        "keywords": [
+          "hdb",
+          "ec"
+        ],
+        "is_truncated": false,
+        "original_length": 450
+      },
+      "content_length": 450,
+      "word_count": 63,
+      "is_truncated": false,
+      "original_length": 450,
+      "extraction_method": "web_scraping"
+    },
+    {
+      "id": "hdb_community_20250921_f2206883",
+      "source": "government_hdb",
+      "text": "Keep your home well-maintained to create an inviting living environment for your family and your neighboursContact a contractor to repair spalling concrete promptlyTalk to your upstairs neighbour to resolve ceiling leaksCheck your windows periodically to ensure they do not pose a safety riskUse common facilities responsiblyContact the Town Council for disposal of bulky itemsThrow bulky items in designated locations, not down the chuteMinimise the risk ofkiller litter Here are some tips to help you build closer ties with your neighbours:Talk to your neighbours to know them betterInvite your neighbours over for gatheringsAvoid noisy activities, especially during the quiet hours between 10:30pm and 7:00amTake a proper care of your pets and ensure that they do not disturb your neighboursResolve problems and differences amicablyPick up more tips on how you can be a good neighbour from theGood Neighbour Guidebook, or get inspired by the stories of ourSingapore’s Friendly Neighbourhood Award recipients!You can also check out our latest posters and videos jointly produced with Singapore Kindness Movement suggesting ways to show care for your neighbours:Caring for Our NeighboursDisposal of Bulky ItemsNeighbourhood NoiseNeighbours didn’t say hi, then how?Loud noise upstairs, then how?Corridor not tidy, then how?10:30pm, then how?Auntie and uncle need help, then how?Everyone’s home, then how?Workout at home, then how?Renovating, then how?Got extra, then how?Need to go digital, then how?Community needs help, then how?Watch more videos on spreading kindness in your neighbourhood in the links below:Late-night Noises, Then How?Cluttered Corridor, Then How?Bulky Items To Throw, Then How?Be Greater: Board GamesBe Greater: RenovationWhen neighbourly disputes arise, find outhow you can approach themto resolve conflicts amicably.",
+      "timestamp": "2025-09-21T16:52:15.162924",
+      "url": "https://www.hdb.gov.sg/cs/infoweb/community/caring-for-your-neighbours/being-a-good-neighbour/tips-on-neighbourliness",
+      "language": "en",
+      "metadata": {
+        "title": "HDB | Tips on Neighbourliness",
+        "agency": "HDB",
+        "category": "community_programs",
+        "policy_type": "community_development",
+        "bto_related": false,
+        "content_length": 1841,
+        "keywords": [
+          "ec"
+        ],
+        "is_truncated": false,
+        "original_length": 1841
+      },
+      "content_length": 1841,
+      "word_count": 261,
+      "is_truncated": false,
+      "original_length": 1841,
+      "extraction_method": "web_scraping"
+    }
+  ]
+}
