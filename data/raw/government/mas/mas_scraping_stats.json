@@ -1,0 +1,18 @@
+{
+  "media_releases": 0,
+  "banking_regulations": 18,
+  "macroprudential": 1,
+  "parliamentary_speeches": 4,
+  "total_articles": 23,
+  "policy_types": {
+    "regulatory_requirement": 17,
+    "unknown": 5,
+    "macroprudential_policy": 1
+  },
+  "affected_measures": {
+    "TDSR": 16,
+    "LTV": 7,
+    "MSR": 4,
+    "ABSD": 1
+  }
+}
