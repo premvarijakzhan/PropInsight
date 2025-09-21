@@ -71,7 +71,7 @@ class GovernmentScraper:
         self.sources = {
             'MND': {
                 'name': 'Ministry of National Development',
-                'rss_url': 'https://www.mnd.gov.sg/rss/press-releases.xml',  # Enable RSS
+                'rss_url': None,  # RSS feed doesn't exist
                 'base_url': 'https://www.mnd.gov.sg',
                 'news_url': 'https://www.mnd.gov.sg/newsroom/press-releases',
                 'archive_urls': [
@@ -79,7 +79,7 @@ class GovernmentScraper:
                     'https://www.mnd.gov.sg/newsroom/press-releases?year=2023',
                     'https://www.mnd.gov.sg/newsroom/press-releases?year=2022'
                 ],
-                'scrape_method': 'enhanced'  # Use both RSS and HTML for comprehensive coverage
+                'scrape_method': 'html'  # Use HTML scraping only
             },
             'HDB': {
                 'name': 'Housing & Development Board',
@@ -95,17 +95,26 @@ class GovernmentScraper:
                 'news_url': 'https://www.ura.gov.sg/Corporate/Media/Media-Room/Media-Releases',
                 'scrape_method': 'html'
             },
+            'BCA': {
+                'name': 'Building and Construction Authority',
+                'rss_url': None,  # No RSS feed available
+                'base_url': 'https://www.bca.gov.sg',
+                'news_url': 'https://www.bca.gov.sg/NewsAndPublications/others/pr_others.aspx',
+                'scrape_method': 'html'
+            },
             'NEA': {
                 'name': 'National Environment Agency',
-                'rss_url': 'https://www.nea.gov.sg/rss/news-releases.xml',
+                'rss_url': None,  # RSS feed not working - 404 error
                 'base_url': 'https://www.nea.gov.sg',
-                'scrape_method': 'rss'
+                'news_url': 'https://www.nea.gov.sg/media/news',
+                'scrape_method': 'html'
             },
             'SFA': {
                 'name': 'Singapore Food Agency',
-                'rss_url': 'https://www.sfa.gov.sg/docs/default-source/default-document-library/rss-feeds/news-releases.xml',
+                'rss_url': None,  # RSS feed not working - 404 error
                 'base_url': 'https://www.sfa.gov.sg',
-                'scrape_method': 'rss'
+                'news_url': 'https://www.sfa.gov.sg/food-information/news-and-events/news',
+                'scrape_method': 'html'
             }
         }
         
@@ -144,11 +153,16 @@ class GovernmentScraper:
         # Setup session with proper headers
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': 'PropInsight Research Bot 1.0 (Academic Research)',
-            'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.9',
-            'Accept-Encoding': 'gzip, deflate',
-            'Connection': 'keep-alive'
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Cache-Control': 'max-age=0'
         })
         
         # Update sources with base URLs for HTML scraping
@@ -160,6 +174,12 @@ class GovernmentScraper:
                     self.sources[agency]['base_url'] = 'https://www.hdb.gov.sg'
                 elif agency == 'URA':
                     self.sources[agency]['base_url'] = 'https://www.ura.gov.sg'
+                elif agency == 'BCA':
+                    self.sources[agency]['base_url'] = 'https://www.bca.gov.sg'
+                elif agency == 'NEA':
+                    self.sources[agency]['base_url'] = 'https://www.nea.gov.sg'
+                elif agency == 'SFA':
+                    self.sources[agency]['base_url'] = 'https://www.sfa.gov.sg'
     
     def is_property_related(self, text: str) -> bool:
         """
@@ -670,7 +690,7 @@ def main():
     print(f"MND articles: {stats['mnd_articles']}")
     print(f"HDB articles: {stats['hdb_articles']}")
     print(f"URA articles: {stats['ura_articles']}")
-    print(f"Failed feeds: {stats['failed_feeds']}")
+    print(f"Failed sources: {stats['failed_sources']}")
 
 if __name__ == "__main__":
     main()
