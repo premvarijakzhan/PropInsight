@@ -1,0 +1,43 @@
+shs_year,elderly_pop,sex,age,percentage
+2013,Elderly,Male,65  -  69,40.2
+2013,Elderly,Male,70  -  74,29.9
+2013,Elderly,Male,75  -  79,18.9
+2013,Elderly,Male,80  -  84,6.9
+2013,Elderly,Male,85 & Above,4.1
+2013,Elderly,Female,65  -  69,36.3
+2013,Elderly,Female,70  -  74,26.8
+2013,Elderly,Female,75  -  79,14.8
+2013,Elderly,Female,80  -  84,12.1
+2013,Elderly,Female,85 & Above,10
+2013,Elderly,All,65  -  69,38.1
+2013,Elderly,All,70  -  74,28.1
+2013,Elderly,All,75  -  79,16.6
+2013,Elderly,All,80  -  84,9.8
+2013,Elderly,All,85 & Above,7.4
+2013,Future Elderly,Male,55  -  59,53.3
+2013,Future Elderly,Male,60  -  64,46.7
+2013,Future Elderly,Female,55  -  59,55.1
+2013,Future Elderly,Female,60  -  64,44.9
+2013,Future Elderly,All,55  -  59,54.2
+2013,Future Elderly,All,60  -  64,45.8
+2018,Elderly,Male,65  -  69,37.7
+2018,Elderly,Male,70  -  74,28.4
+2018,Elderly,Male,75  -  79,18.2
+2018,Elderly,Male,80  -  84,10.7
+2018,Elderly,Male,85 & Above,5
+2018,Elderly,Female,65  -  69,37.5
+2018,Elderly,Female,70  -  74,25.6
+2018,Elderly,Female,75  -  79,18.2
+2018,Elderly,Female,80  -  84,10.3
+2018,Elderly,Female,85 & Above,8.4
+2018,Elderly,All,65  -  69,37.6
+2018,Elderly,All,70  -  74,26.9
+2018,Elderly,All,75  -  79,18.2
+2018,Elderly,All,80  -  84,10.5
+2018,Elderly,All,85 & Above,6.8
+2018,Future Elderly,Male,55  -  59,50.1
+2018,Future Elderly,Male,60  -  64,49.9
+2018,Future Elderly,Female,55  -  59,50.6
+2018,Future Elderly,Female,60  -  64,49.4
+2018,Future Elderly,All,55  -  59,50.4
+2018,Future Elderly,All,60  -  64,49.6
