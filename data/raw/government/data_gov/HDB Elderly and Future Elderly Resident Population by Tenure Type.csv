@@ -1,0 +1,25 @@
+shs_year,elderly_pop,tenure_type,percentage
+2003,Elderly,Sold,90.4
+2003,Elderly,Rental,9.6
+2003,Future Elderly,Sold,95.1
+2003,Future Elderly,Rental,4.9
+2003,All,Sold,97.1
+2003,All,Rental,2.9
+2008,Elderly,Sold,91.1
+2008,Elderly,Rental,8.9
+2008,Future Elderly,Sold,95.1
+2008,Future Elderly,Rental,4.9
+2008,All,Sold,97
+2008,All,Rental,3
+2013,Elderly,Sold,92.7
+2013,Elderly,Rental,7.3
+2013,Future Elderly,Sold,95.5
+2013,Future Elderly,Rental,4.5
+2013,All,Sold,96.3
+2013,All,Rental,3.7
+2018,Elderly,Sold,94.3
+2018,Elderly,Rental,5.7
+2018,Future Elderly,Sold,95.9
+2018,Future Elderly,Rental,4.1
+2018,All,Sold,96.2
+2018,All,Rental,3.8

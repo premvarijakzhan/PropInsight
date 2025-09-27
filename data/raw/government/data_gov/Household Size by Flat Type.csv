@@ -1,0 +1,127 @@
+shs_year,flat_type,household_size,percentage
+2008,1-room,1 person,33
+2008,1-room,2 person,53
+2008,1-room,3 person,8.8
+2008,1-room,4 person,3.6
+2008,1-room,5 person,1.1
+2008,1-room,6 or more persons,0.5
+2008,2-room,1 person,22.6
+2008,2-room,2 person,47.2
+2008,2-room,3 person,16.6
+2008,2-room,4 person,6.6
+2008,2-room,5 person,5
+2008,2-room,6 or more persons,2
+2008,3-room,1 person,19.3
+2008,3-room,2 person,29.5
+2008,3-room,3 person,24.3
+2008,3-room,4 person,17.8
+2008,3-room,5 person,6.8
+2008,3-room,6 or more persons,2.3
+2008,4-room,1 person,3.4
+2008,4-room,2 person,18.3
+2008,4-room,3 person,24.3
+2008,4-room,4 person,31.4
+2008,4-room,5 person,14.1
+2008,4-room,6 or more persons,8.5
+2008,5-room,1 person,1.7
+2008,5-room,2 person,17.6
+2008,5-room,3 person,20
+2008,5-room,4 person,33.2
+2008,5-room,5 person,18.2
+2008,5-room,6 or more persons,9.4
+2008,Executive,1 person,0.6
+2008,Executive,2 person,10.8
+2008,Executive,3 person,17.4
+2008,Executive,4 person,33.1
+2008,Executive,5 person,27.1
+2008,Executive,6 or more persons,11
+2008,All,1 person,8
+2008,All,2 person,22
+2008,All,3 person,22.1
+2008,All,4 person,27.2
+2008,All,5 person,13.7
+2008,All,6 or more persons,7
+2013,1-room,1 person,29.2
+2013,1-room,2 person,51.1
+2013,1-room,3 person,13.4
+2013,1-room,4 person,3.7
+2013,1-room,5 person,2.1
+2013,1-room,6 or more persons,0.5
+2013,2-room,1 person,23.7
+2013,2-room,2 person,32.5
+2013,2-room,3 person,23.6
+2013,2-room,4 person,11.3
+2013,2-room,5 person,4.5
+2013,2-room,6 or more persons,4.4
+2013,3-room,1 person,19.1
+2013,3-room,2 person,27.8
+2013,3-room,3 person,23.6
+2013,3-room,4 person,18.8
+2013,3-room,5 person,6.9
+2013,3-room,6 or more persons,3.8
+2013,4-room,1 person,3.9
+2013,4-room,2 person,18.3
+2013,4-room,3 person,25.4
+2013,4-room,4 person,29.2
+2013,4-room,5 person,14.9
+2013,4-room,6 or more persons,8.3
+2013,5-room,1 person,2.3
+2013,5-room,2 person,13.8
+2013,5-room,3 person,23.7
+2013,5-room,4 person,32.9
+2013,5-room,5 person,18
+2013,5-room,6 or more persons,9.3
+2013,Executive,1 person,1.1
+2013,Executive,2 person,10.6
+2013,Executive,3 person,17.9
+2013,Executive,4 person,36
+2013,Executive,5 person,21.8
+2013,Executive,6 or more persons,12.6
+2013,All,1 person,8.4
+2013,All,2 person,20.4
+2013,All,3 person,23.6
+2013,All,4 person,26.7
+2013,All,5 person,13.5
+2013,All,6 or more persons,7.4
+2018,1-room,1 person,36.5
+2018,1-room,2 person,49.5
+2018,1-room,3 person,8.5
+2018,1-room,4 person,2.9
+2018,1-room,5 person,2.1
+2018,1-room,6 or more persons,na
+2018,2-room,1 person,26.9
+2018,2-room,2 person,31.7
+2018,2-room,3 person,19.5
+2018,2-room,4 person,12.6
+2018,2-room,5 person,5.3
+2018,2-room,6 or more persons,4
+2018,3-room,1 person,24.8
+2018,3-room,2 person,32
+2018,3-room,3 person,21.7
+2018,3-room,4 person,13.8
+2018,3-room,5 person,4.7
+2018,3-room,6 or more persons,2.9
+2018,4-room,1 person,8.7
+2018,4-room,2 person,23.5
+2018,4-room,3 person,24.7
+2018,4-room,4 person,27.3
+2018,4-room,5 person,10.9
+2018,4-room,6 or more persons,4.9
+2018,5-room,1 person,4
+2018,5-room,2 person,21.2
+2018,5-room,3 person,24.2
+2018,5-room,4 person,30.5
+2018,5-room,5 person,13.4
+2018,5-room,6 or more persons,6.7
+2018,Executive,1 person,3.4
+2018,Executive,2 person,17.6
+2018,Executive,3 person,22.2
+2018,Executive,4 person,28.2
+2018,Executive,5 person,17.9
+2018,Executive,6 or more persons,10.7
+2018,All,1 person,12.6
+2018,All,2 person,25.7
+2018,All,3 person,23
+2018,All,4 person,23.6
+2018,All,5 person,10
+2018,All,6 or more persons,5
