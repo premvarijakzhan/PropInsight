@@ -1,0 +1,25 @@
+event_date,agency,policy,description,impact
+2010-02-20,MAS,Seller's Stamp Duty (SSD),SSD imposed on residential properties sold within 1 year of purchase,Discouraged short-term flipping
+2010-08-30,MAS,Loan-to-Value (LTV) Limits,LTV lowered from 90% to 80%,Increased upfront cash/CPF requirement
+2011-01-14,MAS,SSD Revision,SSD holding period extended to 4 years; rates raised to 16/12/8/4%,Further discouraged speculation
+2011-12-07,MAS,Additional Buyer's Stamp Duty (ABSD),ABSD introduced: "10% for foreigners/entities; 3% for PRs (2nd property); 3% for SCs (3rd property)",Cooled foreign and multiple-property demand
+2013-06-29,MAS,Total Debt Servicing Ratio (TDSR),Introduced TDSR framework capping debt obligations at 60% of income,Ensured prudent borrowing
+2013-12-12,MAS,LTV & MSR Adjustments,LTV tightened for multiple loans; MSR capped at 30% for HDB loans,Reduced leverage for buyers
+2016-01-01,MAS,Countercyclical Capital Buffer (CCyB),CCyB framework implemented at 0%,Strengthened financial stability
+2016-09-02,MAS,TDSR Refinements,TDSR disapplied for refinancing owner-occupied housing loans,Improved refinancing flexibility
+2017-03-10,MAS,SSD Revision,SSD holding period reduced to 3 years; rates lowered to 12/8/4%,Eased restrictions on resale
+2018-07-06,MAS,ABSD & LTV Tightening,ABSD raised by 5–10pp; LTV lowered by 5pp,Further cooled investment demand
+2021-12-15,MAS,TDSR Tightening,TDSR threshold lowered from 60% to 55%,Reduced borrowing capacity
+2021-12-15,MAS,ABSD Increase,ABSD raised by 5–15pp across categories,Further cooled demand
+2022-09-29,MAS,Medium-Term Interest Rate Floor,Interest rate floor for TDSR/MSR raised by 0.5pp,Reflected higher expected rates
+2023-04-26,MAS,ABSD Increase,"ABSD raised by 3–30pp (foreigners 60%, entities 65%)",Strong cooling of investment demand
+2023-06-21,MND,GLS Programme 2H2023,Confirmed list supply raised to 9250 units (highest in a decade),Boosted private housing supply
+2024-06-25,MND,GLS Programme 2H2024,Total supply of 11110 units (highest since 2013),Stabilised private housing market
+2025-06-10,SLA,Land Swap with Johor Regent,Exchange of Holland Road parcels to protect Botanic Gardens buffer,Preserved heritage & controlled development
+2025-07-01,SLA,Tanjong Katong Complex Redevelopment,Tender awarded to Jun Jie Development for cultural/lifestyle hub,Revitalised heritage site
+2025-08-29,SLA,Land Betterment Charge (LBC) Revision,LBC rates revised upwards for commercial/landed/industrial,Increased development costs
+2025-08-29,SFA,Lease Extensions,Pasir Panjang Wholesale Centre & Jurong Fishery Port leases extended to 2040,Strengthened food supply resilience
+2023-10-05,SFA,Agricultural Land Tender,SFA launched 2023 land tender for vegetable farming,Expanded agri-food production
+2024-04-04,SFA,Agricultural Land Tender,SFA awarded 4 plots under 2023 tender,Boosted local farming capacity
+2024-01-18,SFA,Sea Tender for Food Fish Farming,SFA launched 2024 sea tender for aquaculture,Expanded aquaculture capacity
+2025-08-18,SFA,Agricultural Land Tender,SFA launched 2025 land tender,Increased food resilience pipeline
