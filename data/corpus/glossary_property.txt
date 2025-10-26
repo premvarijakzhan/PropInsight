@@ -1,0 +1,556 @@
+Glossary Of Singapore Real Estate Terms
+#RES/Web
+2+1: A property system in Singapore representing 2 bedrooms with a servant’s room or a study room. Generally budget-friendly.
+4+1: This system comprises 4 bedrooms and 1 study or servant’s room. Usually the largest unit in the development.
+ABSD (Additional Buyer’s Stamp Duty): A tax imposed on owners in Singapore when they purchase additional properties, paid in addition to Buyer’s Stamp Duty.
+Agent: Typically refers to individual Real Estate Salespersons (RES) but also officially refers to real estate companies.
+Bankruptcy Search: A search made by conveyancers to check whether a buyer or borrower has been, is, or is about to be declared bankrupt.
+Black and White: Houses in Singapore dating back to hundreds of years in history, representing the typical bungalow kind of houses that offer insight into the city’s
+colonial past.
+BTO (Build-To-Order): A category of brand new flats built by the Housing and Development Board (HDB).
+Bungalow: Huge properties in Singapore, often 2 to 3 stories high, undergoing transformations to meet the needs and tastes of the people.
+Buyer’s Stamp Duty (BSD) Rates:
+First $180,000: 1%
+Next $180,000: 2%
+Next $640,000: 3% (residential and commercial property)
+Remaining Amount: 4% (residential property only)
+CMA (Comparative Market Analysis): A report on the value of a home compared to others offered on the current property sales market.
+CEA (Council for Estate Agencies): A government statutory board overseeing and regulating the real estate industry to protect consumers.
+Community Care Apartment: Senior-friendly housing with specific features.
+Condo: Short for condominium, a form of housing where a part of real estate is owned individually, with access to common facilities.
+CPF (Central Provident Fund): A social security savings scheme in Singapore used to fund home purchases.
+CSC (Certificate of Statutory Completion): Issued by the building authority denoting legal completion of a building after the Temporary Occupation Permit.
+DC (Development Charge): Paid when a proposed development increases the value of a freehold property.
+Decoupling: Selling shares of a property to a single owner to purchase more properties without paying ABSD.
+Default: Occurs when a debtor has not met its legal obligations according to the debt contract, either unwilling or unable to pay their debt.
+Deferred Payment Scheme (DPS): A form of progress payment allowing property buyers to defer the bulk of the purchase payment to a later date, requiring a bank
+loan at the point of purchase.
+District 9, 10, and 11: Leading residential areas for expatriates, no longer in use but known for properties like Pandan Valley, The Duet, Robertson Blue, Tanglin Park,
+etc.
+Development Charge (DC): Paid when a proposed development increases the value of a freehold property.
+Diplomatic Clause: Implies that a tenant can terminate the tenancy with early notice only after the completion of the first twelve months, with a written notice period
+or payment of rent in lieu thereof.
+Down Payment: A portion of the total purchase price paid upfront to secure a property purchase.
+En-bloc Sale: Collective sales of separate units in a private residential or commercial building, often fetching a higher price than market value.
+Executive Flat: An HDB flat with specific features, including 3 bedrooms.
+Fixtures: Personal property that has become attached to the property, such as escalators.
+Fogging: Mosquito prevention involving the fogging of areas with pesticides and insecticides for sustained results.
+Foreclosure: A legal proceeding where a lender obtains a court-ordered termination of a borrower’s right of redemption of the pledged property due to default.
+Freehold: A form of tenure by which an estate is held for life.
+Funds Payable: Deals with various factors related to property rent, including one month advance rent, two/three months security deposit, and stamp duties.
+GST (Goods and Services Tax): A consumption tax levied on the import of goods and services in Singapore, currently at 8% in 2023 and then 9% in 2024. You do
+have to pay GST for services provided by a property agent.
+HDB (Housing & Development Board): The public housing authority in Singapore responsible for planning and developing housing estates.
+Heartlands: Areas where the majority of Singaporeans, especially the middle and labor classes, reside, often situated in HDB estates.
+In-Principle Approval (IPA): Given by banks for a home loan, subject to further conditions.
+Joint Tenancy: Treats owners as one, with the right of survivorship.
+Jumbo Flat: A combination of two adjacent flats.
+Land Betterment Charge (LBC): Paid when a proposed development increases the value of a property.
+LDAU (Land Dealings Approval Unit): Approval required for foreigners to buy landed property.
+Lasting Power of Attorney (LPA): A legal instrument indicating trusted individuals to act on behalf of someone losing mental capacity.
+Letter of Intent (LOI): A written offer made by a tenant to a landlord, dealing with terms of tenancy such as rent, duration, and commencement date.
+Letter of Offer: Given by banks when they approve a loan.
+Leasehold: A tenure held by a lessee under a lease.
+LPA (Lasting Power of Attorney): A legal instrument indicating trusted individuals to act on behalf of someone losing mental capacity.
+LTV (Loan-to-Value): Applicable to all property purchases, allowing borrowers to borrow up to a certain percentage of a property’s value.
+Maisonette: 2-storied buildings consisting of bedrooms, wardrobes, kitchens, and bathrooms, similar to flats on two floors.
+Minimum Occupation Period (MOP): The length of time a buyer of an HDB flat must stay in it before putting it up for resale.
+MSR (Mortgage Servicing Ratio) Rules:
+Applicable to HDB and EC purchases.
+All property loans capped at 30% of a borrower’s monthly income.
+Neg (Negotiable): Tenants often negotiate property transactions based on their budget, with landlords negotiating with different parties.
+Option to Purchase (OTP): A legally binding contract between sellers and buyers, protecting both parties.
+Per Square Foot (PSF): A unit used to measure the area of a property, often used to denote the total price in square feet.
+Pest Control: Services and aid provided to homeowners or renters to protect houses from insects, often using the latest techniques for eradication.
+Price per Square Foot (PSF): The price of the property divided by the land area.
+Proof of Immigration Status : Documents, including birth certificate, passport, green card, employment letters, and certificates by registered companies, required to
+certify a tenant as a legal citizen of Singapore.
+Private Apartment: Units in a non-public development with fewer communal facilities than a condominium.
+Property Tenure: States the time during which the owner of the property has the legal right of use, with HDB flats usually having tenures of 99 years.
+Real Estate Salesperson (RES): The official term for property agents, realtors, and brokers in Singapore, set by the Council for Estate Agencies (CEA).
+Refinance/Repricing: The process of restructuring an existing mortgage.
+Resale: Refers to pre-owned and pre-loved properties that are on sale again.
+Restricted / Non-restricted Property: Property where the purchase needs / needs not obtain approval from the relevant authority.
+Sale and Purchase Agreement (S&P): Utilized in private property transactions.
+Seller Stamp Duty (SSD): Paid when selling a property within three years, with varying rates for residential and industrial properties.
+Semi: Two houses joined together by a common wall, a good option for those seeking company and friendly relations with neighbors.
+SIBOR (Singapore Interbank Offered Rate): The rate at which banks lend/borrow funds from each other, commonly used as a benchmark to price home loans.
+Singapore Land Authority (SLA): A statutory board holding Singapore’s land information database and developing and marketing state properties.
+Stamp Duty: Fees chargeable by the government upon a successful property transaction, currently set at 3% of the purchase price.
+Strata: Sharing of common areas in a multi-level apartment block by some apartments, denoted by a title associated with townhouses, units, and blocks of flats.
+Strata Title: A title to a unit or lot on a plan of subdivision associated with townhouses, units, and blocks of flats, based on the horizontal and vertical subdivision of
+air space.
+Straits: Popularly known as the Chinese doll’s house, it consists of shops on the ground floor and residential apartments above, often stretching up to three storeys.
+Swap Offer Rate (SOR): Another benchmark rate used to price home loans, considering exchange rates.
+TDSR (Total Debt Servicing Ratio): Applicable to non-HDB/new EC purchases, capping all loans at 55% of a borrower’s monthly income.
+Temporary Occupation Permit (TOP): Granted by the Commissioner of Building Control upon completion of a construction project, allowing occupancy.
+Terrace House: A row of linked houses, often with gardens.
+TDSR Limits on Loans and Incomes: Tied in with loan tenure, LTV limits, borrower’s age, existing housing loans, property type, and person/company status.
+Tenancy Agreement: An agreement bearing the names of the landlord and tenant, outlining various deal facets such as the rented area, down payment, annual rent,
+agreement period, and other conditions.
+Temporary Occupation Permit (TOP): An approval that marks the date when owners or tenants are permitted to stay in a property.
+Tenancy-in-Common: Ownership where owners are seen as separate, each able to pass their share to others.
+Terrace House: A row of linked houses, often with gardens.
+Town House: A row of residential properties with common land ownership.
+URA (Urban Redevelopment Authority): The national land use planning authority of Singapore, dealing with long-term strategic plans, local area plans, and
+coordination to bring these plans to reality.
+Valuation Fee: The fee paid for the valuation of a property, determining the market value for calculating the maximum loan amount.
+View to Offer (VTO): Indicates that the seller has not set a selling price and will entertain offers from prospective buyers.
+Walk-Up Apartment: An apartment in a building of five floors or fewer, where upper-floor access is only available by staircase.
+
+BSD (Buyer's Stamp Duty): Tax levied on property purchases in Singapore, with rates ranging from 1-4% based on property value.
+CCR (Core Central Region): Prime areas comprising luxury neighborhoods such as Orchard, Bukit Timah, and Marina Bay.
+RCR (Rest of Central Region): Area surrounding the CCR with mixed housing at moderate prices.
+OCR (Outside Central Region): Suburban areas with more affordable housing options.
+MSR (Mortgage Servicing Ratio): Caps property loans at 30% of monthly income for HDB and EC purchases.
+
+
+Property Types and Classifications
+2+1 / 4+1 System
+In Singapore real estate listings, this numbering system indicates the number of bedrooms plus a domestic helper's room. For example, "2+1" means 2 bedrooms plus a helper's room, while "4+1" denotes 4 bedrooms plus a helper's room[8].
+
+Air Con or A/C
+Refers to air conditioning, a standard feature in Singapore properties due to the tropical climate. Often specified in property listings with details about the number of units or type of system[8].
+
+Black and White Houses
+Houses in Singapore with a history dating back centuries, representing the traditional bungalow-style residences that provide insights into the city's colonial past. Made famous due to Ridout issue in Singapore. These striking government-owned historical bungalows with colonial roots are heritage protected and available for foreigners to rent via an auction process.
+
+BR (Bedroom)
+Abbreviation commonly used in property listings to indicate the number of bedrooms in a property.
+
+B/S (Bomb Shelter)
+A mandatory feature in newer HDB flats and some private properties, designed as a reinforced space that can be used as storage or utility room during normal times.
+
+BTO (Build-To-Order)
+A category of newly constructed flats by the Housing and Development Board (HDB), where construction begins only when a certain percentage of units have been booked by eligible buyers. Also the term made famous by "Wanna to BTO Together ?"
+
+Bungalow
+Expensive properties in Singapore, often spanning 2 to 3 stories, undergoing renovations to meet evolving needs and preferences. These standalone houses typically sit on larger land plots and represent the most exclusive form of landed property in Singapore.
+
+Cluster House
+A hybrid property type that combines the privacy and space of landed property with the convenience of condominium facilities. Cluster housing developments feature landed properties (bungalows, semi-detached or terrace houses) with shared amenities like pools, playgrounds, and gyms. These strata-titled landed properties are located within gated communities.
+
+Community Care Apartment
+Senior-friendly housing with specific amenities designed to support aging in place, including healthcare services and communal facilities.
+
+Condo (Condominium)
+A housing type where a portion of real estate is individually owned, with access to shared facilities. In Singapore and Malaysia, condos specifically refer to residential buildings with luxury facilities such as security guards, swimming pools, or tennis courts.
+
+Condominium Complex
+Refers to the entire development comprising individually owned residential units and shared facilities such as swimming pools, gyms, and security services[5].
+
+Corner Terrace House
+A terrace house located at the end of a row, typically offering more land area and windows on three sides instead of just the front and back.
+
+Cul-de-sac House
+A property located on a dead-end street that typically forms a circular area for turning around. These properties often command premium prices due to reduced traffic and increased privacy.
+
+Executive Condominium (EC)
+A public-private housing hybrid introduced in the 1990s, physically resembling private condominiums in style and facilities. ECs are aimed at the "sandwich class" - households with higher incomes that don't qualify for public housing but find private property too expensive. They follow public housing regulations including a 5-year Minimum Occupation Period (MOP) before resale, and after 10 years transform into private condominiums that can be sold on the open market to foreigners. Read more about ECs on PatkoProperty.
+
+Executive Flat
+An HDB flat with distinctive features, including 3 bedrooms, generally larger than standard HDB units and often featuring additional amenities.
+
+HDB (Housing & Development Board)
+The public housing authority in Singapore tasked with planning and developing housing estates. HDB flats house over 80% of Singapore's resident population.
+
+Heartlands
+Areas where the majority of Singaporeans, especially the middle and working classes, reside, often located in HDB estates outside the central business district.
+
+Jumbo Flat
+A combination of two adjacent flats, typically created by combining a 3-room and a 4-room flat, resulting in a significantly larger living space.
+
+Land-titled Property
+Property that sits within its own land boundaries, as opposed to strata-titled properties.
+
+Level 1
+In Singapore, this refers to the ground floor of a building. The numbering system starts with 1 rather than 0 or G as in some other countries.
+
+Maisonette
+Two-story buildings comprising bedrooms, wardrobes, kitchens, and bathrooms, similar to flats on two floors. These were built by HDB primarily in the 1980s and 1990s. In private properties, maisonettes typically have bedrooms and main bathroom upstairs.
+
+Prime Residential Districts (District 9, 10, and 11)
+Formerly prominent residential areas for expatriates, no longer in official use but recognized for luxury properties. District 9 includes Orchard Road and Cairnhill, District 10 covers Bukit Timah and Holland, and District 11 encompasses Thomson and Newton. Hot developments here include Watten House and 32 Gilstead.
+
+Private Apartment
+Units in a non-public development with fewer communal facilities than a condominium, typically in buildings with less than 50 units.
+
+Semi-Detached House (Semi or Semi-D)
+Two houses connected by a common wall, a suitable option for those seeking camaraderie and amicable relations with neighbors.
+
+Shophouse
+Property that used to be a traditional shop selling spices or trading goods with residential space above. Many of these properties are now on conservation lists, representing important cultural heritage. They typically feature distinctive architectural elements including five-foot ways (covered walkways). Shophouses are now a huge importance of the asset progression.
+
+State-titled Property
+An apartment in a building where some areas are common or shared among residents.
+
+Straits Architecture
+Commonly known as the Chinese doll's house, it comprises shops on the ground floor and residential apartments above, often spanning up to three storeys. These shophouses are culturally significant in Singapore's architectural heritage.
+
+Terrace House (Terr)
+A row of linked houses, often featuring gardens. These landed properties share walls with neighboring units on both sides, except for corner units.
+
+Walk-Up Apartment
+Apartments in a building with five floors or fewer, where upper-floor access is available solely by staircase, without elevators.
+
+Geographic and Market Regions
+Core Central Region (CCR)
+Prime areas comprising luxury neighborhoods such as Orchard, Bukit Timah, and Marina Bay. The CCR is synonymous with high-end living and investment properties, particularly attractive to affluent buyers. Read about the 3 Regions in Singapore.
+
+Rest of Central Region (RCR)
+The area surrounding the CCR, featuring a mix of private and public housing at more moderate price points than the CCR.
+
+Outside Central Region (OCR)
+Suburban areas of Singapore outside the central regions, typically featuring more affordable housing options while still maintaining good connectivity to the city center.
+
+Ownership Types and Regulations
+Agreement of Sale
+The basic contract of sale and purchase between a willing seller and buyer. No matter what the parties have agreed to verbally, no contract exists until an agreement of sale is completed and signed by both parties[8].
+
+Bankruptcy Search
+A search conducted by conveyancers to verify whether a buyer or borrower has been, is, or is on the verge of being declared bankrupt[1].
+
+Certificate of Statutory Completion (CSC)
+Issued by the building authority, indicating legal completion of a building after obtaining the Temporary Occupation Permit.
+
+Decoupling
+Selling shares of a property to a single owner to acquire additional properties without incurring ABSD, a strategy used by married couples to optimize property ownership.
+
+Diplomatic Clause
+Allows a tenant to terminate the tenancy with advance notice only after the initial twelve months, with a written notice period or payment of rent in lieu. Very useful and important for expats. Very important when you do rental for "Ang Mo".
+
+En-bloc Sale
+Collective sales of individual units in a private residential or commercial building, often fetching a higher price than market value. This requires a minimum consensus among owners (80-90% depending on the property's age)[1].
+
+Fixtures
+Personal property attached to the real estate, such as escalators, that becomes part of the property legally[1].
+
+Freehold Tenure
+A form of land ownership where an estate is held indefinitely. There are not many freehold properties for sale in Singapore, making them generally more valuable.
+
+Joint Tenancy
+Treats owners as a single entity, with the right of survivorship. If one owner passes away, their share automatically transfers to the surviving owner(s)[1].
+
+LDAU (Land Dealings Approval Unit)
+Approval required for foreigners to purchase landed property. Especially important in Sentosa too[1].
+
+Lease Period
+A fixed time frame for which a lease agreement is in force. This is usually two or three years at an agreed rental rate and often comes with an option to renew for a further term[4].
+
+Leasehold
+A tenure held by a lessee under a lease agreement. In Singapore, houses are sold in 99 years or 999 years leasehold terms. Most HDB flats are on 99-year leases[1].
+
+Minimum Occupation Period (MOP)
+The duration a buyer of an HDB flat must reside in it before putting it up for resale. One of the most favourite topic about what you can or cannot do in MOP.
+
+Restricted / Non-restricted Property
+Property requiring or not requiring approval from the relevant authority for purchase, particularly relevant for foreign buyers[1].
+
+Strata Ownership
+The sharing of common areas in a multi-level apartment block by some units, denoted by a title associated with townhouses, units, and blocks of flats[1].
+
+Strata Title
+A title to a unit or lot on a plan of subdivision associated with townhouses, units, and blocks of flats, based on the horizontal and vertical subdivision of airspace[1].
+
+Tenancy-in-Common Ownership
+Ownership where individuals are considered separate entities, each capable of passing their share to others according to their will[1].
+
+Temporary Occupation Permit (TOP)
+Granted by the Commissioner of Building Control upon the completion of a construction project, allowing for occupancy before the issuance of the CSC[1].
+
+Government Schemes and Programs
+Design, Build and Sell Scheme (DBSS)
+A housing program where private developers build and sell public housing units with design features similar to private condominiums[5].
+
+Fresh Start Housing Scheme
+A program providing second-timer families with children living in public rental flats the opportunity to receive grants for a new standard 2-room Flexi or standard 3-room flat on a shorter lease. Budget 2025 increased the grant amount from S$50,000 to S$75,000.
+
+GLS (Government Land Sales)
+GLS Programme is where the Government sells usable state land to developers through a bidding process. This is the main way in which the government releases land for residential use and is always 99-years lease[1].
+
+HDB Conversion Scheme
+A program allowing owners of adjoining HDB flats to legally combine them into a single, larger unit subject to specific conditions[5].
+
+HDB Fire Insurance Scheme
+A mandatory insurance scheme for all HDB flat owners to protect against fire damage to the internal structures, fixtures, and areas built by HDB[5].
+
+HDB Flat Eligibility (HFE) Letter
+A document issued by HDB confirming an applicant's eligibility to purchase a new or resale HDB flat[5].
+
+HDB Intent to Buy (ITB)
+A declaration by prospective buyers of their intention to purchase an HDB flat, usually submitted through HDB's online portal[5].
+
+Home Improvement Program (HIP)
+A government initiative to upgrade older HDB flats, addressing common maintenance issues and improving living conditions[5].
+
+Joint Singles Scheme (JSS)
+A scheme allowing two or more single Singapore citizens to jointly purchase an HDB resale flat[5].
+
+Joint Singles Scheme Operator-Run (JSS-OR)
+An extension of the Joint Singles Scheme with specific operational guidelines for singles co-purchasing HDB flats[5].
+
+Sale of Balance Flats (SBF)
+Unsold flats from previous HDB launches offered to eligible buyers, providing additional opportunities to secure public housing[5].
+
+Staggered Downpayment Scheme
+A payment option allowing eligible HDB flat buyers to make their downpayment in two installments instead of one lump sum[5].
+
+Financial and Tax Terms
+ABSD (Additional Buyer's Stamp Duty)
+A tax imposed on property owners in Singapore when acquiring additional properties, paid on top of the Buyer's Stamp Duty. Foreigners pay different rates from Permanent Residents who pay different rates from Singaporeans.
+
+Addendum
+A supplementary agreement to an original sales contract covering points agreed to thereafter. It is a separate agreement in its own right and, if it contradicts the original in any way, it is presumed to overrule it[8].
+
+Amortization and Amortization Schedule
+Repayment of the loan principal from scheduled mortgage payments above the interest paid. An amortization schedule is a table showing all monthly mortgage payments broken down by interest and amortization, with the remaining loan balance[2].
+
+Annual Percentage Rate (APR)
+The yearly rate charged for borrowing, expressed as a percentage that represents the actual yearly cost of funds over the term of a loan[5].
+
+Annual Value
+The estimated annual rental income a property would generate if rented out, used to calculate property tax. Tax rates are progressive, with higher-valued properties subject to higher tax rates.
+
+Appraisal (or Valuation)
+The process of determining the market value of a property, typically required by banks when issuing mortgage loans[2].
+
+Approval-in-principle / In-principle approval (IPA)
+Granted by banks for a home loan, subject to additional conditions. This preliminary approval indicates how much you can borrow[1][5].
+
+Bridge Loan
+A short-term loan used to bridge the gap between the sale of one property and the purchase of another[2].
+
+Buyer's Stamp Duty (BSD) Rates
+First $180,000: 1%
+Next $180,000: 2%
+Next $640,000: 3% (residential and commercial property)
+Remaining Amount: 4% (residential property only)[1]
+
+Cancellation Fees
+Charges incurred when canceling a home loan application or terminating a loan during the lock-in period[2].
+
+Capitalisation Rate
+A rate that helps determine the value of income-producing properties, calculated by dividing the property's net operating income by its current market value or acquisition cost.
+
+Claw-back Period
+A period during which banks can reclaim subsidies or incentives if certain conditions aren't met, such as terminating a mortgage before a specified time[2].
+
+CMA (Comparative Market Analysis)
+An assessment of a home's value compared to others in the current property sales market, commonly prepared by real estate agents[1].
+
+Collateral
+Assets pledged as security for a loan, typically the property itself in the case of mortgages[2].
+
+Compound Interest
+Interest calculated on both the initial principal and the accumulated interest from previous periods, effectively "interest on interest"[5].
+
+CPF (Central Provident Fund)
+A social security savings scheme in Singapore used for funding home purchases. Singaporeans can use their CPF Ordinary Account to pay for property downpayments and monthly mortgage payments[1].
+
+Credit Bureau Report
+A detailed report of an individual's credit history, used by lenders to assess creditworthiness for mortgage applications[5].
+
+Credit Report
+A record of a person's or company's past borrowing and repaying activities, used to determine creditworthiness for loans[2].
+
+DC (Development Charge)
+Levied when a proposed development enhances the value of a freehold property[1].
+
+Debt-to-income Ratio
+The percentage of a consumer's monthly gross income that goes toward paying debts, used by lenders to determine loan eligibility[5].
+
+Default
+Occurs when a debtor fails to meet legal obligations as per the debt contract, either unwilling or unable to settle their debt[1][2].
+
+Deferred Payment Scheme (DPS)
+A form of progressive payment allowing property buyers to defer the majority of the purchase payment to a later date, necessitating a bank loan at the point of purchase[1].
+
+Discharge of CPF Charge
+The process of removing the CPF Board's legal interest in a property after all CPF funds used for the property purchase have been refunded[5].
+
+Down Payment
+A fraction of the total purchase price paid upfront to secure a property, typically 5-25% depending on loan requirements[1][2].
+
+EMI in Loan
+Equated Monthly Installment, a fixed payment amount made by a borrower to a lender at a specified date each month, comprising both principal and interest[5].
+
+Equity in Property Ownership
+The difference between the property's current market value and the amount still owed on the mortgage[5].
+
+Fixed and Floating Interest Rates
+Fixed rates remain constant for a specified period, while floating rates fluctuate based on financial indices such as SIBOR or SOR[5].
+
+Forbearance
+A temporary postponement of mortgage payments granted by a lender to borrowers experiencing financial difficulties[5].
+
+Foreclosure
+A legal process where a lender secures a court-ordered termination of a borrower's right of redemption of the pledged property due to default[1].
+
+GST (Goods and Services Tax)
+A consumption tax imposed on the import of goods and services in Singapore, currently at 8% in 2023 and set to increase to 9% in 2024[1][5].
+
+Gross Rent
+Comprises base rent plus service charges, typically calculated as dollars per square foot per month in commercial properties[4].
+
+Home Insurance
+Insurance coverage protecting against damage to a property's structure and contents[2].
+
+Home Protection Scheme (HPS)
+A mortgage-reducing insurance scheme that protects CPF members and their families from losing their HDB flat in the event of death, terminal illness, or permanent disability[2][5].
+
+Interest Accrual Period
+The period during which interest accumulates on a loan[2].
+
+Interest Payment
+The amount paid as interest on a mortgage loan, calculated based on the outstanding principal and interest rate[2].
+
+Interest Rate
+The percentage charged on borrowed money, determining the cost of the mortgage[2].
+
+Interest-only Mortgage
+A loan where payments initially cover only the interest portion, with principal payments beginning later in the loan term[2].
+
+Land Betterment Charge (LBC)
+Incurred when a proposed development increases the value of a property. This replaced the Development Charge (DC) system[1].
+
+Lasting Power of Attorney (LPA)
+A legal instrument designating trusted individuals to act on behalf of someone losing mental capacity[1].
+
+Legal Fees
+Costs associated with the legal aspects of property transactions, including document preparation and conveyancing[2][4].
+
+Letter of Intent (LOI)
+A written offer made by a tenant to a landlord, specifying tenancy terms such as rent, duration, and commencement date[1].
+
+Letter of Offer (LO)
+Provided by banks upon loan approval, outlining the terms and conditions of the mortgage[1][2].
+
+Lien
+A legal right or claim against a property by a creditor as security for a debt, which remains in effect until the debt is satisfied[5].
+
+Loan Amount
+The principal sum borrowed from a financial institution for property purchase[2].
+
+LTV (Loan-to-Value)
+Applicable to all property purchases, allowing borrowers to borrow up to a certain percentage of a property's value, currently capped at 75% for first housing loans[1][2].
+
+Monthly Debt Obligations
+The sum of all monthly debt payments, including mortgages, car loans, and credit cards, used in TDSR calculations[2].
+
+Mortgage
+A loan secured by real estate property, where the borrower is obligated to make payments until the debt is satisfied[2][5].
+
+Mortgage Insurance
+Insurance that protects the lender if the borrower defaults on the mortgage[2].
+
+MSR (Mortgage Servicing Ratio) Rules
+Applicable to HDB and EC purchases, capping all property loans at 30% of a borrower's monthly income[1].
+
+Neg (Negotiable)
+Indicates that the rental price or terms are open to negotiation, with several prospective tenants potentially making competing offers[8].
+
+Option to Purchase (OTP)
+A legally binding contract between sellers and buyers, safeguarding both parties. Agents love OTPs as they represent a committed transaction[1].
+
+Per Square Foot (PSF)
+A unit of measurement for the area of a property, often used to denote the total price in square feet[1].
+
+PMI (Private Mortgage Insurance)
+Insurance that protects lenders against default when borrowers make a down payment of less than 20%[5].
+
+Power of Attorney (POA)
+A legal document allowing someone to act on behalf of another person in property transactions and other legal matters[5].
+
+Prepayment
+Early repayment of a mortgage loan, either in part or in full, before the scheduled due date[2].
+
+Prepayment Penalty
+A fee charged by some lenders when borrowers pay off all or part of their mortgage before the end of the loan term[2].
+
+Price per Square Foot (PSF)
+The price of the property divided by the land area, a standard metric for comparing property values in Singapore[1].
+
+Primary Residence
+The main home where a borrower lives most of the time, often qualifying for more favorable loan terms than investment properties[2].
+
+Principal
+The original loan amount borrowed, excluding interest[2].
+
+Property Tax
+A tax levied on property in Singapore based on Annual Value rather than rental income. In 2025, the government will provide a one-off Property Tax rebate of 20% for HDB flats and 15% (capped at $1,000) for private homes[1].
+
+Property Valuation Fee
+The fee paid for assessing the value of a property, determining the market value for calculating the maximum loan amount[1].
+
+Real Estate Investment Trust (REIT)
+A company that owns, operates, or finances income-generating real estate, allowing individual investors to earn dividends without directly owning properties[5].
+
+Refinancing
+The process of obtaining a new mortgage to pay off an existing one, typically to secure better interest rates or loan terms[1][2].
+
+Rent-free Period
+A period, typically one to three months, granted by landlords for tenants to complete fitting-out works in commercial properties[4].
+
+Repricing
+Changing the interest rate of an existing loan with the same lender, usually with lower administrative costs than refinancing[1][2].
+
+Required Cash
+The total cash required to close a property transaction, including down payment, legal fees, and stamp duties, which can be partially offset by CPF funds[2].
+
+Reverse Mortgage
+A loan available to seniors that allows them to convert part of their home equity into cash without selling the home or making monthly mortgage payments[5].
+
+SASSEUR REIT
+A Singapore-listed real estate investment trust focused on outlet malls in China[5].
+
+Security Deposit
+A cash payment made upon signing the Letter of Offer or Tenancy Agreement, typically equivalent to two or three months' rent for residential properties and three months' gross rent for commercial properties[4].
+
+Service Charge
+Covers air-conditioning during normal business hours, management, security, and maintenance of common areas in commercial buildings. Charges typically range from $0.80 to $1.50 per square foot per month, depending on the building grade[4].
+
+Seller Stamp Duty (SSD)
+Levied when selling a property within three years, with varying rates for residential and industrial properties. This was implemented to discourage short-term property speculation[1].
+
+SIBOR (Singapore Interbank Offered Rate)
+The rate at which banks lend or borrow funds from each other, commonly used as a benchmark to determine home loan rates[1][2].
+
+SORA Interest Rate Benchmark
+Singapore Overnight Rate Average, a volume-weighted average rate of borrowing transactions in the unsecured overnight interbank SGD cash market, increasingly used as a benchmark for loans[5].
+
+Stamp Duty
+Fees imposed by the government upon a successful property transaction. Can be Buyer Stamp Duties, ABSD or Seller Stamp Duties[1][2].
+
+Swap Offer Rate (SOR)
+Another benchmark rate used to determine home loan rates, considering exchange rates[1].
+
+TDSR (Total Debt Servicing Ratio)
+Applicable to non-HDB/new EC purchases, capping all loans at 55% of a borrower's monthly income. This framework aims to ensure financial prudence among borrowers[1][5].
+
+Underwriting
+The process of examining all data about a property transaction to determine whether the mortgage should be issued, typically done by the lender[2].
+
+View to Offer (VTO)
+Indicates that the seller has not specified a selling price and will consider offers from prospective buyers[1].
+
+Zoning in Singapore
+The regulatory framework that designates land use in specific areas, controlling what types of properties can be built in different zones[5].
+
+Property Services and Maintenance
+Agent
+Typically refers to individual Real Estate Salespersons (RES) but also officially denotes real estate companies
+
+CEA (Council for Estate Agencies)
+A government statutory board overseeing and regulating the real estate industry to safeguard consumers. Technically agents are all scared of CEA and being invited for a coffee with them 😄
+
+Fogging
+Mosquito prevention involving the dispersion of pesticides and insecticides in specific areas for sustained results. The majority of areas in Singapore are fogged with pesticides on a weekly basis[1][8].
+
+Pest Control
+A regular service provided to homes to prevent infestation of pests, utilizing the latest techniques for eradication
+
+Real Estate Salesperson (RES)
+The official term for property agents, realtors, and brokers in Singapore, as designated by the Council for Estate Agencies (CEA).
+
+URA (Urban Redevelopment Authority)
+The national land use planning authority of Singapore, involved in long-term strategic plans, local area plans, and coordination to actualize these plans

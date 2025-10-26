@@ -1,0 +1,2158 @@
+{"label": "OTHER", "pattern": "2+1"}
+{"label": "OTHER", "pattern": "4+1"}
+{"label": "TAX&DUTY", "pattern": "Additional Buyer’s Stamp Duty (ABSD)"}
+{"label": "TAX&DUTY", "pattern": "ABSD (Additional Buyer’s Stamp Duty)"}
+{"label": "TAX&DUTY", "pattern": "Additional Buyer’s Stamp Duty"}
+{"label": "TAX&DUTY", "pattern": "ABSD"}
+{"label": "OTHER", "pattern": "Agent"}
+{"label": "OTHER", "pattern": "Bankruptcy Search"}
+{"label": "OTHER", "pattern": "BS"}
+{"label": "PROPERTYTYPE", "pattern": "Black and White"}
+{"label": "PROPERTYTYPE", "pattern": "BW"}
+{"label": "HDB", "pattern": "Build-To-Order (BTO)"}
+{"label": "HDB", "pattern": "BTO (Build-To-Order)"}
+{"label": "HDB", "pattern": "Build-To-Order"}
+{"label": "HDB", "pattern": "BTO"}
+{"label": "PROPERTYTYPE", "pattern": "Bungalow"}
+{"label": "OTHER", "pattern": "First $180,000"}
+{"label": "OTHER", "pattern": "Next $180,000"}
+{"label": "OTHER", "pattern": "Next $640,000"}
+{"label": "OTHER", "pattern": "Remaining Amount"}
+{"label": "OTHER", "pattern": "RA"}
+{"label": "MARKETMETRIC", "pattern": "Comparative Market Analysis (CMA)"}
+{"label": "MARKETMETRIC", "pattern": "CMA (Comparative Market Analysis)"}
+{"label": "MARKETMETRIC", "pattern": "Comparative Market Analysis"}
+{"label": "MARKETMETRIC", "pattern": "CMA"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Council for Estate Agencies (CEA)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "CEA (Council for Estate Agencies)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Council for Estate Agencies"}
+{"label": "AGENCY&AUTHORITY", "pattern": "CEA"}
+{"label": "OTHER", "pattern": "Community Care Apartment"}
+{"label": "OTHER", "pattern": "CCA"}
+{"label": "PROPERTYTYPE", "pattern": "Condo"}
+{"label": "OTHER", "pattern": "Central Provident Fund (CPF)"}
+{"label": "OTHER", "pattern": "CPF (Central Provident Fund)"}
+{"label": "OTHER", "pattern": "Central Provident Fund"}
+{"label": "OTHER", "pattern": "CPF"}
+{"label": "LEGAL&DOCS", "pattern": "Certificate of Statutory Completion (CSC)"}
+{"label": "LEGAL&DOCS", "pattern": "CSC (Certificate of Statutory Completion)"}
+{"label": "LEGAL&DOCS", "pattern": "Certificate of Statutory Completion"}
+{"label": "LEGAL&DOCS", "pattern": "CSC"}
+{"label": "TAX&DUTY", "pattern": "Development Charge (DC)"}
+{"label": "TAX&DUTY", "pattern": "DC (Development Charge)"}
+{"label": "TAX&DUTY", "pattern": "Development Charge"}
+{"label": "TAX&DUTY", "pattern": "DC"}
+{"label": "TAX&DUTY", "pattern": "Decoupling"}
+{"label": "HDB", "pattern": "Default"}
+{"label": "OTHER", "pattern": "Deferred Payment Scheme (DPS)"}
+{"label": "OTHER", "pattern": "Deferred Payment Scheme"}
+{"label": "OTHER", "pattern": "DPS"}
+{"label": "OTHER", "pattern": "District 9, 10, and 11"}
+{"label": "LEGAL&DOCS", "pattern": "Diplomatic Clause"}
+{"label": "LEGAL&DOCS", "pattern": "DC"}
+{"label": "OTHER", "pattern": "Down Payment"}
+{"label": "OTHER", "pattern": "DP"}
+{"label": "PROCESS", "pattern": "En-bloc Sale"}
+{"label": "PROCESS", "pattern": "ES"}
+{"label": "HDB", "pattern": "Executive Flat"}
+{"label": "HDB", "pattern": "EF"}
+{"label": "OTHER", "pattern": "Fixtures"}
+{"label": "MAINTENANCE", "pattern": "Fogging"}
+{"label": "PROCESS", "pattern": "Foreclosure"}
+{"label": "TENURE", "pattern": "Freehold"}
+{"label": "OTHER", "pattern": "Funds Payable"}
+{"label": "OTHER", "pattern": "FP"}
+{"label": "OTHER", "pattern": "Goods and Services Tax (GST)"}
+{"label": "OTHER", "pattern": "GST (Goods and Services Tax)"}
+{"label": "OTHER", "pattern": "Goods and Services Tax"}
+{"label": "OTHER", "pattern": "GST"}
+{"label": "HDB", "pattern": "Housing & Development Board (HDB)"}
+{"label": "HDB", "pattern": "HDB (Housing & Development Board)"}
+{"label": "HDB", "pattern": "Housing & Development Board"}
+{"label": "HDB", "pattern": "HDB"}
+{"label": "HDB", "pattern": "Heartlands"}
+{"label": "OTHER", "pattern": "In-Principle Approval (IPA)"}
+{"label": "OTHER", "pattern": "In-Principle Approval"}
+{"label": "OTHER", "pattern": "IPA"}
+{"label": "LEGAL&DOCS", "pattern": "Joint Tenancy"}
+{"label": "LEGAL&DOCS", "pattern": "JT"}
+{"label": "HDB", "pattern": "Jumbo Flat"}
+{"label": "HDB", "pattern": "JF"}
+{"label": "TAX&DUTY", "pattern": "Land Betterment Charge (LBC)"}
+{"label": "TAX&DUTY", "pattern": "Land Betterment Charge"}
+{"label": "TAX&DUTY", "pattern": "LBC"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Land Dealings Approval Unit (LDAU)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "LDAU (Land Dealings Approval Unit)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Land Dealings Approval Unit"}
+{"label": "AGENCY&AUTHORITY", "pattern": "LDAU"}
+{"label": "LEGAL&DOCS", "pattern": "Lasting Power of Attorney (LPA)"}
+{"label": "LEGAL&DOCS", "pattern": "LPA (Lasting Power of Attorney)"}
+{"label": "LEGAL&DOCS", "pattern": "Lasting Power of Attorney"}
+{"label": "LEGAL&DOCS", "pattern": "LPA"}
+{"label": "LEGAL&DOCS", "pattern": "Letter of Intent (LOI)"}
+{"label": "LEGAL&DOCS", "pattern": "Letter of Intent"}
+{"label": "LEGAL&DOCS", "pattern": "LOI"}
+{"label": "LEGAL&DOCS", "pattern": "LI"}
+{"label": "OTHER", "pattern": "Letter of Offer"}
+{"label": "OTHER", "pattern": "LO"}
+{"label": "TENURE", "pattern": "Leasehold"}
+{"label": "FINANCE&RATES", "pattern": "Loan-to-Value (LTV)"}
+{"label": "FINANCE&RATES", "pattern": "LTV (Loan-to-Value)"}
+{"label": "FINANCE&RATES", "pattern": "Loan-to-Value"}
+{"label": "FINANCE&RATES", "pattern": "LTV"}
+{"label": "FINANCE&RATES", "pattern": "LV"}
+{"label": "HDB", "pattern": "Maisonette"}
+{"label": "HDB", "pattern": "Minimum Occupation Period (MOP)"}
+{"label": "HDB", "pattern": "Minimum Occupation Period"}
+{"label": "HDB", "pattern": "MOP"}
+{"label": "OTHER", "pattern": "Neg (Negotiable)"}
+{"label": "OTHER", "pattern": "Neg"}
+{"label": "OTHER", "pattern": "Negotiable"}
+{"label": "OTHER", "pattern": "NN"}
+{"label": "LEGAL&DOCS", "pattern": "Option to Purchase (OTP)"}
+{"label": "LEGAL&DOCS", "pattern": "Option to Purchase"}
+{"label": "LEGAL&DOCS", "pattern": "OTP"}
+{"label": "LEGAL&DOCS", "pattern": "OP"}
+{"label": "MARKETMETRIC", "pattern": "Per Square Foot (PSF)"}
+{"label": "MARKETMETRIC", "pattern": "Per Square Foot"}
+{"label": "MARKETMETRIC", "pattern": "PSF"}
+{"label": "MAINTENANCE", "pattern": "Pest Control"}
+{"label": "MAINTENANCE", "pattern": "PC"}
+{"label": "MARKETMETRIC", "pattern": "Price per Square Foot (PSF)"}
+{"label": "MARKETMETRIC", "pattern": "Price per Square Foot"}
+{"label": "OTHER", "pattern": "Proof of Immigration Status"}
+{"label": "OTHER", "pattern": "PIS"}
+{"label": "PROPERTYTYPE", "pattern": "Private Apartment"}
+{"label": "PROPERTYTYPE", "pattern": "PA"}
+{"label": "HDB", "pattern": "Property Tenure"}
+{"label": "HDB", "pattern": "PT"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Real Estate Salesperson (RES)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Real Estate Salesperson"}
+{"label": "AGENCY&AUTHORITY", "pattern": "RES"}
+{"label": "FINANCE&RATES", "pattern": "Refinance/Repricing"}
+{"label": "FINANCE&RATES", "pattern": "RR"}
+{"label": "FINANCE&RATES", "pattern": "Refinance"}
+{"label": "FINANCE&RATES", "pattern": "Repricing"}
+{"label": "OTHER", "pattern": "Resale"}
+{"label": "OTHER", "pattern": "Restricted / Non-restricted Property"}
+{"label": "OTHER", "pattern": "RNP"}
+{"label": "OTHER", "pattern": "Restricted"}
+{"label": "OTHER", "pattern": "Non-restricted Property"}
+{"label": "LEGAL&DOCS", "pattern": "Sale and Purchase Agreement (S&P)"}
+{"label": "LEGAL&DOCS", "pattern": "Sale and Purchase Agreement"}
+{"label": "LEGAL&DOCS", "pattern": "S&P"}
+{"label": "LEGAL&DOCS", "pattern": "SPA"}
+{"label": "TAX&DUTY", "pattern": "Seller Stamp Duty (SSD)"}
+{"label": "TAX&DUTY", "pattern": "Seller Stamp Duty"}
+{"label": "TAX&DUTY", "pattern": "SSD"}
+{"label": "PROPERTYTYPE", "pattern": "Semi"}
+{"label": "FINANCE&RATES", "pattern": "Singapore Interbank Offered Rate (SIBOR)"}
+{"label": "FINANCE&RATES", "pattern": "SIBOR (Singapore Interbank Offered Rate)"}
+{"label": "FINANCE&RATES", "pattern": "Singapore Interbank Offered Rate"}
+{"label": "FINANCE&RATES", "pattern": "SIBOR"}
+{"label": "FINANCE&RATES", "pattern": "SIOR"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Singapore Land Authority (SLA)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Singapore Land Authority"}
+{"label": "AGENCY&AUTHORITY", "pattern": "SLA"}
+{"label": "TAX&DUTY", "pattern": "Stamp Duty"}
+{"label": "TAX&DUTY", "pattern": "SD"}
+{"label": "OTHER", "pattern": "Strata"}
+{"label": "OTHER", "pattern": "Strata Title"}
+{"label": "OTHER", "pattern": "ST"}
+{"label": "OTHER", "pattern": "Straits"}
+{"label": "FINANCE&RATES", "pattern": "Swap Offer Rate (SOR)"}
+{"label": "FINANCE&RATES", "pattern": "Swap Offer Rate"}
+{"label": "FINANCE&RATES", "pattern": "SOR"}
+{"label": "HDB", "pattern": "Total Debt Servicing Ratio (TDSR)"}
+{"label": "HDB", "pattern": "TDSR (Total Debt Servicing Ratio)"}
+{"label": "HDB", "pattern": "Total Debt Servicing Ratio"}
+{"label": "HDB", "pattern": "TDSR"}
+{"label": "LEGAL&DOCS", "pattern": "Temporary Occupation Permit (TOP)"}
+{"label": "LEGAL&DOCS", "pattern": "Temporary Occupation Permit"}
+{"label": "LEGAL&DOCS", "pattern": "TOP"}
+{"label": "PROPERTYTYPE", "pattern": "Terrace House"}
+{"label": "PROPERTYTYPE", "pattern": "TH"}
+{"label": "FINANCE&RATES", "pattern": "TDSR Limits on Loans and Incomes"}
+{"label": "FINANCE&RATES", "pattern": "TDSR"}
+{"label": "FINANCE&RATES", "pattern": "LLI"}
+{"label": "LEGAL&DOCS", "pattern": "Tenancy Agreement"}
+{"label": "LEGAL&DOCS", "pattern": "TA"}
+{"label": "LEGAL&DOCS", "pattern": "Tenancy-in-Common"}
+{"label": "LEGAL&DOCS", "pattern": "TC"}
+{"label": "PROPERTYTYPE", "pattern": "Town House"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Urban Redevelopment Authority (URA)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "URA (Urban Redevelopment Authority)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Urban Redevelopment Authority"}
+{"label": "AGENCY&AUTHORITY", "pattern": "URA"}
+{"label": "PROCESS", "pattern": "Valuation Fee"}
+{"label": "PROCESS", "pattern": "VF"}
+{"label": "OTHER", "pattern": "View to Offer (VTO)"}
+{"label": "OTHER", "pattern": "View to Offer"}
+{"label": "OTHER", "pattern": "VTO"}
+{"label": "OTHER", "pattern": "VO"}
+{"label": "PROPERTYTYPE", "pattern": "Walk-Up Apartment"}
+{"label": "PROPERTYTYPE", "pattern": "WUA"}
+{"label": "TAX&DUTY", "pattern": "Buyer's Stamp Duty (BSD)"}
+{"label": "TAX&DUTY", "pattern": "BSD (Buyer's Stamp Duty)"}
+{"label": "TAX&DUTY", "pattern": "Buyer's Stamp Duty"}
+{"label": "TAX&DUTY", "pattern": "BSD"}
+{"label": "REGION", "pattern": "Core Central Region (CCR)"}
+{"label": "REGION", "pattern": "CCR (Core Central Region)"}
+{"label": "REGION", "pattern": "Core Central Region"}
+{"label": "REGION", "pattern": "CCR"}
+{"label": "REGION", "pattern": "Rest of Central Region (RCR)"}
+{"label": "REGION", "pattern": "RCR (Rest of Central Region)"}
+{"label": "REGION", "pattern": "Rest of Central Region"}
+{"label": "REGION", "pattern": "RCR"}
+{"label": "REGION", "pattern": "Outside Central Region (OCR)"}
+{"label": "REGION", "pattern": "OCR (Outside Central Region)"}
+{"label": "REGION", "pattern": "Outside Central Region"}
+{"label": "REGION", "pattern": "OCR"}
+{"label": "HDB", "pattern": "Mortgage Servicing Ratio (MSR)"}
+{"label": "HDB", "pattern": "MSR (Mortgage Servicing Ratio)"}
+{"label": "HDB", "pattern": "Mortgage Servicing Ratio"}
+{"label": "HDB", "pattern": "MSR"}
+{"label": "OTHER", "pattern": "a fiduciary in Singapore"}
+{"label": "OTHER", "pattern": "What is a fiduciary in Singapore?"}
+{"label": "OTHER", "pattern": "Who is a fiduciary in Singapore"}
+{"label": "OTHER", "pattern": "WS"}
+{"label": "OTHER", "pattern": "What duties does a fiduciary fulfil"}
+{"label": "OTHER", "pattern": "exceptions to a fiduciary’s duty in Singapore"}
+{"label": "OTHER", "pattern": "What are the exceptions to a fiduciary’s duty in Singapore?"}
+{"label": "OTHER", "pattern": "What happens if a fiduciary fails to fulfil their duty"}
+{"label": "HDB", "pattern": "a mortgage"}
+{"label": "HDB", "pattern": "What is a mortgage?"}
+{"label": "FINANCE&RATES", "pattern": "Factors influencing mortgage and the application process"}
+{"label": "FINANCE&RATES", "pattern": "Comparing mortgage with other real estate terms"}
+{"label": "FINANCE&RATES", "pattern": "Advantages and disadvantages of mortgage"}
+{"label": "HDB", "pattern": "Types of mortgages"}
+{"label": "HDB", "pattern": "How to check if you are registered as an occupant in an HDB flat"}
+{"label": "HDB", "pattern": "Step 1: Access My HDBPage"}
+{"label": "HDB", "pattern": "SAMH"}
+{"label": "HDB", "pattern": "Step 2: Navigate to the “Enquiry on Authorised Tenants.”"}
+{"label": "HDB", "pattern": "SNEAT"}
+{"label": "HDB", "pattern": "Step 3: Print confirmation letter"}
+{"label": "HDB", "pattern": "SP"}
+{"label": "HDB", "pattern": "Step 4: Monitor for updates"}
+{"label": "HDB", "pattern": "SM"}
+{"label": "HDB", "pattern": "Purpose of the temporary extension"}
+{"label": "HDB", "pattern": "Duration and eligibility"}
+{"label": "HDB", "pattern": "Application process"}
+{"label": "OTHER", "pattern": "income tax in Singapore"}
+{"label": "OTHER", "pattern": "What is income tax in Singapore?"}
+{"label": "OTHER", "pattern": "Who pays income tax in Singapore"}
+{"label": "OTHER", "pattern": "When to pay income tax in Singapore"}
+{"label": "OTHER", "pattern": "How to pay income tax in Singapore"}
+{"label": "OTHER", "pattern": "HS"}
+{"label": "LEGAL&DOCS", "pattern": "What is joint tenancy?"}
+{"label": "LEGAL&DOCS", "pattern": "Joint tenancy vs Tenancy-in-common – What’s the difference"}
+{"label": "LEGAL&DOCS", "pattern": "JTW"}
+{"label": "HDB", "pattern": "Can joint tenancy be changed to tenancy-in-common"}
+{"label": "HDB", "pattern": "What is Buyer’s Stamp Duty (BSD)?"}
+{"label": "HDB", "pattern": "Buyer’s Stamp Duty"}
+{"label": "HDB", "pattern": "BSD"}
+{"label": "TAX&DUTY", "pattern": "How much is Buyer’s Stamp Duty (BSD) in Singapore"}
+{"label": "TAX&DUTY", "pattern": "HBSDS"}
+{"label": "TAX&DUTY", "pattern": "When should I pay the Buyer’s Stamp Duty (BSD) and Additional Buyer’s Stamp Duty (ABSD)"}
+{"label": "TAX&DUTY", "pattern": "When should I pay the Buyer’s Stamp Duty (BSD) and Additional Buyer’s Stamp Duty"}
+{"label": "TAX&DUTY", "pattern": "Can I use CPF to pay for the Buyer’s Stamp Duty (BSD) and Additional Buyer’s Stamp Duty (ABSD)"}
+{"label": "TAX&DUTY", "pattern": "Can I use CPF to pay for the Buyer’s Stamp Duty (BSD) and Additional Buyer’s Stamp Duty"}
+{"label": "TAX&DUTY", "pattern": "CPF"}
+{"label": "OTHER", "pattern": "rental income tax in Singapore"}
+{"label": "OTHER", "pattern": "What is rental income tax in Singapore?"}
+{"label": "LEGAL&DOCS", "pattern": "How is rental income tax charged in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "HS"}
+{"label": "FINANCE&RATES", "pattern": "How to calculate rental income tax in Singapore"}
+{"label": "FINANCE&RATES", "pattern": "HS"}
+{"label": "LEGAL&DOCS", "pattern": "How does higher rent affect the rental income tax in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "an estate agency agreement"}
+{"label": "LEGAL&DOCS", "pattern": "What is an estate agency agreement?"}
+{"label": "LEGAL&DOCS", "pattern": "Exclusive vs non-exclusive estate agency agreement: What’s the difference"}
+{"label": "LEGAL&DOCS", "pattern": "EW"}
+{"label": "LEGAL&DOCS", "pattern": "CEA’s prescribed estate agency agreement"}
+{"label": "LEGAL&DOCS", "pattern": "What is CEA’s prescribed estate agency agreement?"}
+{"label": "LEGAL&DOCS", "pattern": "CEA"}
+{"label": "LEGAL&DOCS", "pattern": "Do I need to use CEA’s prescribed estate agency agreement"}
+{"label": "PROCESS", "pattern": "Waiving contingencies: The risky real estate gambit that could make or break your deal"}
+{"label": "PROCESS", "pattern": "WT"}
+{"label": "FINANCE&RATES", "pattern": "The Dangers of Waiving Contingencies"}
+{"label": "FINANCE&RATES", "pattern": "TDWC"}
+{"label": "AGENCY&AUTHORITY", "pattern": "zoning in Singapore"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What is zoning in Singapore?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Factors affecting zoning and the application process in Singapore"}
+{"label": "AGENCY&AUTHORITY", "pattern": "FS"}
+{"label": "OTHER", "pattern": "main difference between zoning and other planning terms"}
+{"label": "OTHER", "pattern": "What is the main difference between zoning and other planning terms"}
+{"label": "OTHER", "pattern": "Advantages and disadvantages of zoning in Singapore"}
+{"label": "OTHER", "pattern": "AS"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Types of zoning in Singapore"}
+{"label": "AGENCY&AUTHORITY", "pattern": "TS"}
+{"label": "FINANCE&RATES", "pattern": "Mortgage-Reducing Term Assurance (MRTA)"}
+{"label": "FINANCE&RATES", "pattern": "What is Mortgage-Reducing Term Assurance (MRTA)?"}
+{"label": "FINANCE&RATES", "pattern": "Mortgage-Reducing Term Assurance"}
+{"label": "FINANCE&RATES", "pattern": "MRTA"}
+{"label": "FINANCE&RATES", "pattern": "covered under the Mortgage-Reducing Term Assurance (MRTA)"}
+{"label": "FINANCE&RATES", "pattern": "What is covered under the Mortgage-Reducing Term Assurance (MRTA)?"}
+{"label": "FINANCE&RATES", "pattern": "covered under the Mortgage-Reducing Term Assurance"}
+{"label": "HDB", "pattern": "Do I need the Mortgage-Reducing Term Assurance (MRTA)"}
+{"label": "HDB", "pattern": "Do I need the Mortgage-Reducing Term Assurance"}
+{"label": "HDB", "pattern": "MRTA"}
+{"label": "HDB", "pattern": "DMRTA"}
+{"label": "FINANCE&RATES", "pattern": "You Might Also Be Interested In"}
+{"label": "FINANCE&RATES", "pattern": "YMABII"}
+{"label": "AGENCY&AUTHORITY", "pattern": "a Real Estate Investment Trust (REIT)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What is a Real Estate Investment Trust (REIT)?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "a Real Estate Investment Trust"}
+{"label": "AGENCY&AUTHORITY", "pattern": "REIT"}
+{"label": "AGENCY&AUTHORITY", "pattern": "How does REIT work"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Advantages and Disadvantages of Real Estate Investment Trust (REIT)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Advantages and Disadvantages of Real Estate Investment Trust"}
+{"label": "AGENCY&AUTHORITY", "pattern": "ADREIT"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Advantages"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Disadvantages"}
+{"label": "HDB", "pattern": "an Executive Condominium (EC)"}
+{"label": "HDB", "pattern": "What is an Executive Condominium (EC)?"}
+{"label": "HDB", "pattern": "an Executive Condominium"}
+{"label": "HDB", "pattern": "EC"}
+{"label": "HDB", "pattern": "Is there an income ceiling to purchase an Executive Condominium (EC)"}
+{"label": "HDB", "pattern": "Is there an income ceiling to purchase an Executive Condominium"}
+{"label": "HDB", "pattern": "IEC"}
+{"label": "HDB", "pattern": "How do I contact the HDB Hotline"}
+{"label": "HDB", "pattern": "HH"}
+{"label": "HDB", "pattern": "How do I book an appointment with HDB"}
+{"label": "HDB", "pattern": "Can I book a virtual appointment"}
+{"label": "HDB", "pattern": "How do I prepare for an HDB appointment"}
+{"label": "HDB", "pattern": "What services require an appointment"}
+{"label": "HDB", "pattern": "How do I reschedule or cancel my appointment"}
+{"label": "OTHER", "pattern": "a tenant"}
+{"label": "OTHER", "pattern": "What is a tenant?"}
+{"label": "LEGAL&DOCS", "pattern": "Understanding tenants"}
+{"label": "OTHER", "pattern": "Importance of tenants in real estate and property"}
+{"label": "OTHER", "pattern": "Conclusion"}
+{"label": "LEGAL&DOCS", "pattern": "a Certificate of Statutory Completion (CSC)"}
+{"label": "LEGAL&DOCS", "pattern": "What is a Certificate of Statutory Completion (CSC)?"}
+{"label": "LEGAL&DOCS", "pattern": "a Certificate of Statutory Completion"}
+{"label": "LEGAL&DOCS", "pattern": "How do I apply for a Certificate of Statutory Completion (CSC)"}
+{"label": "LEGAL&DOCS", "pattern": "How do I apply for a Certificate of Statutory Completion"}
+{"label": "LEGAL&DOCS", "pattern": "HCSC"}
+{"label": "LEGAL&DOCS", "pattern": "process of applying for a Certificate of Statutory Completion (CSC)"}
+{"label": "LEGAL&DOCS", "pattern": "What is the process of applying for a Certificate of Statutory Completion (CSC)?"}
+{"label": "LEGAL&DOCS", "pattern": "process of applying for a Certificate of Statutory Completion"}
+{"label": "LEGAL&DOCS", "pattern": "Additional reading"}
+{"label": "OTHER", "pattern": "an exit pass"}
+{"label": "OTHER", "pattern": "What is an exit pass?"}
+{"label": "OTHER", "pattern": "Do I still need an exit pass in Singapore"}
+{"label": "OTHER", "pattern": "DS"}
+{"label": "OTHER", "pattern": "How to apply for an exit pass"}
+{"label": "OTHER", "pattern": "a visit pass"}
+{"label": "OTHER", "pattern": "What is a visit pass?"}
+{"label": "OTHER", "pattern": "How to apply for a visit pass"}
+{"label": "HDB", "pattern": "What does HDB MOP eligibility mean"}
+{"label": "HDB", "pattern": "process of HDB MOP eligibility"}
+{"label": "HDB", "pattern": "What is the process of HDB MOP eligibility?"}
+{"label": "HDB", "pattern": "Can I sell my flat despite the HDB MOP"}
+{"label": "HDB", "pattern": "Joint Singles Scheme Operator-Run (JSS-OR)"}
+{"label": "HDB", "pattern": "What is the Joint Singles Scheme Operator-Run (JSS-OR)?"}
+{"label": "HDB", "pattern": "Joint Singles Scheme Operator-Run"}
+{"label": "HDB", "pattern": "JSS-OR"}
+{"label": "HDB", "pattern": "JSS"}
+{"label": "HDB", "pattern": "JSSOR"}
+{"label": "HDB", "pattern": "Joint Singles Scheme (JSS) vs Joint Singles Scheme Operator-Run (JSS-OR) – what is the difference"}
+{"label": "HDB", "pattern": "eligibility criteria for the Joint Singles Scheme Operator-Run (JSS-OR)"}
+{"label": "HDB", "pattern": "What are the eligibility criteria for the Joint Singles Scheme Operator-Run (JSS-OR)?"}
+{"label": "HDB", "pattern": "eligibility criteria for the Joint Singles Scheme Operator-Run"}
+{"label": "OTHER", "pattern": "a Notice of Assessment (NOA)"}
+{"label": "OTHER", "pattern": "What is a Notice of Assessment (NOA)?"}
+{"label": "OTHER", "pattern": "a Notice of Assessment"}
+{"label": "OTHER", "pattern": "NOA"}
+{"label": "OTHER", "pattern": "NA"}
+{"label": "OTHER", "pattern": "How many types of Notice of Assessment (NOA)"}
+{"label": "OTHER", "pattern": "How many types of Notice of Assessment"}
+{"label": "OTHER", "pattern": "HNA"}
+{"label": "OTHER", "pattern": "How to get a Notice of Assessment (NOA) copy"}
+{"label": "OTHER", "pattern": "Singapore Visitor Centre"}
+{"label": "OTHER", "pattern": "What is the Singapore Visitor Centre?"}
+{"label": "OTHER", "pattern": "SVC"}
+{"label": "OTHER", "pattern": "What features does the Singapore Visitor Centre have"}
+{"label": "OTHER", "pattern": "WSVC"}
+{"label": "PROPERTYTYPE", "pattern": "How many branches does the Singapore Visitor Centre have"}
+{"label": "PROPERTYTYPE", "pattern": "HSVC"}
+{"label": "FINANCE&RATES", "pattern": "Understanding cash flow"}
+{"label": "OTHER", "pattern": "Importance of managing cash flow in real estate"}
+{"label": "FINANCE&RATES", "pattern": "Avoid buyer’s remorse: A guide to navigating real estate due diligence"}
+{"label": "OTHER", "pattern": "risk management in real estate"}
+{"label": "OTHER", "pattern": "What is risk management in real estate?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What should I know about risk management in Singapore’s real estate"}
+{"label": "AGENCY&AUTHORITY", "pattern": "WS"}
+{"label": "OTHER", "pattern": "process of risk management in Singapore’s real estate"}
+{"label": "OTHER", "pattern": "What is the process of risk management in Singapore’s real estate?"}
+{"label": "OTHER", "pattern": "A smart investor’s guide to navigating the ups and downs of real estate"}
+{"label": "OTHER", "pattern": "Definition of CPI"}
+{"label": "OTHER", "pattern": "CPI"}
+{"label": "OTHER", "pattern": "Understanding CPI"}
+{"label": "OTHER", "pattern": "Importance of CPI in real estate"}
+{"label": "LEGAL&DOCS", "pattern": "Streamline real estate disputes with arbitration"}
+{"label": "OTHER", "pattern": "What is CPF?"}
+{"label": "OTHER", "pattern": "Understanding CPF"}
+{"label": "OTHER", "pattern": "Importance of CPF in Real Estate"}
+{"label": "OTHER", "pattern": "IRE"}
+{"label": "OTHER", "pattern": "Understanding Doing Business As (DBA)"}
+{"label": "OTHER", "pattern": "Understanding Doing Business As"}
+{"label": "OTHER", "pattern": "DBA"}
+{"label": "OTHER", "pattern": "UDBA"}
+{"label": "OTHER", "pattern": "Importance of DBA in real estate"}
+{"label": "OTHER", "pattern": "Notarisation"}
+{"label": "OTHER", "pattern": "What is Notarisation?"}
+{"label": "LEGAL&DOCS", "pattern": "Key documents to notarise"}
+{"label": "FINANCE&RATES", "pattern": "The consequences of skipping notarisation"}
+{"label": "HDB", "pattern": "HDB resale levy"}
+{"label": "HDB", "pattern": "What is the HDB resale levy?"}
+{"label": "HDB", "pattern": "purpose of the HDB resale levy"}
+{"label": "HDB", "pattern": "What is the purpose of the HDB resale levy?"}
+{"label": "HDB", "pattern": "Do I need to pay for an HDB resale levy"}
+{"label": "HDB", "pattern": "How much money do I need to spend on the HDB resale levy"}
+{"label": "HDB", "pattern": "Does the HDB resale levy apply to senior citizens"}
+{"label": "HDB", "pattern": "How do I pay for the HDB resale levy"}
+{"label": "HDB", "pattern": "You May Find These Interesting:"}
+{"label": "HDB", "pattern": "YMFTI"}
+{"label": "OTHER", "pattern": "condemnation in Singapore real estate"}
+{"label": "OTHER", "pattern": "What is the condemnation in Singapore real estate?"}
+{"label": "OTHER", "pattern": "How does condemnation in Singapore real estate work"}
+{"label": "OTHER", "pattern": "Navigating the condemnation process – What homeowners need to know"}
+{"label": "OTHER", "pattern": "NW"}
+{"label": "PROCESS", "pattern": "Real estate investment banking (REIB) in Singapore"}
+{"label": "PROCESS", "pattern": "What is Real estate investment banking (REIB) in Singapore?"}
+{"label": "PROCESS", "pattern": "REIB"}
+{"label": "PROCESS", "pattern": "RS"}
+{"label": "OTHER", "pattern": "Who should you know in the Real estate investment banking (REIB) field"}
+{"label": "OTHER", "pattern": "REIB"}
+{"label": "OTHER", "pattern": "WR"}
+{"label": "OTHER", "pattern": "What do those in Real estate investment banking (REIB) positions do"}
+{"label": "OTHER", "pattern": "liquidity"}
+{"label": "OTHER", "pattern": "What is liquidity?"}
+{"label": "FINANCE&RATES", "pattern": "liquidity risk in real estate"}
+{"label": "FINANCE&RATES", "pattern": "What is liquidity risk in real estate?"}
+{"label": "OTHER", "pattern": "What factors influence liquidity in real estate"}
+{"label": "LEGAL&DOCS", "pattern": "How to quickly liquidate your real estate assets"}
+{"label": "OTHER", "pattern": "compound interest"}
+{"label": "OTHER", "pattern": "What is compound interest?"}
+{"label": "OTHER", "pattern": "Understanding Compound Interest"}
+{"label": "OTHER", "pattern": "UCI"}
+{"label": "FINANCE&RATES", "pattern": "Importance of Compound Interest in Real Estate"}
+{"label": "FINANCE&RATES", "pattern": "ICIRE"}
+{"label": "FINANCE&RATES", "pattern": "a reverse mortgage"}
+{"label": "FINANCE&RATES", "pattern": "What is a reverse mortgage?"}
+{"label": "FINANCE&RATES", "pattern": "What type of reverse mortgage is available in Singapore"}
+{"label": "FINANCE&RATES", "pattern": "WS"}
+{"label": "FINANCE&RATES", "pattern": "What measures are in place to ensure the protection of borrowers’ interests"}
+{"label": "OTHER", "pattern": "Pro rata"}
+{"label": "OTHER", "pattern": "What Is Pro rata?"}
+{"label": "OTHER", "pattern": "How does Pro rata work"}
+{"label": "OTHER", "pattern": "HP"}
+{"label": "OTHER", "pattern": "How to calculate pro rata"}
+{"label": "OTHER", "pattern": "Does pro rata work"}
+{"label": "OTHER", "pattern": "Practical applications – Examples of pro rata in various fields"}
+{"label": "OTHER", "pattern": "PE"}
+{"label": "HDB", "pattern": "jumbo flats"}
+{"label": "HDB", "pattern": "What are jumbo flats?"}
+{"label": "HDB", "pattern": "Am I eligible to buy a jumbo flat in Singapore"}
+{"label": "HDB", "pattern": "AS"}
+{"label": "HDB", "pattern": "Jumbo flat vs HDB flats – What’s the main difference"}
+{"label": "HDB", "pattern": "JW"}
+{"label": "OTHER", "pattern": "a Mill levy"}
+{"label": "OTHER", "pattern": "What is a Mill levy?"}
+{"label": "MARKETMETRIC", "pattern": "Are mill levies used in Singapore property tax"}
+{"label": "MARKETMETRIC", "pattern": "AS"}
+{"label": "FINANCE&RATES", "pattern": "How do Mill levies impact homebuyers"}
+{"label": "FINANCE&RATES", "pattern": "HM"}
+{"label": "OTHER", "pattern": "How to calculate Mill levies"}
+{"label": "OTHER", "pattern": "HM"}
+{"label": "OTHER", "pattern": "The simple secret to building hands-off income streams through real estate"}
+{"label": "OTHER", "pattern": "variance"}
+{"label": "OTHER", "pattern": "What is variance?"}
+{"label": "OTHER", "pattern": "Understanding variance"}
+{"label": "OTHER", "pattern": "Importance of variance in real estate and property"}
+{"label": "HDB", "pattern": "a Joint Singles Scheme (JSS)"}
+{"label": "HDB", "pattern": "What is a Joint Singles Scheme (JSS)?"}
+{"label": "HDB", "pattern": "a Joint Singles Scheme"}
+{"label": "HDB", "pattern": "eligibility requirements of a Joint Singles Scheme (JSS)"}
+{"label": "HDB", "pattern": "What are the eligibility requirements of a Joint Singles Scheme (JSS)?"}
+{"label": "HDB", "pattern": "eligibility requirements of a Joint Singles Scheme"}
+{"label": "HDB", "pattern": "Checking outstanding parking fees"}
+{"label": "OTHER", "pattern": "an estate agent licence"}
+{"label": "OTHER", "pattern": "What is an estate agent licence?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "How to check if my property agent is licensed"}
+{"label": "OTHER", "pattern": "Can estate agents practise without a licence"}
+{"label": "OTHER", "pattern": "an MRT Map"}
+{"label": "OTHER", "pattern": "What is an MRT Map?"}
+{"label": "OTHER", "pattern": "MRT"}
+{"label": "OTHER", "pattern": "Download The Updated MRT Map PDF in All Languages [2025 latest Version With New Stations]"}
+{"label": "OTHER", "pattern": "Singapore MRT (Mass Rapid Transit) Lines Overview"}
+{"label": "OTHER", "pattern": "SMRTLO"}
+{"label": "OTHER", "pattern": "Key Transfer Stations in Singapore’s MRT Network"}
+{"label": "OTHER", "pattern": "KTSSN"}
+{"label": "OTHER", "pattern": "Interesting Facts to Know about Singapore MRT"}
+{"label": "OTHER", "pattern": "IFKS"}
+{"label": "OTHER", "pattern": "How is the MRT line map in Singapore"}
+{"label": "OTHER", "pattern": "operating hours for the trains on the MRT map in Singapore"}
+{"label": "OTHER", "pattern": "What are the operating hours for the trains on the MRT map in Singapore?"}
+{"label": "OTHER", "pattern": "Singapore MRT Ticketing and Payment System"}
+{"label": "OTHER", "pattern": "STPS"}
+{"label": "OTHER", "pattern": "The Cross Island Line (CRL) – Progresses, stages, and newest updates"}
+{"label": "OTHER", "pattern": "CRL"}
+{"label": "OTHER", "pattern": "TCILP"}
+{"label": "PROPERTYTYPE", "pattern": "Thomson-East Coast Line (TEL) updates"}
+{"label": "PROPERTYTYPE", "pattern": "TEL"}
+{"label": "PROPERTYTYPE", "pattern": "TECL"}
+{"label": "OTHER", "pattern": "About Singapore Land Transport Authority (LTA)"}
+{"label": "OTHER", "pattern": "About Singapore Land Transport Authority"}
+{"label": "OTHER", "pattern": "LTA"}
+{"label": "OTHER", "pattern": "ASLTA"}
+{"label": "OTHER", "pattern": "FAQs about Singapore MRT"}
+{"label": "OTHER", "pattern": "FS"}
+{"label": "OTHER", "pattern": "custodians in Singapore real estate"}
+{"label": "OTHER", "pattern": "What are custodians in Singapore real estate?"}
+{"label": "HDB", "pattern": "Why are property custodians critical to real estate success"}
+{"label": "HDB", "pattern": "Why Season Parking Renewal Matters"}
+{"label": "HDB", "pattern": "WSPRM"}
+{"label": "HDB", "pattern": "How Renewal Fits into the Wider HDB Parking Ecosystem"}
+{"label": "HDB", "pattern": "HRFWPE"}
+{"label": "HDB", "pattern": "Eligibility & Priority Tiers: Who Gets to Renew First"}
+{"label": "HDB", "pattern": "Renewal Window & Grace Periods"}
+{"label": "HDB", "pattern": "RWGP"}
+{"label": "HDB", "pattern": "Five Renewal Channels Explained"}
+{"label": "HDB", "pattern": "FRCE"}
+{"label": "HDB", "pattern": "Step-by-Step: Manual Renewal via Mobile@HDB"}
+{"label": "HDB", "pattern": "SSMRM"}
+{"label": "HDB", "pattern": "Autopay: The Zero-Click Renewal Strategy"}
+{"label": "HDB", "pattern": "ATZCRS"}
+{"label": "HDB", "pattern": "Specialized Season Parking & Their Renewal Nuances"}
+{"label": "HDB", "pattern": "SSPTRN"}
+{"label": "HDB", "pattern": "Financial Anatomy: 2025 Rates & What They Mean for Your Wallet"}
+{"label": "HDB", "pattern": "Renewal Case Study: Resident vs. Non-Resident"}
+{"label": "HDB", "pattern": "RCSRNR"}
+{"label": "HDB", "pattern": "Common Pitfalls and How to Avoid Them"}
+{"label": "HDB", "pattern": "CPHAT"}
+{"label": "HDB", "pattern": "The Digital Transformation of Renewal"}
+{"label": "HDB", "pattern": "TDTR"}
+{"label": "HDB", "pattern": "Beyond 2025: What to Watch"}
+{"label": "HDB", "pattern": "BWW"}
+{"label": "HDB", "pattern": "A Six-Point Renewal Checklist"}
+{"label": "HDB", "pattern": "SPRC"}
+{"label": "HDB", "pattern": "Frequently Asked Renewal Questions"}
+{"label": "HDB", "pattern": "FARQ"}
+{"label": "HDB", "pattern": "Conclusion: Renewal as a Life Hack"}
+{"label": "HDB", "pattern": "CRLH"}
+{"label": "TAX&DUTY", "pattern": "Where can I pay my property tax"}
+{"label": "TAX&DUTY", "pattern": "What types of property taxes are out there in Singapore"}
+{"label": "TAX&DUTY", "pattern": "WS"}
+{"label": "HDB", "pattern": "Ownership tax rates"}
+{"label": "TAX&DUTY", "pattern": "What is Additional Buyer’s Stamp Duty (ABSD)?"}
+{"label": "OTHER", "pattern": "Are there any penalties on late payment of property tax"}
+{"label": "OTHER", "pattern": "Tax Exemption"}
+{"label": "OTHER", "pattern": "TE"}
+{"label": "HDB", "pattern": "Application for subletting of HDB leased land"}
+{"label": "HDB", "pattern": "Understanding HDB leased land"}
+{"label": "HDB", "pattern": "Eligibility criteria for subletting"}
+{"label": "HDB", "pattern": "Regulations and conditions"}
+{"label": "HDB", "pattern": "Responsibilities of flat owners"}
+{"label": "HDB", "pattern": "Consequences of non-compliance"}
+{"label": "LEGAL&DOCS", "pattern": "forfeiture"}
+{"label": "LEGAL&DOCS", "pattern": "What is forfeiture?"}
+{"label": "LEGAL&DOCS", "pattern": "How does forfeiture work"}
+{"label": "HDB", "pattern": "Home Improvement Program (HIP)"}
+{"label": "HDB", "pattern": "What is Home Improvement Program (HIP)?"}
+{"label": "HDB", "pattern": "Home Improvement Program"}
+{"label": "HDB", "pattern": "HIP"}
+{"label": "HDB", "pattern": "What types of work are included in the Home Improvement Programme (HIP)"}
+{"label": "HDB", "pattern": "What types of work are included in the Home Improvement Programme"}
+{"label": "HDB", "pattern": "WHIP"}
+{"label": "HDB", "pattern": "Is my property eligible for the Home Improvement Program (HIP) in Singapore"}
+{"label": "HDB", "pattern": "IHIPS"}
+{"label": "HDB", "pattern": "Can I still apply for Enhancement for Active Seniors (EASE) Improvements if my HDB flat wasn’t eligible for the Home Improvement Program (HIP)"}
+{"label": "HDB", "pattern": "Can I still apply for Enhancement for Active Seniors (EASE) Improvements if my HDB flat wasn’t eligible for the Home Improvement Program"}
+{"label": "HDB", "pattern": "EASE"}
+{"label": "HDB", "pattern": "Can my HDB flat qualify more than once for the Home Improvement Program (HIP)"}
+{"label": "HDB", "pattern": "Can my HDB flat qualify more than once for the Home Improvement Program"}
+{"label": "HDB", "pattern": "CHIP"}
+{"label": "HDB", "pattern": "Do I need to pay for the Home Improvement Program (HIP)"}
+{"label": "HDB", "pattern": "Do I need to pay for the Home Improvement Program"}
+{"label": "HDB", "pattern": "DHIP"}
+{"label": "HDB", "pattern": "How long does it take to complete the Home Improvement Program (HIP)"}
+{"label": "HDB", "pattern": "How long does it take to complete the Home Improvement Program"}
+{"label": "HDB", "pattern": "HHIP"}
+{"label": "HDB", "pattern": "How do I pay for the Home Improvement Program (HIP)"}
+{"label": "HDB", "pattern": "How do I pay for the Home Improvement Program"}
+{"label": "OTHER", "pattern": "You May Also Find These Interesting"}
+{"label": "OTHER", "pattern": "YMAFTI"}
+{"label": "OTHER", "pattern": "Boost your real estate investment income with dividend yield"}
+{"label": "AGENCY&AUTHORITY", "pattern": "dividend yield"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What is dividend yield?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Advantages of REIT dividends"}
+{"label": "OTHER", "pattern": "How to pick high-dividend yield REITs"}
+{"label": "OTHER", "pattern": "HR"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Diversify your REIT investments"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Boost returns with dividend reinvestment"}
+{"label": "OTHER", "pattern": "GST voucher scheme"}
+{"label": "OTHER", "pattern": "What is the GST voucher scheme?"}
+{"label": "HDB", "pattern": "types of GST voucher schemes available"}
+{"label": "HDB", "pattern": "What are the types of GST voucher schemes available?"}
+{"label": "HDB", "pattern": "GST"}
+{"label": "HDB", "pattern": "eligibility criteria for the GST voucher scheme"}
+{"label": "HDB", "pattern": "What are the eligibility criteria for the GST voucher scheme?"}
+{"label": "OTHER", "pattern": "COC"}
+{"label": "OTHER", "pattern": "What is COC?"}
+{"label": "OTHER", "pattern": "How to apply for COC"}
+{"label": "OTHER", "pattern": "How do I apply for COC as a Foreign National & Singapore Permanent Resident"}
+{"label": "OTHER", "pattern": "HFNSPR"}
+{"label": "OTHER", "pattern": "How can I apply for COC as a Singapore Citizen"}
+{"label": "OTHER", "pattern": "HSC"}
+{"label": "OTHER", "pattern": "a Letter of Credit"}
+{"label": "OTHER", "pattern": "What is a Letter of Credit?"}
+{"label": "OTHER", "pattern": "LC"}
+{"label": "OTHER", "pattern": "Why is a Letter of Credit important"}
+{"label": "OTHER", "pattern": "WLC"}
+{"label": "OTHER", "pattern": "How does a Letter of Credit work"}
+{"label": "OTHER", "pattern": "HLC"}
+{"label": "OTHER", "pattern": "Do I need a Letter of Credit"}
+{"label": "OTHER", "pattern": "DLC"}
+{"label": "PROCESS", "pattern": "Understanding alienation"}
+{"label": "TENURE", "pattern": "Importance of recognising alienation in real estate"}
+{"label": "OTHER", "pattern": "title insurance"}
+{"label": "OTHER", "pattern": "What is title insurance?"}
+{"label": "OTHER", "pattern": "Factors influencing title insurance and the application process"}
+{"label": "FINANCE&RATES", "pattern": "Comparing title insurance with other real estate terms"}
+{"label": "OTHER", "pattern": "Advantages and disadvantages of title insurance"}
+{"label": "OTHER", "pattern": "Types of title insurance"}
+{"label": "OTHER", "pattern": "a nominee"}
+{"label": "OTHER", "pattern": "What is a nominee?"}
+{"label": "OTHER", "pattern": "Who can be a nominee"}
+{"label": "OTHER", "pattern": "How do I make a nomination"}
+{"label": "OTHER", "pattern": "kickbacks"}
+{"label": "OTHER", "pattern": "What are kickbacks?"}
+{"label": "OTHER", "pattern": "Are there penalties for accepting kickbacks"}
+{"label": "OTHER", "pattern": "How to report kickbacks in Singapore"}
+{"label": "OTHER", "pattern": "protective measures in place for immigrants who report kickbacks"}
+{"label": "OTHER", "pattern": "What are the protective measures in place for immigrants who report kickbacks?"}
+{"label": "HDB", "pattern": "Accessing HDB Map Services"}
+{"label": "HDB", "pattern": "AMS"}
+{"label": "HDB", "pattern": "Features of HDB Map Services"}
+{"label": "HDB", "pattern": "FMS"}
+{"label": "HDB", "pattern": "Using HDB Map Services to find flats near family"}
+{"label": "HDB", "pattern": "UMS"}
+{"label": "HDB", "pattern": "Helping you decide where to live"}
+{"label": "HDB", "pattern": "Accessing resale price data"}
+{"label": "HDB", "pattern": "Exploring different flat types"}
+{"label": "PROCESS", "pattern": "Why home buyers need escape clauses"}
+{"label": "FINANCE&RATES", "pattern": "What is the Swap Offer Rate (SOR)?"}
+{"label": "FINANCE&RATES", "pattern": "What should SOR borrowers expect"}
+{"label": "OTHER", "pattern": "Important points to keep in mind before making an offer"}
+{"label": "OTHER", "pattern": "dividend"}
+{"label": "OTHER", "pattern": "What is dividend?"}
+{"label": "OTHER", "pattern": "Understanding dividends"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Importance of dividends in real estate"}
+{"label": "LEGAL&DOCS", "pattern": "Protect your real estate deal: Why you need an ironclad purchase agreement"}
+{"label": "LEGAL&DOCS", "pattern": "PW"}
+{"label": "PROCESS", "pattern": "en bloc potential"}
+{"label": "PROCESS", "pattern": "What is en bloc potential?"}
+{"label": "LEGAL&DOCS", "pattern": "Factors affecting en bloc potential and the process in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "FS"}
+{"label": "PROCESS", "pattern": "Key Difference between en bloc sales and other property sales"}
+{"label": "PROCESS", "pattern": "KD"}
+{"label": "PROCESS", "pattern": "Advantages and disadvantages of en bloc sales"}
+{"label": "PROCESS", "pattern": "Types of en bloc sales"}
+{"label": "OTHER", "pattern": "Professional Indemnity Insurance (PII)"}
+{"label": "OTHER", "pattern": "What is Professional Indemnity Insurance (PII)?"}
+{"label": "OTHER", "pattern": "Professional Indemnity Insurance"}
+{"label": "OTHER", "pattern": "PII"}
+{"label": "AGENCY&AUTHORITY", "pattern": "CEA’s minimum Professional Indemnity Insurance (PII) policy requirements"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What are CEA’s minimum Professional Indemnity Insurance (PII) policy requirements?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "PII"}
+{"label": "OTHER", "pattern": "How to get Professional Indemnity Insurance (PII)"}
+{"label": "OTHER", "pattern": "How to get Professional Indemnity Insurance"}
+{"label": "OTHER", "pattern": "HPII"}
+{"label": "FINANCE&RATES", "pattern": "an underwriter"}
+{"label": "FINANCE&RATES", "pattern": "What is an underwriter?"}
+{"label": "OTHER", "pattern": "Understanding underwriters"}
+{"label": "FINANCE&RATES", "pattern": "Importance of underwriters in real estate"}
+{"label": "PROCESS", "pattern": "Key criteria in underwriting"}
+{"label": "FINANCE&RATES", "pattern": "The underwriting process"}
+{"label": "OTHER", "pattern": "a floor plan"}
+{"label": "OTHER", "pattern": "What is a floor plan?"}
+{"label": "HDB", "pattern": "How to acquire a floor plan in Singapore"}
+{"label": "HDB", "pattern": "HS"}
+{"label": "OTHER", "pattern": "How to find properties with floor plans on 99.co"}
+{"label": "OTHER", "pattern": "Control of Rent Act"}
+{"label": "OTHER", "pattern": "What is the Control of Rent Act?"}
+{"label": "OTHER", "pattern": "CRA"}
+{"label": "OTHER", "pattern": "Is the Control of Rent Act still in effect"}
+{"label": "OTHER", "pattern": "ICRA"}
+{"label": "OTHER", "pattern": "How was the Control of Rent Act abolished"}
+{"label": "OTHER", "pattern": "HCRA"}
+{"label": "OTHER", "pattern": "Strata Titles Boards (STB)"}
+{"label": "OTHER", "pattern": "What are the Strata Titles Boards (STB)?"}
+{"label": "OTHER", "pattern": "Strata Titles Boards"}
+{"label": "OTHER", "pattern": "STB"}
+{"label": "OTHER", "pattern": "What do the Strata Titles Boards (STB) do"}
+{"label": "OTHER", "pattern": "WSTB"}
+{"label": "OTHER", "pattern": "Who are the Strata Titles Board (STB) members"}
+{"label": "OTHER", "pattern": "How does the Strata Titles Board (STB) work"}
+{"label": "OTHER", "pattern": "HSTB"}
+{"label": "FINANCE&RATES", "pattern": "definition of loan forbearance"}
+{"label": "FINANCE&RATES", "pattern": "What is the definition of loan forbearance?"}
+{"label": "FINANCE&RATES", "pattern": "How does loan forbearance work"}
+{"label": "OTHER", "pattern": "How can I apply for loan forbearance"}
+{"label": "HDB", "pattern": "Key features of community care apartments"}
+{"label": "MARKETMETRIC", "pattern": "a capitalisation rate"}
+{"label": "MARKETMETRIC", "pattern": "What is a capitalisation rate?"}
+{"label": "FINANCE&RATES", "pattern": "How to calculate the capitalisation rate"}
+{"label": "MARKETMETRIC", "pattern": "What influences the capitalisation rate"}
+{"label": "MARKETMETRIC", "pattern": "restrictions of the capitalisation rate"}
+{"label": "MARKETMETRIC", "pattern": "What are the restrictions of the capitalisation rate?"}
+{"label": "HDB", "pattern": "Option to Purchase (OTP) in HDB"}
+{"label": "HDB", "pattern": "What is the Option to Purchase (OTP) in HDB?"}
+{"label": "HDB", "pattern": "OTP"}
+{"label": "HDB", "pattern": "OP"}
+{"label": "HDB", "pattern": "How does the Option to Purchase (OTP) in HDB work"}
+{"label": "HDB", "pattern": "HOP"}
+{"label": "HDB", "pattern": "Does granting an Option to Purchase (OTP) in HDB require a deposit"}
+{"label": "HDB", "pattern": "DOP"}
+{"label": "HDB", "pattern": "Other Glossary"}
+{"label": "HDB", "pattern": "OG"}
+{"label": "HDB", "pattern": "HDB’s Resale Flat Listing (RFL) service"}
+{"label": "HDB", "pattern": "What is HDB’s Resale Flat Listing (RFL) service?"}
+{"label": "HDB", "pattern": "RFL"}
+{"label": "HDB", "pattern": "How does the Resale Flat Listing (RFL) service work"}
+{"label": "HDB", "pattern": "HRFL"}
+{"label": "OTHER", "pattern": "Resale Flat Listing (RFL) features"}
+{"label": "OTHER", "pattern": "What are the Resale Flat Listing (RFL) features?"}
+{"label": "OTHER", "pattern": "RFL"}
+{"label": "HDB", "pattern": "How to list resale HDB on the Resale Flat Listing (RFL)"}
+{"label": "HDB", "pattern": "How to list resale HDB on the Resale Flat Listing"}
+{"label": "HDB", "pattern": "How to buy a resale HDB from the Resale Flat Listing (RFL)"}
+{"label": "HDB", "pattern": "How to buy a resale HDB from the Resale Flat Listing"}
+{"label": "OTHER", "pattern": "How can 99.co better help you"}
+{"label": "HDB", "pattern": "Frequently Asked Questions (FAQs) on the Resale Flat Listing (RFL)"}
+{"label": "HDB", "pattern": "Frequently Asked Questions (FAQs) on the Resale Flat Listing"}
+{"label": "OTHER", "pattern": "bankruptcy in Singapore"}
+{"label": "OTHER", "pattern": "What is bankruptcy in Singapore?"}
+{"label": "HDB", "pattern": "How does bankruptcy work in Singapore"}
+{"label": "HDB", "pattern": "How to get out of bankruptcy in Singapore"}
+{"label": "OTHER", "pattern": "How to avoid bankruptcy as a real estate investor"}
+{"label": "OTHER", "pattern": "a tax assessment"}
+{"label": "OTHER", "pattern": "What is a tax assessment?"}
+{"label": "MARKETMETRIC", "pattern": "How are property tax assessments calculated"}
+{"label": "OTHER", "pattern": "Are there any exemptions or deductions for property tax in singapore"}
+{"label": "PROCESS", "pattern": "Can I appeal my tax assessment"}
+{"label": "MARKETMETRIC", "pattern": "Per Square Foot (PSF) in Singapore"}
+{"label": "MARKETMETRIC", "pattern": "What is Per Square Foot (PSF) in Singapore?"}
+{"label": "MARKETMETRIC", "pattern": "PSFS"}
+{"label": "MARKETMETRIC", "pattern": "price Per Square Foot (PSF) in Singapore"}
+{"label": "MARKETMETRIC", "pattern": "What is the price Per Square Foot (PSF) in Singapore?"}
+{"label": "MARKETMETRIC", "pattern": "How to calculate the price Per Square Foot (PSF) in Singapore"}
+{"label": "MARKETMETRIC", "pattern": "HPSFS"}
+{"label": "MARKETMETRIC", "pattern": "Is per Square Foot (PSF) the only main indicator when comparing property prices"}
+{"label": "MARKETMETRIC", "pattern": "ISF"}
+{"label": "HDB", "pattern": "LTA"}
+{"label": "HDB", "pattern": "for parking (HDB)"}
+{"label": "HDB", "pattern": "HDB (for parking)"}
+{"label": "HDB", "pattern": "for parking"}
+{"label": "HDB", "pattern": "URA fines (for parking and carparks)"}
+{"label": "HDB", "pattern": "URA fines"}
+{"label": "HDB", "pattern": "for parking and carparks"}
+{"label": "HDB", "pattern": "URA"}
+{"label": "HDB", "pattern": "ERP"}
+{"label": "HDB", "pattern": "Traffic Police (TP)"}
+{"label": "HDB", "pattern": "Traffic Police"}
+{"label": "HDB", "pattern": "TP"}
+{"label": "HDB", "pattern": "Once you’re done paying fines, you can read our other articles."}
+{"label": "PROPERTYTYPE", "pattern": "an en bloc sale agreement"}
+{"label": "PROPERTYTYPE", "pattern": "What is an en bloc sale agreement?"}
+{"label": "LEGAL&DOCS", "pattern": "Factors influencing en bloc sale and the application process"}
+{"label": "LEGAL&DOCS", "pattern": "Comparing en bloc sales with other real estate transactions"}
+{"label": "LEGAL&DOCS", "pattern": "Understanding the ins-and-outs of lease agreements: An essential guide for tenants and landlords"}
+{"label": "LEGAL&DOCS", "pattern": "UA"}
+{"label": "OTHER", "pattern": "force majeure"}
+{"label": "OTHER", "pattern": "What is force majeure?"}
+{"label": "OTHER", "pattern": "Understanding force majeure"}
+{"label": "OTHER", "pattern": "Importance of Force Majeure in Real Estate"}
+{"label": "OTHER", "pattern": "IFMRE"}
+{"label": "OTHER", "pattern": "debt-to-income ratio"}
+{"label": "OTHER", "pattern": "What is the debt-to-income ratio?"}
+{"label": "FINANCE&RATES", "pattern": "an ideal debt-to-income ratio"}
+{"label": "FINANCE&RATES", "pattern": "What is an ideal debt-to-income ratio?"}
+{"label": "FINANCE&RATES", "pattern": "How to calculate the debt-to-income ratio"}
+{"label": "OTHER", "pattern": "How can you reduce your debt-to-income ratio"}
+{"label": "OTHER", "pattern": "The unsung heroes: How facility managers are the secret weapon for corporate real estate success"}
+{"label": "OTHER", "pattern": "TH"}
+{"label": "AGENCY&AUTHORITY", "pattern": "a housing estate"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What is a housing estate?"}
+{"label": "REGION", "pattern": "What is the Core Central Region (CCR)?"}
+{"label": "HDB", "pattern": "What is the Rest of Central Region (RCR)?"}
+{"label": "HDB", "pattern": "Rest of Central Region"}
+{"label": "HDB", "pattern": "RCR"}
+{"label": "HDB", "pattern": "What is the Outside Central Region (OCR)?"}
+{"label": "HDB", "pattern": "Outside Central Region"}
+{"label": "HDB", "pattern": "OCR"}
+{"label": "TENURE", "pattern": "a leasehold"}
+{"label": "TENURE", "pattern": "What is a leasehold?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What occurs when the 99-year lease expires"}
+{"label": "HDB", "pattern": "Do HDB flats have freehold or leasehold tenure"}
+{"label": "HDB", "pattern": "General renovation hours"}
+{"label": "HDB", "pattern": "Noisy renovation works"}
+{"label": "HDB", "pattern": "Duration of noisy works"}
+{"label": "HDB", "pattern": "Responsibilities of flat owners and contractors"}
+{"label": "OTHER", "pattern": "Unlocking the potential of debentures in commercial real estate finance"}
+{"label": "LEGAL&DOCS", "pattern": "a real estate mandate"}
+{"label": "LEGAL&DOCS", "pattern": "What is a real estate mandate?"}
+{"label": "OTHER", "pattern": "endowment"}
+{"label": "OTHER", "pattern": "What is endowment?"}
+{"label": "OTHER", "pattern": "Understanding Endowment"}
+{"label": "OTHER", "pattern": "UE"}
+{"label": "OTHER", "pattern": "Importance of Endowment in Real Estate"}
+{"label": "OTHER", "pattern": "IERE"}
+{"label": "OTHER", "pattern": "The benefits of real estate counselling: How professional advice can help you make informed decisions"}
+{"label": "LEGAL&DOCS", "pattern": "This is how real estate franchising can fast-track your business success"}
+{"label": "FINANCE&RATES", "pattern": "Who gets paid? Understanding payees and how they work in financial transactions"}
+{"label": "FINANCE&RATES", "pattern": "WU"}
+{"label": "OTHER", "pattern": "a CPF Ordinary Account (OA)"}
+{"label": "OTHER", "pattern": "What is a CPF Ordinary Account (OA)?"}
+{"label": "OTHER", "pattern": "a CPF Ordinary Account"}
+{"label": "OTHER", "pattern": "OA"}
+{"label": "OTHER", "pattern": "How can I use the CPF Ordinary Account (OA)"}
+{"label": "OTHER", "pattern": "How can I use the CPF Ordinary Account"}
+{"label": "OTHER", "pattern": "HOA"}
+{"label": "OTHER", "pattern": "How to keep your land from disappearing: 10 ways to stop erosion on your property"}
+{"label": "OTHER", "pattern": "Full Retirement Sum (FRS)"}
+{"label": "OTHER", "pattern": "What is the Full Retirement Sum (FRS)?"}
+{"label": "OTHER", "pattern": "Full Retirement Sum"}
+{"label": "OTHER", "pattern": "FRS"}
+{"label": "OTHER", "pattern": "How does the Full Retirement Sum (FRS) work"}
+{"label": "OTHER", "pattern": "HFRS"}
+{"label": "OTHER", "pattern": "What should I know about the CPF Retirement Sum"}
+{"label": "OTHER", "pattern": "WRS"}
+{"label": "OTHER", "pattern": "negotiation in real estate"}
+{"label": "OTHER", "pattern": "What is negotiation in real estate?"}
+{"label": "OTHER", "pattern": "some key aspects of negotiation in real estate"}
+{"label": "OTHER", "pattern": "What are some key aspects of negotiation in real estate?"}
+{"label": "FINANCE&RATES", "pattern": "How to negotiate for the best real estate deals"}
+{"label": "OTHER", "pattern": "Subsidiary Strata Certificates of Title"}
+{"label": "OTHER", "pattern": "What are Subsidiary Strata Certificates of Title?"}
+{"label": "OTHER", "pattern": "SSCT"}
+{"label": "OTHER", "pattern": "When to apply for Subsidiary Strata Certificates of Title"}
+{"label": "OTHER", "pattern": "WSSCT"}
+{"label": "OTHER", "pattern": "What to do if the Subsidiary Certificate of Title is lost, damaged, or wrongfully withheld"}
+{"label": "OTHER", "pattern": "WSCT"}
+{"label": "OTHER", "pattern": "Fiscal Policy"}
+{"label": "OTHER", "pattern": "What is Fiscal Policy?"}
+{"label": "OTHER", "pattern": "How does the Fiscal Policy work in Singapore"}
+{"label": "OTHER", "pattern": "HFPS"}
+{"label": "HDB", "pattern": "HDB Season Parking: Everything you need to know"}
+{"label": "HDB", "pattern": "SPE"}
+{"label": "HDB", "pattern": "HDB season parking"}
+{"label": "HDB", "pattern": "What is HDB season parking?"}
+{"label": "HDB", "pattern": "HDB season parking rates"}
+{"label": "HDB", "pattern": "How is HDB season parking allocated"}
+{"label": "HDB", "pattern": "How to apply for HDB season parking"}
+{"label": "HDB", "pattern": "Renewing HDB season parking"}
+{"label": "HDB", "pattern": "Transferring and cancelling of HDB season parking"}
+{"label": "OTHER", "pattern": "Doing Business As (DBA)"}
+{"label": "OTHER", "pattern": "What is Doing Business As (DBA)?"}
+{"label": "OTHER", "pattern": "Doing Business As"}
+{"label": "OTHER", "pattern": "How to create a Doing Business As (DBA) in real estate that is memorable"}
+{"label": "OTHER", "pattern": "HDBA"}
+{"label": "OTHER", "pattern": "Procurement in Singapore real estate"}
+{"label": "OTHER", "pattern": "What is Procurement in Singapore real estate?"}
+{"label": "OTHER", "pattern": "PS"}
+{"label": "OTHER", "pattern": "Benefits of strategic procurement"}
+{"label": "OTHER", "pattern": "Elements of effective procurement"}
+{"label": "PROPERTYTYPE", "pattern": "a bungalow or detached house in Singapore"}
+{"label": "PROPERTYTYPE", "pattern": "What is a bungalow or detached house in Singapore?"}
+{"label": "PROPERTYTYPE", "pattern": "What types of detached houses are there in Singapore"}
+{"label": "PROPERTYTYPE", "pattern": "WS"}
+{"label": "PROPERTYTYPE", "pattern": "Colonial bungalows or black-and-white houses"}
+{"label": "PROPERTYTYPE", "pattern": "What are Colonial bungalows or black-and-white houses?"}
+{"label": "PROPERTYTYPE", "pattern": "Good Class Bungalows (GCB)"}
+{"label": "PROPERTYTYPE", "pattern": "What are Good Class Bungalows (GCB)?"}
+{"label": "PROPERTYTYPE", "pattern": "Good Class Bungalows"}
+{"label": "PROPERTYTYPE", "pattern": "GCB"}
+{"label": "PROPERTYTYPE", "pattern": "Semi-detached vs detached house – What’s the difference"}
+{"label": "PROPERTYTYPE", "pattern": "SW"}
+{"label": "PROPERTYTYPE", "pattern": "Looking to buy a bungalow in Singapore? Check out our listings here."}
+{"label": "PROPERTYTYPE", "pattern": "LSC"}
+{"label": "OTHER", "pattern": "Request for Proposal (RFP)"}
+{"label": "OTHER", "pattern": "What is Request for Proposal (RFP)?"}
+{"label": "OTHER", "pattern": "Request for Proposal"}
+{"label": "OTHER", "pattern": "RFP"}
+{"label": "OTHER", "pattern": "RP"}
+{"label": "OTHER", "pattern": "Understanding Request For Proposal (RFP)"}
+{"label": "OTHER", "pattern": "Understanding Request For Proposal"}
+{"label": "OTHER", "pattern": "URFP"}
+{"label": "OTHER", "pattern": "Importance of RFP in real estate and property"}
+{"label": "FINANCE&RATES", "pattern": "occupancy costs in Singapore"}
+{"label": "FINANCE&RATES", "pattern": "What are occupancy costs in Singapore?"}
+{"label": "HDB", "pattern": "What factors influence rental occupancy costs in Singapore"}
+{"label": "HDB", "pattern": "WS"}
+{"label": "OTHER", "pattern": "What factors influence occupancy costs in Singapore for homeowners"}
+{"label": "LEGAL&DOCS", "pattern": "reconciliation"}
+{"label": "LEGAL&DOCS", "pattern": "What is reconciliation?"}
+{"label": "LEGAL&DOCS", "pattern": "Understanding reconciliation"}
+{"label": "LEGAL&DOCS", "pattern": "Importance of reconciliation in real estate"}
+{"label": "OTHER", "pattern": "Woodlands Checkpoint"}
+{"label": "OTHER", "pattern": "What is the Woodlands Checkpoint?"}
+{"label": "OTHER", "pattern": "WC"}
+{"label": "OTHER", "pattern": "How many people enter the Woodlands Checkpoint daily"}
+{"label": "OTHER", "pattern": "HWC"}
+{"label": "AGENCY&AUTHORITY", "pattern": "redevelopment plans for the Woodlands Checkpoint"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What are the redevelopment plans for the Woodlands Checkpoint?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "WC"}
+{"label": "HDB", "pattern": "Design, Build and Sell Scheme (DBSS)"}
+{"label": "HDB", "pattern": "What is the Design, Build and Sell Scheme (DBSS)?"}
+{"label": "HDB", "pattern": "Design, Build and Sell Scheme"}
+{"label": "HDB", "pattern": "DBSS"}
+{"label": "HDB", "pattern": "Where are Design, Build and Sell Scheme (DBSS) flats located"}
+{"label": "HDB", "pattern": "WDBSS"}
+{"label": "LEGAL&DOCS", "pattern": "a Temporary Occupation Permit (TOP)"}
+{"label": "LEGAL&DOCS", "pattern": "What is a Temporary Occupation Permit (TOP)?"}
+{"label": "LEGAL&DOCS", "pattern": "a Temporary Occupation Permit"}
+{"label": "LEGAL&DOCS", "pattern": "What’s the Key Difference Between TOP and CSC"}
+{"label": "LEGAL&DOCS", "pattern": "WKDB"}
+{"label": "LEGAL&DOCS", "pattern": "How to apply for a Temporary Occupation Permit (TOP)"}
+{"label": "LEGAL&DOCS", "pattern": "How to apply for a Temporary Occupation Permit"}
+{"label": "LEGAL&DOCS", "pattern": "HTOP"}
+{"label": "LEGAL&DOCS", "pattern": "an Express Temporary Occupation Permit (TOP)"}
+{"label": "LEGAL&DOCS", "pattern": "What is an Express Temporary Occupation Permit (TOP)?"}
+{"label": "LEGAL&DOCS", "pattern": "an Express Temporary Occupation Permit"}
+{"label": "LEGAL&DOCS", "pattern": "ETOP"}
+{"label": "LEGAL&DOCS", "pattern": "caveat emptor"}
+{"label": "LEGAL&DOCS", "pattern": "What is the caveat emptor?"}
+{"label": "OTHER", "pattern": "Must the seller inform me of any property defects"}
+{"label": "LEGAL&DOCS", "pattern": "What measures can you take as a buyer to protect your legal rights"}
+{"label": "AGENCY&AUTHORITY", "pattern": "SASSEUR REIT"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What is SASSEUR REIT?"}
+{"label": "PROCESS", "pattern": "How many assets does Sasseur REIT currently have in China"}
+{"label": "PROCESS", "pattern": "REIT"}
+{"label": "PROCESS", "pattern": "HSC"}
+{"label": "OTHER", "pattern": "Net Present Value (NPV)"}
+{"label": "OTHER", "pattern": "What is Net Present Value (NPV)?"}
+{"label": "OTHER", "pattern": "Net Present Value"}
+{"label": "OTHER", "pattern": "NPV"}
+{"label": "OTHER", "pattern": "Understanding Net Present Value (NPV)"}
+{"label": "OTHER", "pattern": "Understanding Net Present Value"}
+{"label": "OTHER", "pattern": "UNPV"}
+{"label": "OTHER", "pattern": "Importance of NPV in Real Estate"}
+{"label": "LEGAL&DOCS", "pattern": "Common Area Maintenance (CAM)"}
+{"label": "LEGAL&DOCS", "pattern": "What is Common Area Maintenance (CAM)?"}
+{"label": "LEGAL&DOCS", "pattern": "Common Area Maintenance"}
+{"label": "LEGAL&DOCS", "pattern": "CAM"}
+{"label": "LEGAL&DOCS", "pattern": "Calculating CAM and influencing factors"}
+{"label": "OTHER", "pattern": "Comparing CAM with other real estate terms"}
+{"label": "OTHER", "pattern": "CAM"}
+{"label": "LEGAL&DOCS", "pattern": "Advantages and disadvantages of cam"}
+{"label": "OTHER", "pattern": "Types of CAM"}
+{"label": "OTHER", "pattern": "Ingress and Egress"}
+{"label": "OTHER", "pattern": "What is Ingress and Egress?"}
+{"label": "OTHER", "pattern": "IE"}
+{"label": "OTHER", "pattern": "Ingress and Egress easements"}
+{"label": "OTHER", "pattern": "Emergency access rights"}
+{"label": "OTHER", "pattern": "Limits on Ingress and Egress rights"}
+{"label": "OTHER", "pattern": "LIE"}
+{"label": "PROPERTYTYPE", "pattern": "a semi-detached house"}
+{"label": "PROPERTYTYPE", "pattern": "What is a semi-detached house?"}
+{"label": "PROPERTYTYPE", "pattern": "Semi-detached vs Terrace house – What’s the difference"}
+{"label": "PROPERTYTYPE", "pattern": "STW"}
+{"label": "PROPERTYTYPE", "pattern": "Pros:"}
+{"label": "PROPERTYTYPE", "pattern": "Cons:"}
+{"label": "OTHER", "pattern": "Mixed-Use Developments"}
+{"label": "OTHER", "pattern": "What Are Mixed-Use Developments?"}
+{"label": "OTHER", "pattern": "MUD"}
+{"label": "OTHER", "pattern": "A historical perspective"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Why are mixed-use developments rising in popularity"}
+{"label": "OTHER", "pattern": "Types of mixed-use developments"}
+{"label": "OTHER", "pattern": "Benefits of mixed-use developments"}
+{"label": "OTHER", "pattern": "Challenges of mixed-use developments"}
+{"label": "OTHER", "pattern": "Notable examples in Singapore"}
+{"label": "OTHER", "pattern": "NS"}
+{"label": "TAX&DUTY", "pattern": "Ways to avoid ABSD (and why you should think twice before doing it)"}
+{"label": "TAX&DUTY", "pattern": "Ways to avoid ABSD"}
+{"label": "TAX&DUTY", "pattern": "and why you should think twice before doing it"}
+{"label": "TAX&DUTY", "pattern": "Legal methods to avoid or mitigate ABSD"}
+{"label": "TAX&DUTY", "pattern": "Risks and considerations"}
+{"label": "TAX&DUTY", "pattern": "Reasons to avoid ABSD"}
+{"label": "OTHER", "pattern": "Chinatown Point"}
+{"label": "OTHER", "pattern": "What is Chinatown Point?"}
+{"label": "OTHER", "pattern": "CP"}
+{"label": "OTHER", "pattern": "in Chinatown Point"}
+{"label": "OTHER", "pattern": "What is in Chinatown Point?"}
+{"label": "OTHER", "pattern": "What amenities does Chinatown Point have"}
+{"label": "OTHER", "pattern": "WCP"}
+{"label": "OTHER", "pattern": "How to go to Chinatown Point"}
+{"label": "OTHER", "pattern": "HCP"}
+{"label": "OTHER", "pattern": "The legal and ethical implications of group boycotting in real estate"}
+{"label": "OTHER", "pattern": "group boycotting"}
+{"label": "OTHER", "pattern": "What is group boycotting?"}
+{"label": "OTHER", "pattern": "a Progressive Payment Scheme (PPS)"}
+{"label": "OTHER", "pattern": "What is a Progressive Payment Scheme (PPS)?"}
+{"label": "OTHER", "pattern": "a Progressive Payment Scheme"}
+{"label": "OTHER", "pattern": "PPS"}
+{"label": "LEGAL&DOCS", "pattern": "How does a Progressive Payment Scheme (PPS) work"}
+{"label": "LEGAL&DOCS", "pattern": "PPS"}
+{"label": "LEGAL&DOCS", "pattern": "HPPS"}
+{"label": "LEGAL&DOCS", "pattern": "stages in the Progressive Payment Scheme (PPS)"}
+{"label": "LEGAL&DOCS", "pattern": "What are the stages in the Progressive Payment Scheme (PPS)?"}
+{"label": "LEGAL&DOCS", "pattern": "stages in the Progressive Payment Scheme"}
+{"label": "PROPERTYTYPE", "pattern": "What should I know about the Progressive Payment Scheme (PPS)"}
+{"label": "PROPERTYTYPE", "pattern": "What should I know about the Progressive Payment Scheme"}
+{"label": "PROPERTYTYPE", "pattern": "PPS"}
+{"label": "PROPERTYTYPE", "pattern": "WPPS"}
+{"label": "FINANCE&RATES", "pattern": "a break-even price"}
+{"label": "FINANCE&RATES", "pattern": "What is a break-even price?"}
+{"label": "TAX&DUTY", "pattern": "How to calculate break-even prices for real estate"}
+{"label": "OTHER", "pattern": "a cul-de-sac house"}
+{"label": "OTHER", "pattern": "What is a cul-de-sac house?"}
+{"label": "OTHER", "pattern": "advantages and disadvantages of a cul-de-sac house"}
+{"label": "OTHER", "pattern": "What are the advantages and disadvantages of a cul-de-sac house?"}
+{"label": "OTHER", "pattern": "HVAC"}
+{"label": "OTHER", "pattern": "What is HVAC?"}
+{"label": "OTHER", "pattern": "Understanding HVAC"}
+{"label": "OTHER", "pattern": "Importance of HVAC in real estate"}
+{"label": "HDB", "pattern": "Understanding amendments"}
+{"label": "OTHER", "pattern": "Importance of amendments in real estate"}
+{"label": "OTHER", "pattern": "Land theft through fear: The devastating reality of intimidation tactics in land grabbing"}
+{"label": "OTHER", "pattern": "LT"}
+{"label": "OTHER", "pattern": "serviced apartments"}
+{"label": "OTHER", "pattern": "What are serviced apartments?"}
+{"label": "OTHER", "pattern": "cost of serviced apartments"}
+{"label": "OTHER", "pattern": "What is the cost of serviced apartments?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Are serviced apartments legal in Singapore"}
+{"label": "AGENCY&AUTHORITY", "pattern": "AS"}
+{"label": "OTHER", "pattern": "Is a serviced apartment a good investment"}
+{"label": "OTHER", "pattern": "proration"}
+{"label": "OTHER", "pattern": "What is proration?"}
+{"label": "OTHER", "pattern": "Understanding proration:"}
+{"label": "OTHER", "pattern": "Importance of proration in real estate"}
+{"label": "OTHER", "pattern": "The art of the deal: How mediation helps opposing parties find common ground"}
+{"label": "HDB", "pattern": "Home Protection Scheme (HPS)"}
+{"label": "HDB", "pattern": "What is the Home Protection Scheme (HPS)?"}
+{"label": "HDB", "pattern": "Home Protection Scheme"}
+{"label": "HDB", "pattern": "HPS"}
+{"label": "OTHER", "pattern": "How long does coverage under the Home Protection Scheme (HPS) last"}
+{"label": "OTHER", "pattern": "HPS"}
+{"label": "OTHER", "pattern": "HHPS"}
+{"label": "FINANCE&RATES", "pattern": "How to be eligible for the Home Protection Scheme (HPS) coverage"}
+{"label": "FINANCE&RATES", "pattern": "HPS"}
+{"label": "FINANCE&RATES", "pattern": "HHPS"}
+{"label": "OTHER", "pattern": "What kinds of conditions are not covered by HPS claims"}
+{"label": "HDB", "pattern": "Is the Home Protection Scheme (HPS) mandatory"}
+{"label": "HDB", "pattern": "IHPS"}
+{"label": "HDB", "pattern": "Home Protection Scheme (HPS) exemptions"}
+{"label": "HDB", "pattern": "What are Home Protection Scheme (HPS) exemptions?"}
+{"label": "OTHER", "pattern": "How much is the Home Protection Scheme (HPS) Premium"}
+{"label": "OTHER", "pattern": "HHPSP"}
+{"label": "OTHER", "pattern": "How to pay for the Home Protection Scheme (HPS)"}
+{"label": "OTHER", "pattern": "How to pay for the Home Protection Scheme"}
+{"label": "LEGAL&DOCS", "pattern": "vesting"}
+{"label": "LEGAL&DOCS", "pattern": "What is vesting?"}
+{"label": "OTHER", "pattern": "abatement"}
+{"label": "OTHER", "pattern": "What is abatement?"}
+{"label": "OTHER", "pattern": "Understanding abatement"}
+{"label": "OTHER", "pattern": "Importance of abatement in real estate"}
+{"label": "OTHER", "pattern": "PSI"}
+{"label": "OTHER", "pattern": "What is PSI?"}
+{"label": "OTHER", "pattern": "Understanding PSI"}
+{"label": "OTHER", "pattern": "Importance of PSI in real estate"}
+{"label": "OTHER", "pattern": "The power of bonds: How they secure real estate deals and protect your investment"}
+{"label": "OTHER", "pattern": "covenant"}
+{"label": "OTHER", "pattern": "What is covenant?"}
+{"label": "OTHER", "pattern": "Understanding covenant"}
+{"label": "OTHER", "pattern": "Importance of covenant in real estate and property"}
+{"label": "PROCESS", "pattern": "equalisation"}
+{"label": "PROCESS", "pattern": "What is equalisation?"}
+{"label": "OTHER", "pattern": "How do equalisation rates work"}
+{"label": "OTHER", "pattern": "How to calculate equalisation rates"}
+{"label": "OTHER", "pattern": "What factors influence equalisation rates"}
+{"label": "HDB", "pattern": "Enhanced CPF Housing Grant (EHG)"}
+{"label": "HDB", "pattern": "What is the Enhanced CPF Housing Grant (EHG)?"}
+{"label": "HDB", "pattern": "Enhanced CPF Housing Grant"}
+{"label": "HDB", "pattern": "EHG"}
+{"label": "HDB", "pattern": "CPF"}
+{"label": "OTHER", "pattern": "Am I eligible for the Enhanced Housing Grant"}
+{"label": "OTHER", "pattern": "AEHG"}
+{"label": "OTHER", "pattern": "How much Enhanced CPF Housing Grant (EHG) can I get"}
+{"label": "OTHER", "pattern": "HEHG"}
+{"label": "OTHER", "pattern": "a unit or house number"}
+{"label": "OTHER", "pattern": "What is a unit or house number?"}
+{"label": "OTHER", "pattern": "a unit number application in Singapore"}
+{"label": "OTHER", "pattern": "What is a unit number application in Singapore?"}
+{"label": "OTHER", "pattern": "How to apply for a unit number in Singapore"}
+{"label": "OTHER", "pattern": "main things that must be considered when applying for a unit number"}
+{"label": "OTHER", "pattern": "What are the main things that must be considered when applying for a unit number?"}
+{"label": "LEGAL&DOCS", "pattern": "a Power of Attorney (POA)"}
+{"label": "LEGAL&DOCS", "pattern": "What is a Power of Attorney (POA)?"}
+{"label": "LEGAL&DOCS", "pattern": "a Power of Attorney"}
+{"label": "LEGAL&DOCS", "pattern": "POA"}
+{"label": "LEGAL&DOCS", "pattern": "PA"}
+{"label": "LEGAL&DOCS", "pattern": "When to use the Power of Attorney (POA)"}
+{"label": "LEGAL&DOCS", "pattern": "When to use the Power of Attorney"}
+{"label": "LEGAL&DOCS", "pattern": "WPA"}
+{"label": "LEGAL&DOCS", "pattern": "How do I set up power of attorney in Singapore"}
+{"label": "HDB", "pattern": "types of Power of Attorney (POA) available in Singapore"}
+{"label": "HDB", "pattern": "What are the types of Power of Attorney (POA) available in Singapore?"}
+{"label": "HDB", "pattern": "POA"}
+{"label": "HDB", "pattern": "PAS"}
+{"label": "LEGAL&DOCS", "pattern": "Can the Power of Attorney (POA) be revoked"}
+{"label": "LEGAL&DOCS", "pattern": "CPA"}
+{"label": "LEGAL&DOCS", "pattern": "How to keep your real estate investments running smoothly with Power of Attorney"}
+{"label": "LEGAL&DOCS", "pattern": "HPA"}
+{"label": "OTHER", "pattern": "Who is a Notary Public"}
+{"label": "OTHER", "pattern": "WNP"}
+{"label": "OTHER", "pattern": "What does a Notary Public do"}
+{"label": "OTHER", "pattern": "Do I need a Notary Public"}
+{"label": "OTHER", "pattern": "DNP"}
+{"label": "OTHER", "pattern": "redlining"}
+{"label": "OTHER", "pattern": "What is redlining?"}
+{"label": "OTHER", "pattern": "Understanding redlining"}
+{"label": "OTHER", "pattern": "Importance of redlining in real estate"}
+{"label": "OTHER", "pattern": "a Unique Entity Number (UEN) in Singapore"}
+{"label": "OTHER", "pattern": "What is a Unique Entity Number (UEN) in Singapore?"}
+{"label": "OTHER", "pattern": "UEN"}
+{"label": "OTHER", "pattern": "UENS"}
+{"label": "OTHER", "pattern": "benefits of having a Unique Entity Number (UEN) in Singapore"}
+{"label": "OTHER", "pattern": "What are the benefits of having a Unique Entity Number (UEN) in Singapore?"}
+{"label": "OTHER", "pattern": "Who issues the UEN"}
+{"label": "OTHER", "pattern": "Do I need a Unique Entity Number (UEN) in Singapore"}
+{"label": "OTHER", "pattern": "DUENS"}
+{"label": "OTHER", "pattern": "List of MRT stations in Singapore"}
+{"label": "OTHER", "pattern": "LS"}
+{"label": "OTHER", "pattern": "Naming of MRT stations"}
+{"label": "OTHER", "pattern": "MRT ticketing how-to"}
+{"label": "OTHER", "pattern": "MRT operations"}
+{"label": "OTHER", "pattern": "Other services at MRT stations"}
+{"label": "OTHER", "pattern": "What’s planned for MRT stations in Singapore"}
+{"label": "HDB", "pattern": "loan-to-value (LTV) ratio"}
+{"label": "HDB", "pattern": "What is the loan-to-value (LTV) ratio?"}
+{"label": "HDB", "pattern": "LTV"}
+{"label": "HDB", "pattern": "What types of loan-to-value (LTV) ratios are there"}
+{"label": "FINANCE&RATES", "pattern": "What factors affect the loan-to-value (LTV) ratio"}
+{"label": "OTHER", "pattern": "amortisation"}
+{"label": "OTHER", "pattern": "What is amortisation?"}
+{"label": "FINANCE&RATES", "pattern": "What does an amortisation loan schedule look like"}
+{"label": "OTHER", "pattern": "How would an unamortised loan work"}
+{"label": "OTHER", "pattern": "private property transactions"}
+{"label": "OTHER", "pattern": "What are private property transactions?"}
+{"label": "TENURE", "pattern": "Can I check the private property transactions in Singapore"}
+{"label": "TENURE", "pattern": "CS"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What should buyers and sellers do before engaging in a private property transaction"}
+{"label": "OTHER", "pattern": "Capital Expenditure (CapEx)"}
+{"label": "OTHER", "pattern": "What is Capital Expenditure (CapEx)?"}
+{"label": "OTHER", "pattern": "Capital Expenditure"}
+{"label": "OTHER", "pattern": "CapEx"}
+{"label": "OTHER", "pattern": "CEC"}
+{"label": "OTHER", "pattern": "How is CapEx Different from Other Expenses"}
+{"label": "OTHER", "pattern": "HCDOE"}
+{"label": "OTHER", "pattern": "Why is CapEx Important in Singapore"}
+{"label": "OTHER", "pattern": "WCIS"}
+{"label": "OTHER", "pattern": "What Constitutes CapEx in Singapore"}
+{"label": "OTHER", "pattern": "WCCS"}
+{"label": "OTHER", "pattern": "How Do Companies in Singapore Finance CapEx"}
+{"label": "OTHER", "pattern": "HDCSFC"}
+{"label": "OTHER", "pattern": "The Relationship Between CapEx and Depreciation"}
+{"label": "OTHER", "pattern": "TRBCD"}
+{"label": "OTHER", "pattern": "Practical Implications of CapEx in Singapore"}
+{"label": "OTHER", "pattern": "PICS"}
+{"label": "OTHER", "pattern": "Limitations of Focusing Solely on CapEx"}
+{"label": "OTHER", "pattern": "LFSC"}
+{"label": "OTHER", "pattern": "Common Misconceptions About CapEx"}
+{"label": "OTHER", "pattern": "CMAC"}
+{"label": "OTHER", "pattern": "Key Takeaways"}
+{"label": "OTHER", "pattern": "KT"}
+{"label": "FINANCE&RATES", "pattern": "mortgage subordination"}
+{"label": "FINANCE&RATES", "pattern": "What is mortgage subordination?"}
+{"label": "FINANCE&RATES", "pattern": "Why is subordination necessary"}
+{"label": "LEGAL&DOCS", "pattern": "How does subordination work"}
+{"label": "FINANCE&RATES", "pattern": "benefits of subordination"}
+{"label": "FINANCE&RATES", "pattern": "What are the benefits of subordination?"}
+{"label": "FINANCE&RATES", "pattern": "Key considerations for subordination"}
+{"label": "PROCESS", "pattern": "en bloc"}
+{"label": "PROCESS", "pattern": "What is en bloc?"}
+{"label": "PROPERTYTYPE", "pattern": "included in the purchase of an en bloc sale"}
+{"label": "PROPERTYTYPE", "pattern": "What is included in the purchase of an en bloc sale?"}
+{"label": "PROCESS", "pattern": "How does the sales process for en bloc sales work, and what are the potential benefits for homeowners"}
+{"label": "PROCESS", "pattern": "key difference between en bloc and Standard Property Transactions"}
+{"label": "PROCESS", "pattern": "What is the key difference between en bloc and Standard Property Transactions?"}
+{"label": "PROCESS", "pattern": "SPT"}
+{"label": "PROCESS", "pattern": "What price can property owners expect to sell their units for"}
+{"label": "OTHER", "pattern": "Money market funds 101: Your complete guide to understanding these low-risk investments"}
+{"label": "OTHER", "pattern": "MY"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Council of Estate Agencies (CEA)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What is the Council of Estate Agencies (CEA)?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Council of Estate Agencies"}
+{"label": "AGENCY&AUTHORITY", "pattern": "responsibilities and functions of CEA in Singapore"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What are the responsibilities and functions of CEA in Singapore?"}
+{"label": "PROCESS", "pattern": "Using Net Asset Value to Analyze REITs"}
+{"label": "PROCESS", "pattern": "UNAVAR"}
+{"label": "OTHER", "pattern": "subpoena"}
+{"label": "OTHER", "pattern": "What is subpoena?"}
+{"label": "OTHER", "pattern": "Understanding subpoena"}
+{"label": "PROCESS", "pattern": "Importance of subpoena in real estate and property"}
+{"label": "FINANCE&RATES", "pattern": "lock-in period"}
+{"label": "FINANCE&RATES", "pattern": "What is the lock-in period?"}
+{"label": "FINANCE&RATES", "pattern": "penalty fee for breaking the lock-in period"}
+{"label": "FINANCE&RATES", "pattern": "What is the penalty fee for breaking the lock-in period?"}
+{"label": "HDB", "pattern": "Do HDB houses have lock-in periods"}
+{"label": "OTHER", "pattern": "a CMBS"}
+{"label": "OTHER", "pattern": "What is a CMBS?"}
+{"label": "OTHER", "pattern": "CMBS"}
+{"label": "OTHER", "pattern": "Tranches in CMBS"}
+{"label": "OTHER", "pattern": "Benefits of CMBS Tranches"}
+{"label": "OTHER", "pattern": "BT"}
+{"label": "MARKETMETRIC", "pattern": "property tax rate"}
+{"label": "MARKETMETRIC", "pattern": "What is the property tax rate?"}
+{"label": "OTHER", "pattern": "Who pays the tax when there is more than one property owner"}
+{"label": "OTHER", "pattern": "How is property tax calculated"}
+{"label": "OTHER", "pattern": "What types of property tax rates are out there"}
+{"label": "OTHER", "pattern": "Why are non-owner-occupier property tax rates higher than owner-occupier property tax rates"}
+{"label": "OTHER", "pattern": "What happens if I own more than one property"}
+{"label": "OTHER", "pattern": "If I change my residential home to non-residential use, do I need to notify IRAS"}
+{"label": "OTHER", "pattern": "IRAS"}
+{"label": "HDB", "pattern": "Family Grant Proximity Housing Grant (PHG)"}
+{"label": "HDB", "pattern": "What is the Family Grant Proximity Housing Grant (PHG)?"}
+{"label": "HDB", "pattern": "Family Grant Proximity Housing Grant"}
+{"label": "HDB", "pattern": "PHG"}
+{"label": "HDB", "pattern": "FGPHG"}
+{"label": "HDB", "pattern": "Am I Eligible for the Family Grant Proximity Housing Grant (PHG) in Singapore"}
+{"label": "OTHER", "pattern": "How much can I get from the Family Grant Proximity Housing Grant (PHG)"}
+{"label": "OTHER", "pattern": "How much can I get from the Family Grant Proximity Housing Grant"}
+{"label": "OTHER", "pattern": "PHG"}
+{"label": "OTHER", "pattern": "HFGPHG"}
+{"label": "OTHER", "pattern": "an open house"}
+{"label": "OTHER", "pattern": "What is an open house?"}
+{"label": "OTHER", "pattern": "Why is an open house important"}
+{"label": "OTHER", "pattern": "Singapore National Day"}
+{"label": "OTHER", "pattern": "What is Singapore National Day?"}
+{"label": "OTHER", "pattern": "SND"}
+{"label": "OTHER", "pattern": "What happens during Singapore National Day"}
+{"label": "OTHER", "pattern": "WSND"}
+{"label": "OTHER", "pattern": "property cooling measures"}
+{"label": "OTHER", "pattern": "What are property cooling measures?"}
+{"label": "OTHER", "pattern": "Factors influencing property cooling measures and the application process"}
+{"label": "OTHER", "pattern": "Comparing property cooling measures with other market regulations"}
+{"label": "OTHER", "pattern": "Advantages and disadvantages of property cooling measures"}
+{"label": "OTHER", "pattern": "Types of property cooling measures"}
+{"label": "LEGAL&DOCS", "pattern": "a property title deed"}
+{"label": "LEGAL&DOCS", "pattern": "What is a property title deed?"}
+{"label": "HDB", "pattern": "types of property title deeds available"}
+{"label": "HDB", "pattern": "What are the types of property title deeds available?"}
+{"label": "FINANCE&RATES", "pattern": "Where is the property title deed kept"}
+{"label": "HDB", "pattern": "How to obtain or view a copy of your property title deeds"}
+{"label": "OTHER", "pattern": "a conveyancing lawyer"}
+{"label": "OTHER", "pattern": "What is a conveyancing lawyer?"}
+{"label": "HDB", "pattern": "What does a conveyancing lawyer do"}
+{"label": "HDB", "pattern": "Do I need a conveyancing lawyer"}
+{"label": "LEGAL&DOCS", "pattern": "Defects Liability Period (DLP)"}
+{"label": "LEGAL&DOCS", "pattern": "What is the Defects Liability Period (DLP)?"}
+{"label": "LEGAL&DOCS", "pattern": "Defects Liability Period"}
+{"label": "LEGAL&DOCS", "pattern": "DLP"}
+{"label": "LEGAL&DOCS", "pattern": "How long does the Defects Liability Period (DLP) last"}
+{"label": "LEGAL&DOCS", "pattern": "HDLP"}
+{"label": "HDB", "pattern": "What should you do when you identify the defects"}
+{"label": "FINANCE&RATES", "pattern": "Singapore Interbank Offer Rate (SIBOR)"}
+{"label": "FINANCE&RATES", "pattern": "What is the Singapore Interbank Offer Rate (SIBOR)?"}
+{"label": "FINANCE&RATES", "pattern": "Singapore Interbank Offer Rate"}
+{"label": "LEGAL&DOCS", "pattern": "How is SIBOR calculated"}
+{"label": "LEGAL&DOCS", "pattern": "SIBOR"}
+{"label": "FINANCE&RATES", "pattern": "What influences the SIBOR"}
+{"label": "FINANCE&RATES", "pattern": "What should SIBOR borrowers expect"}
+{"label": "OTHER", "pattern": "What is GST?"}
+{"label": "OTHER", "pattern": "How does GST work"}
+{"label": "OTHER", "pattern": "Why do we need GST"}
+{"label": "OTHER", "pattern": "Should I register my company for GST"}
+{"label": "OTHER", "pattern": "Advantages and Disadvantages of GST in Singapore:"}
+{"label": "OTHER", "pattern": "ADS"}
+{"label": "OTHER", "pattern": "World Gourmet Summit (WGS)"}
+{"label": "OTHER", "pattern": "What is the World Gourmet Summit (WGS)?"}
+{"label": "OTHER", "pattern": "World Gourmet Summit"}
+{"label": "OTHER", "pattern": "WGS"}
+{"label": "OTHER", "pattern": "What happens during the World Gourmet Summit (WGS)"}
+{"label": "OTHER", "pattern": "What happens during the World Gourmet Summit"}
+{"label": "OTHER", "pattern": "WWGS"}
+{"label": "OTHER", "pattern": "What awards has the World Gourmet Summit (WGS) won"}
+{"label": "HDB", "pattern": "Fair Market Value (FMV)"}
+{"label": "HDB", "pattern": "What is Fair Market Value (FMV)?"}
+{"label": "HDB", "pattern": "Fair Market Value"}
+{"label": "HDB", "pattern": "FMV"}
+{"label": "OTHER", "pattern": "How to determine Fair Market Value (FMV)"}
+{"label": "OTHER", "pattern": "How to determine Fair Market Value"}
+{"label": "OTHER", "pattern": "FMV"}
+{"label": "OTHER", "pattern": "HFMV"}
+{"label": "OTHER", "pattern": "bid in Singapore real estate"}
+{"label": "OTHER", "pattern": "What is bid in Singapore real estate?"}
+{"label": "OTHER", "pattern": "How to craft a competitive construction bid and stand out from the crowd"}
+{"label": "LEGAL&DOCS", "pattern": "What is tenancy-in-common?"}
+{"label": "LEGAL&DOCS", "pattern": "How does tenancy-in-common work"}
+{"label": "LEGAL&DOCS", "pattern": "How does Tenancy In Common differ from Joint Tenancy"}
+{"label": "LEGAL&DOCS", "pattern": "HTICJT"}
+{"label": "LEGAL&DOCS", "pattern": "Popular Uses of Tenancy In Common in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "PUTICS"}
+{"label": "LEGAL&DOCS", "pattern": "How to Set Up Tenancy In Common in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "Can You Convert from Joint Tenancy to Tenancy In Common (TIC)"}
+{"label": "LEGAL&DOCS", "pattern": "Can You Convert from Joint Tenancy to Tenancy In Common"}
+{"label": "LEGAL&DOCS", "pattern": "TIC"}
+{"label": "LEGAL&DOCS", "pattern": "What happens if a Tenant In Common wants to sell"}
+{"label": "LEGAL&DOCS", "pattern": "WTIC"}
+{"label": "LEGAL&DOCS", "pattern": "What if there’s a disagreement among Tenants In Common"}
+{"label": "MARKETMETRIC", "pattern": "Annual Value (AV) of the property"}
+{"label": "MARKETMETRIC", "pattern": "What is the Annual Value (AV) of the property?"}
+{"label": "MARKETMETRIC", "pattern": "AV"}
+{"label": "MARKETMETRIC", "pattern": "Why does IRAS use rentals rather than selling prices to calculate the Annual Value (AV)"}
+{"label": "MARKETMETRIC", "pattern": "Why does IRAS use rentals rather than selling prices to calculate the Annual Value"}
+{"label": "MARKETMETRIC", "pattern": "IRAS"}
+{"label": "MARKETMETRIC", "pattern": "WAV"}
+{"label": "MARKETMETRIC", "pattern": "How to check the Annual Value (AV) of my property"}
+{"label": "MARKETMETRIC", "pattern": "HAV"}
+{"label": "MARKETMETRIC", "pattern": "Why is the Annual Value (AV) important"}
+{"label": "PROCESS", "pattern": "When will IRAS update my property’s Annual Value (AV)"}
+{"label": "PROCESS", "pattern": "When will IRAS update my property’s Annual Value"}
+{"label": "PROCESS", "pattern": "AV"}
+{"label": "PROCESS", "pattern": "IRAS"}
+{"label": "PROCESS", "pattern": "WAV"}
+{"label": "OTHER", "pattern": "EBITDA"}
+{"label": "OTHER", "pattern": "What is EBITDA?"}
+{"label": "OTHER", "pattern": "Understanding EBITDA"}
+{"label": "OTHER", "pattern": "Importance of EBITDA in Real Estate"}
+{"label": "OTHER", "pattern": "Is GST payable on the residential lease"}
+{"label": "PROPERTYTYPE", "pattern": "What residential properties are exempt from GST"}
+{"label": "PROPERTYTYPE", "pattern": "GST"}
+{"label": "OTHER", "pattern": "abandonment"}
+{"label": "OTHER", "pattern": "What is abandonment?"}
+{"label": "OTHER", "pattern": "Understanding abandonment"}
+{"label": "FINANCE&RATES", "pattern": "Importance of abandonment in real estate and property"}
+{"label": "OTHER", "pattern": "a property agent"}
+{"label": "OTHER", "pattern": "What is a property agent?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Should my property agent be registered with CEA"}
+{"label": "OTHER", "pattern": "Key features of T-Bills"}
+{"label": "OTHER", "pattern": "KB"}
+{"label": "OTHER", "pattern": "Investment requirements and process"}
+{"label": "OTHER", "pattern": "Benefits and considerations"}
+{"label": "OTHER", "pattern": "Comparison with other investment options"}
+{"label": "OTHER", "pattern": "Looking to invest more time in learning new things? Check out our Glossary and Jargon pages!"}
+{"label": "OTHER", "pattern": "LCGJ"}
+{"label": "OTHER", "pattern": "asset management in Singapore’s real estate"}
+{"label": "OTHER", "pattern": "What is asset management in Singapore’s real estate?"}
+{"label": "OTHER", "pattern": "1. Conduct thorough tenant screening and underwriting"}
+{"label": "OTHER", "pattern": "2. Implement preventative maintenance programmes"}
+{"label": "OTHER", "pattern": "3. Maintain adequate property reserves"}
+{"label": "OTHER", "pattern": "4. Diversify your real estate portfolio"}
+{"label": "OTHER", "pattern": "5. Work with a seasoned property management company"}
+{"label": "PROPERTYTYPE", "pattern": "boutique condos"}
+{"label": "PROPERTYTYPE", "pattern": "What are boutique condos?"}
+{"label": "PROPERTYTYPE", "pattern": "Location"}
+{"label": "PROPERTYTYPE", "pattern": "Features"}
+{"label": "PROPERTYTYPE", "pattern": "Affordability"}
+{"label": "PROPERTYTYPE", "pattern": "Pros of buying a boutique condo in Singapore"}
+{"label": "PROPERTYTYPE", "pattern": "PS"}
+{"label": "PROPERTYTYPE", "pattern": "Cons of choosing a boutique condo"}
+{"label": "FINANCE&RATES", "pattern": "Annual Percentage Rate (APR)"}
+{"label": "FINANCE&RATES", "pattern": "What is the Annual Percentage Rate (APR)?"}
+{"label": "FINANCE&RATES", "pattern": "Annual Percentage Rate"}
+{"label": "FINANCE&RATES", "pattern": "APR"}
+{"label": "FINANCE&RATES", "pattern": "What factors influence the Annual Percentage Rate (APR)"}
+{"label": "FINANCE&RATES", "pattern": "What factors influence the Annual Percentage Rate"}
+{"label": "FINANCE&RATES", "pattern": "WAPR"}
+{"label": "FINANCE&RATES", "pattern": "difference between the Annual Percentage Rate (APR) and the interest rate"}
+{"label": "FINANCE&RATES", "pattern": "What is the difference between the Annual Percentage Rate (APR) and the interest rate?"}
+{"label": "HDB", "pattern": "appreciation in Singapore real estate"}
+{"label": "HDB", "pattern": "What is appreciation in Singapore real estate?"}
+{"label": "OTHER", "pattern": "What factors influence property appreciation in Singapore"}
+{"label": "OTHER", "pattern": "Tips on growing your property’s appreciation"}
+{"label": "FINANCE&RATES", "pattern": "discharge of the CPF charge"}
+{"label": "FINANCE&RATES", "pattern": "What is the discharge of the CPF charge?"}
+{"label": "FINANCE&RATES", "pattern": "CPF"}
+{"label": "OTHER", "pattern": "How to discharge the CPF charge"}
+{"label": "OTHER", "pattern": "Changi City Point"}
+{"label": "OTHER", "pattern": "What is Changi City Point?"}
+{"label": "OTHER", "pattern": "CCP"}
+{"label": "OTHER", "pattern": "in Changi CityPoint"}
+{"label": "OTHER", "pattern": "What is in Changi CityPoint?"}
+{"label": "OTHER", "pattern": "CC"}
+{"label": "OTHER", "pattern": "What amenities does Changi CityPoint have"}
+{"label": "OTHER", "pattern": "WCC"}
+{"label": "OTHER", "pattern": "How to go to Changi CityPoint"}
+{"label": "OTHER", "pattern": "HCC"}
+{"label": "OTHER", "pattern": "History of Changi city point"}
+{"label": "OTHER", "pattern": "HC"}
+{"label": "OTHER", "pattern": "Salient features of Changi city point"}
+{"label": "OTHER", "pattern": "SC"}
+{"label": "OTHER", "pattern": "a statutory declaration in Singapore"}
+{"label": "OTHER", "pattern": "What is a statutory declaration in Singapore?"}
+{"label": "OTHER", "pattern": "How to prepare a statutory declaration in Singapore"}
+{"label": "OTHER", "pattern": "How to swear or affirm a statutory declaration in Singapore"}
+{"label": "OTHER", "pattern": "What happens if a false statutory declaration is made in Singapore"}
+{"label": "OTHER", "pattern": "equity"}
+{"label": "OTHER", "pattern": "What is equity?"}
+{"label": "FINANCE&RATES", "pattern": "Factors influencing equity and the process of utilising it"}
+{"label": "FINANCE&RATES", "pattern": "Comparing equity with other property-related concepts"}
+{"label": "PROCESS", "pattern": "Advantages and disadvantages of utilising equity"}
+{"label": "OTHER", "pattern": "Types of equity loans"}
+{"label": "LEGAL&DOCS", "pattern": "Key laws and regulations"}
+{"label": "OTHER", "pattern": "Real-life examples of real estate joint ventures in Singapore"}
+{"label": "OTHER", "pattern": "RS"}
+{"label": "OTHER", "pattern": "SOP Act"}
+{"label": "OTHER", "pattern": "What is the SOP Act?"}
+{"label": "OTHER", "pattern": "SOP"}
+{"label": "OTHER", "pattern": "Who benefits from the SOP Act"}
+{"label": "OTHER", "pattern": "WA"}
+{"label": "OTHER", "pattern": "How does the SOP Act help firms in the construction industry"}
+{"label": "OTHER", "pattern": "HA"}
+{"label": "HDB", "pattern": "What should I know about the SOP Act"}
+{"label": "HDB", "pattern": "SOP"}
+{"label": "HDB", "pattern": "WA"}
+{"label": "OTHER", "pattern": "proper procedures for a claimant to submit a valid payment claim"}
+{"label": "OTHER", "pattern": "What are the proper procedures for a claimant to submit a valid payment claim?"}
+{"label": "OTHER", "pattern": "Understanding red herring"}
+{"label": "OTHER", "pattern": "Importance of recognising a red herring in real estate"}
+{"label": "OTHER", "pattern": "Home Equity Loans in Singapore"}
+{"label": "OTHER", "pattern": "What are Home Equity Loans in Singapore?"}
+{"label": "OTHER", "pattern": "HELS"}
+{"label": "HDB", "pattern": "eligibility and restrictions for Home Equity Loans in Singapore"}
+{"label": "HDB", "pattern": "What are the eligibility and restrictions for Home Equity Loans in Singapore?"}
+{"label": "HDB", "pattern": "HELS"}
+{"label": "FINANCE&RATES", "pattern": "Home Equity Loan amount and limits"}
+{"label": "FINANCE&RATES", "pattern": "What is the Home Equity Loan amount and limits?"}
+{"label": "FINANCE&RATES", "pattern": "HEL"}
+{"label": "OTHER", "pattern": "costs and time involved to get a Home Equity Loan in Singapore"}
+{"label": "OTHER", "pattern": "What are the costs and time involved to get a Home Equity Loan in Singapore?"}
+{"label": "OTHER", "pattern": "Considerations before taking a Home Equity Loan"}
+{"label": "OTHER", "pattern": "CHEL"}
+{"label": "OTHER", "pattern": "application process for Home Equity Loans in Singapore"}
+{"label": "OTHER", "pattern": "What is the application process for Home Equity Loans in Singapore?"}
+{"label": "PROPERTYTYPE", "pattern": "cluster housing"}
+{"label": "PROPERTYTYPE", "pattern": "What is cluster housing?"}
+{"label": "PROPERTYTYPE", "pattern": "Condominium vs cluster housing – What’s the difference"}
+{"label": "PROPERTYTYPE", "pattern": "CW"}
+{"label": "PROPERTYTYPE", "pattern": "Townhouse vs cluster housing – What’s the difference"}
+{"label": "PROPERTYTYPE", "pattern": "TW"}
+{"label": "PROPERTYTYPE", "pattern": "Salient features of cluster housing"}
+{"label": "PROPERTYTYPE", "pattern": "Looking to buy a cluster home or strata landed house? Check out our listings here."}
+{"label": "PROPERTYTYPE", "pattern": "LC"}
+{"label": "HDB", "pattern": "Staggered Downpayment Scheme"}
+{"label": "HDB", "pattern": "What is the Staggered Downpayment Scheme?"}
+{"label": "HDB", "pattern": "SDS"}
+{"label": "HDB", "pattern": "eligibility requirements for the Staggered Downpayment Scheme"}
+{"label": "HDB", "pattern": "What are the eligibility requirements for the Staggered Downpayment Scheme?"}
+{"label": "OTHER", "pattern": "Basic Retirement Sum (BRS)"}
+{"label": "OTHER", "pattern": "What is the Basic Retirement Sum (BRS)?"}
+{"label": "OTHER", "pattern": "Basic Retirement Sum"}
+{"label": "OTHER", "pattern": "BRS"}
+{"label": "OTHER", "pattern": "How much money will I receive from the Basic Retirement Sum (BRS) in 2025"}
+{"label": "OTHER", "pattern": "HBRS"}
+{"label": "OTHER", "pattern": "key things you need to know about the Basic Retirement Sum (BRS)"}
+{"label": "OTHER", "pattern": "What are the key things you need to know about the Basic Retirement Sum (BRS)?"}
+{"label": "OTHER", "pattern": "key things you need to know about the Basic Retirement Sum"}
+{"label": "PROPERTYTYPE", "pattern": "downpayment for a condo"}
+{"label": "PROPERTYTYPE", "pattern": "What is downpayment for a condo?"}
+{"label": "PROPERTYTYPE", "pattern": "due date of the down payment"}
+{"label": "PROPERTYTYPE", "pattern": "What is the due date of the down payment?"}
+{"label": "PROPERTYTYPE", "pattern": "How to calculate a condo downpayment in Singapore"}
+{"label": "PROPERTYTYPE", "pattern": "HS"}
+{"label": "PROPERTYTYPE", "pattern": "typical downpayment amount for a condo in Singapore"}
+{"label": "PROPERTYTYPE", "pattern": "What is the typical downpayment amount for a condo in Singapore?"}
+{"label": "PROPERTYTYPE", "pattern": "Can I use my CPF to pay for a condo downpayment"}
+{"label": "PROPERTYTYPE", "pattern": "CPF"}
+{"label": "PROPERTYTYPE", "pattern": "What factors affect the downpayment amount"}
+{"label": "PROPERTYTYPE", "pattern": "stamp duty amounts for condos in Singapore"}
+{"label": "PROPERTYTYPE", "pattern": "What are the stamp duty amounts for condos in Singapore?"}
+{"label": "PROPERTYTYPE", "pattern": "Are there any penalties for late payment of the downpayment"}
+{"label": "HDB", "pattern": "Prime Location Public Housing (HDB PLH) model"}
+{"label": "HDB", "pattern": "What is the Prime Location Public Housing (HDB PLH) model?"}
+{"label": "HDB", "pattern": "PLPH"}
+{"label": "OTHER", "pattern": "eligibility requirements for the Prime Location Public Housing (PLH) model"}
+{"label": "OTHER", "pattern": "What are the eligibility requirements for the Prime Location Public Housing (PLH) model?"}
+{"label": "OTHER", "pattern": "PLH"}
+{"label": "OTHER", "pattern": "PLPH"}
+{"label": "HDB", "pattern": "Can I rent out my Prime Location Public Housing (PLH) flat"}
+{"label": "HDB", "pattern": "PLH"}
+{"label": "HDB", "pattern": "CPLPH"}
+{"label": "OTHER", "pattern": "form 6A – application for new Certificates of Title"}
+{"label": "OTHER", "pattern": "What is form 6A – application for new Certificates of Title?"}
+{"label": "OTHER", "pattern": "CT"}
+{"label": "PROPERTYTYPE", "pattern": "When should you apply for new Certificates of Title (form 6A)"}
+{"label": "PROPERTYTYPE", "pattern": "When should you apply for new Certificates of Title"}
+{"label": "PROPERTYTYPE", "pattern": "form 6A"}
+{"label": "PROPERTYTYPE", "pattern": "WCT"}
+{"label": "HDB", "pattern": "Understanding the issuing authorities"}
+{"label": "HDB", "pattern": "Appeal processes by agency"}
+{"label": "OTHER", "pattern": "Grounds for appeal"}
+{"label": "OTHER", "pattern": "Tips for a successful appeal"}
+{"label": "OTHER", "pattern": "Enhanced Retirement Sum (ERS)"}
+{"label": "OTHER", "pattern": "What is the Enhanced Retirement Sum (ERS)?"}
+{"label": "OTHER", "pattern": "Enhanced Retirement Sum"}
+{"label": "OTHER", "pattern": "ERS"}
+{"label": "OTHER", "pattern": "How does the Enhanced Retirement Sum (ERS) work"}
+{"label": "OTHER", "pattern": "HERS"}
+{"label": "OTHER", "pattern": "Basic Retirement Sum (BRS) vs Full Retirement Sum (FRS) vs Enhanced Retirement Sum (ERS) – Which is the best fit for you"}
+{"label": "LEGAL&DOCS", "pattern": "a Tenancy Agreement in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "What is a Tenancy Agreement in Singapore?"}
+{"label": "LEGAL&DOCS", "pattern": "TAS"}
+{"label": "LEGAL&DOCS", "pattern": "What should be included in a Tenancy Agreement in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "WTAS"}
+{"label": "LEGAL&DOCS", "pattern": "process of the payment and signing of the Tenancy Agreement in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "What is the process of the payment and signing of the Tenancy Agreement in Singapore?"}
+{"label": "LEGAL&DOCS", "pattern": "Where do I get a Tenancy Agreement in Singapore"}
+{"label": "OTHER", "pattern": "an SG Arrival Card"}
+{"label": "OTHER", "pattern": "What is an SG Arrival Card?"}
+{"label": "OTHER", "pattern": "SG"}
+{"label": "OTHER", "pattern": "AC"}
+{"label": "OTHER", "pattern": "How to submit an SG Arrival Card"}
+{"label": "OTHER", "pattern": "HAC"}
+{"label": "OTHER", "pattern": "an electronic health declaration"}
+{"label": "OTHER", "pattern": "What is an electronic health declaration?"}
+{"label": "OTHER", "pattern": "Who is required to complete the electronic health declaration"}
+{"label": "OTHER", "pattern": "Is the SG Arrival Card the same as a visa"}
+{"label": "OTHER", "pattern": "IAC"}
+{"label": "OTHER", "pattern": "Don’t get burned: Why property insurance is a must-have for every homeowner"}
+{"label": "OTHER", "pattern": "DW"}
+{"label": "MAINTENANCE", "pattern": "Get replacement cost coverage"}
+{"label": "OTHER", "pattern": "Monetary Authority of Singapore (MAS)"}
+{"label": "OTHER", "pattern": "What is the Monetary Authority of Singapore (MAS)?"}
+{"label": "OTHER", "pattern": "Monetary Authority of Singapore"}
+{"label": "OTHER", "pattern": "MAS"}
+{"label": "OTHER", "pattern": "What does the Monetary Authority of Singapore (MAS) do"}
+{"label": "OTHER", "pattern": "WMAS"}
+{"label": "OTHER", "pattern": "How does the Monetary Authority of Singapore (MAS) fulfil its duties"}
+{"label": "OTHER", "pattern": "HMAS"}
+{"label": "OTHER", "pattern": "real estate agency examination"}
+{"label": "OTHER", "pattern": "What is the real estate agency examination?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "When will I know my real estate agency examination results"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Can I appeal for my real estate agency examination results"}
+{"label": "OTHER", "pattern": "How long are my real estate agency examination results valid"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Jurong Point"}
+{"label": "AGENCY&AUTHORITY", "pattern": "What is Jurong Point?"}
+{"label": "AGENCY&AUTHORITY", "pattern": "JP"}
+{"label": "OTHER", "pattern": "in Jurong Point"}
+{"label": "OTHER", "pattern": "What is in Jurong Point?"}
+{"label": "OTHER", "pattern": "JP"}
+{"label": "OTHER", "pattern": "What amenities does Jurong Point have"}
+{"label": "OTHER", "pattern": "WJP"}
+{"label": "OTHER", "pattern": "How to go to Jurong Point"}
+{"label": "OTHER", "pattern": "HJP"}
+{"label": "OTHER", "pattern": "cul de sac"}
+{"label": "OTHER", "pattern": "What is cul de sac?"}
+{"label": "OTHER", "pattern": "Understanding cul de sac"}
+{"label": "OTHER", "pattern": "Importance of cul de sac in real estate and property"}
+{"label": "OTHER", "pattern": "Understanding IPOs"}
+{"label": "OTHER", "pattern": "UI"}
+{"label": "OTHER", "pattern": "Importance of IPOs in Real Estate"}
+{"label": "OTHER", "pattern": "IIRE"}
+{"label": "OTHER", "pattern": "Approval-In-Principle (AIP) or In-Principle Approval (IPA)"}
+{"label": "OTHER", "pattern": "What is Approval-In-Principle (AIP) or In-Principle Approval (IPA)?"}
+{"label": "OTHER", "pattern": "Approval-In-Principle (AIP) or In-Principle Approval"}
+{"label": "OTHER", "pattern": "AIP"}
+{"label": "OTHER", "pattern": "AIPIPA"}
+{"label": "OTHER", "pattern": "process of obtaining an In-Principle Approval (IPA)"}
+{"label": "OTHER", "pattern": "What is the process of obtaining an In-Principle Approval (IPA)?"}
+{"label": "OTHER", "pattern": "process of obtaining an In-Principle Approval"}
+{"label": "OTHER", "pattern": "How long will my In-Principle Approval (IPA) application take to get approved"}
+{"label": "OTHER", "pattern": "HIPA"}
+{"label": "OTHER", "pattern": "How long does an In-Principle Approval (IPA) last once approved"}
+{"label": "OTHER", "pattern": "Promissory Note in Singapore"}
+{"label": "OTHER", "pattern": "PNS"}
+{"label": "OTHER", "pattern": "How to make a valid Promissory Note"}
+{"label": "OTHER", "pattern": "HPN"}
+{"label": "OTHER", "pattern": "How Promissory Notes are used in real estate"}
+{"label": "LEGAL&DOCS", "pattern": "Promissory Note vs. Loan Agreement"}
+{"label": "LEGAL&DOCS", "pattern": "PNLA"}
+{"label": "OTHER", "pattern": "What happens if the borrower doesn’t pay"}
+{"label": "LEGAL&DOCS", "pattern": "Why a well-drafted Promissory Note matters in real estate"}
+{"label": "LEGAL&DOCS", "pattern": "WPN"}
+{"label": "HDB", "pattern": "MOP in HDB"}
+{"label": "HDB", "pattern": "What is MOP in HDB?"}
+{"label": "HDB", "pattern": "key things I should know about MOP in HDB"}
+{"label": "HDB", "pattern": "What are the key things I should know about MOP in HDB?"}
+{"label": "OTHER", "pattern": "sub-sale properties"}
+{"label": "OTHER", "pattern": "What are sub-sale properties?"}
+{"label": "OTHER", "pattern": "difference between sub-sale properties and resale properties"}
+{"label": "OTHER", "pattern": "What is the difference between sub-sale properties and resale properties?"}
+{"label": "OTHER", "pattern": "How do sub-sale properties function"}
+{"label": "OTHER", "pattern": "condos near MRT"}
+{"label": "OTHER", "pattern": "What are condos near MRT?"}
+{"label": "OTHER", "pattern": "advantages and disadvantages of condos near MRT"}
+{"label": "OTHER", "pattern": "What are the advantages and disadvantages of condos near MRT?"}
+{"label": "OTHER", "pattern": "Disadvantages of condos near MRT"}
+{"label": "PROPERTYTYPE", "pattern": "a condominium complex"}
+{"label": "PROPERTYTYPE", "pattern": "What is a condominium complex?"}
+{"label": "HDB", "pattern": "Condominium vs apartment – What’s the difference"}
+{"label": "HDB", "pattern": "CW"}
+{"label": "OTHER", "pattern": "Advantages and disadvantages of condominium complexes in Singapore"}
+{"label": "OTHER", "pattern": "Definition of inflation"}
+{"label": "OTHER", "pattern": "Understanding inflation"}
+{"label": "OTHER", "pattern": "Importance of inflation in real estate"}
+{"label": "OTHER", "pattern": "subletting in Singapore"}
+{"label": "OTHER", "pattern": "What is subletting in Singapore?"}
+{"label": "OTHER", "pattern": "role of subletting in Singapore’s rental market"}
+{"label": "OTHER", "pattern": "What is the role of subletting in Singapore’s rental market?"}
+{"label": "HDB", "pattern": "What regulations govern subletting in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "What should you consider before subletting"}
+{"label": "OTHER", "pattern": "future of subletting in Singapore"}
+{"label": "OTHER", "pattern": "What is the future of subletting in Singapore?"}
+{"label": "FINANCE&RATES", "pattern": "The Mortgage point of no return: When your loan gets consummated"}
+{"label": "FINANCE&RATES", "pattern": "TMW"}
+{"label": "OTHER", "pattern": "Know the different auction types"}
+{"label": "OTHER", "pattern": "Set your maximum budget"}
+{"label": "OTHER", "pattern": "Research, research, research"}
+{"label": "LEGAL&DOCS", "pattern": "Have a bidding strategy"}
+{"label": "OTHER", "pattern": "a Credit Bureau"}
+{"label": "OTHER", "pattern": "What is a Credit Bureau?"}
+{"label": "OTHER", "pattern": "CB"}
+{"label": "OTHER", "pattern": "a Credit Bureau Report"}
+{"label": "OTHER", "pattern": "What is a Credit Bureau Report?"}
+{"label": "OTHER", "pattern": "CBR"}
+{"label": "OTHER", "pattern": "Factors that can affect your credit bureau report"}
+{"label": "OTHER", "pattern": "How to request corrections in a credit bureau report"}
+{"label": "OTHER", "pattern": "definition of a home lien"}
+{"label": "OTHER", "pattern": "What is the definition of a home lien?"}
+{"label": "OTHER", "pattern": "Can I sell a property with a home lien"}
+{"label": "LEGAL&DOCS", "pattern": "How do I remove a home lien"}
+{"label": "OTHER", "pattern": "types of home liens"}
+{"label": "OTHER", "pattern": "What are the types of home liens?"}
+{"label": "OTHER", "pattern": "Understanding SSB: A safe and flexible investment"}
+{"label": "OTHER", "pattern": "SSB"}
+{"label": "OTHER", "pattern": "Key features of SSB"}
+{"label": "OTHER", "pattern": "Should you consider SSB"}
+{"label": "OTHER", "pattern": "Eager to learn more? Check out our Glossary and Jargon pages!"}
+{"label": "OTHER", "pattern": "ECGJ"}
+{"label": "FINANCE&RATES", "pattern": "SORA interest rate benchmark"}
+{"label": "FINANCE&RATES", "pattern": "SORA"}
+{"label": "FINANCE&RATES", "pattern": "What is the SORA interest rate benchmark?"}
+{"label": "FINANCE&RATES", "pattern": "What’s the difference – SORA vs SIBOR & SOR"}
+{"label": "FINANCE&RATES", "pattern": "How would SORA interest rates affect me"}
+{"label": "FINANCE&RATES", "pattern": "current SORA rates"}
+{"label": "FINANCE&RATES", "pattern": "What are the current SORA rates?"}
+{"label": "FINANCE&RATES", "pattern": "What factors affect SORA rates"}
+{"label": "LEGAL&DOCS", "pattern": "an Option to Purchase (OTP)"}
+{"label": "LEGAL&DOCS", "pattern": "What is an Option to Purchase (OTP)?"}
+{"label": "LEGAL&DOCS", "pattern": "an Option to Purchase"}
+{"label": "HDB", "pattern": "Option to Purchase (OTP) for private property vs HDB – What’s the difference"}
+{"label": "HDB", "pattern": "OPW"}
+{"label": "HDB", "pattern": "What happens when I want to exercise my Option to Purchase (OTP)"}
+{"label": "HDB", "pattern": "What happens when I want to exercise my Option to Purchase"}
+{"label": "HDB", "pattern": "WOP"}
+{"label": "LEGAL&DOCS", "pattern": "Can I issue more than one Option to Purchase (OTP)"}
+{"label": "LEGAL&DOCS", "pattern": "Can I issue more than one Option to Purchase"}
+{"label": "LEGAL&DOCS", "pattern": "COP"}
+{"label": "OTHER", "pattern": "a housing cooperative"}
+{"label": "OTHER", "pattern": "What is a housing cooperative?"}
+{"label": "FINANCE&RATES", "pattern": "Pros of Co-op living"}
+{"label": "FINANCE&RATES", "pattern": "PC"}
+{"label": "OTHER", "pattern": "Cons of Co-op living"}
+{"label": "OTHER", "pattern": "Key questions to ask about a Co-op"}
+{"label": "OTHER", "pattern": "KC"}
+{"label": "OTHER", "pattern": "obsolescence"}
+{"label": "OTHER", "pattern": "What is obsolescence?"}
+{"label": "OTHER", "pattern": "What does obsolescence mean in real estate"}
+{"label": "OTHER", "pattern": "types of obsolescence in real estate"}
+{"label": "OTHER", "pattern": "What are the types of obsolescence in real estate?"}
+{"label": "OTHER", "pattern": "assets"}
+{"label": "OTHER", "pattern": "What are assets?"}
+{"label": "OTHER", "pattern": "The complete guide to mastering the lucrative asset class of real estate"}
+{"label": "TENURE", "pattern": "freehold condominiums in Singapore"}
+{"label": "TENURE", "pattern": "What are freehold condominiums in Singapore?"}
+{"label": "TENURE", "pattern": "Leasehold vs freehold – What’s the difference"}
+{"label": "TENURE", "pattern": "LW"}
+{"label": "PROPERTYTYPE", "pattern": "Will I always own my freehold condominium in Singapore"}
+{"label": "TENURE", "pattern": "How do I know if my property is freehold or leasehold"}
+{"label": "OTHER", "pattern": "a credit score"}
+{"label": "OTHER", "pattern": "What is a credit score?"}
+{"label": "OTHER", "pattern": "Why does your credit score matter"}
+{"label": "OTHER", "pattern": "How is your credit score calculated in Singapore"}
+{"label": "OTHER", "pattern": "What factors influence your credit score in Singapore"}
+{"label": "OTHER", "pattern": "a credit report"}
+{"label": "OTHER", "pattern": "What is a credit report?"}
+{"label": "LEGAL&DOCS", "pattern": "How to check credit score"}
+{"label": "LEGAL&DOCS", "pattern": "a Letter Of Intent (LOI)"}
+{"label": "LEGAL&DOCS", "pattern": "What is a Letter Of Intent (LOI)?"}
+{"label": "LEGAL&DOCS", "pattern": "a Letter Of Intent"}
+{"label": "LEGAL&DOCS", "pattern": "What terms are in a Letter Of Intent (LOI)"}
+{"label": "LEGAL&DOCS", "pattern": "What terms are in a Letter Of Intent"}
+{"label": "LEGAL&DOCS", "pattern": "WLOI"}
+{"label": "LEGAL&DOCS", "pattern": "Good faith deposit vs security deposit – What’s the difference"}
+{"label": "LEGAL&DOCS", "pattern": "GW"}
+{"label": "LEGAL&DOCS", "pattern": "Can I back out of signing my Letter Of Intent (LOI)"}
+{"label": "LEGAL&DOCS", "pattern": "Can I back out of signing my Letter Of Intent"}
+{"label": "LEGAL&DOCS", "pattern": "CLOI"}
+{"label": "OTHER", "pattern": "The Acre: An enduring legacy in land measurement"}
+{"label": "OTHER", "pattern": "TAA"}
+{"label": "HDB", "pattern": "HDB Priority Schemes"}
+{"label": "HDB", "pattern": "What are HDB Priority Schemes?"}
+{"label": "HDB", "pattern": "PS"}
+{"label": "HDB", "pattern": "types of HDB Priority Schemes, and who is it for"}
+{"label": "HDB", "pattern": "What are the types of HDB Priority Schemes, and who is it for?"}
+{"label": "HDB", "pattern": "Are first-time buyers in the HDB Priority Schemes"}
+{"label": "HDB", "pattern": "APS"}
+{"label": "OTHER", "pattern": "investment insurance plans"}
+{"label": "OTHER", "pattern": "What are investment insurance plans?"}
+{"label": "LEGAL&DOCS", "pattern": "Why do people choose investment insurance plans"}
+{"label": "OTHER", "pattern": "types of investment insurance plans"}
+{"label": "OTHER", "pattern": "What are the types of investment insurance plans?"}
+{"label": "OTHER", "pattern": "potential risks associated with investment insurance plans"}
+{"label": "OTHER", "pattern": "What are the potential risks associated with investment insurance plans?"}
+{"label": "OTHER", "pattern": "Main Upgrading Programme (MUP)"}
+{"label": "OTHER", "pattern": "What is the Main Upgrading Programme (MUP)?"}
+{"label": "OTHER", "pattern": "Main Upgrading Programme"}
+{"label": "OTHER", "pattern": "MUP"}
+{"label": "LEGAL&DOCS", "pattern": "How did the Main Upgrading Programme (MUP) work"}
+{"label": "LEGAL&DOCS", "pattern": "MUP"}
+{"label": "LEGAL&DOCS", "pattern": "HMUP"}
+{"label": "OTHER", "pattern": "Is the Main Upgrading Programme (MUP) still active"}
+{"label": "OTHER", "pattern": "IMUP"}
+{"label": "OTHER", "pattern": "Why was the Main Upgrading Programme (MUP) replaced"}
+{"label": "OTHER", "pattern": "WMUP"}
+{"label": "OTHER", "pattern": "Understanding seller’s disclosures in real estate"}
+{"label": "HDB", "pattern": "proof of ownership in HDB"}
+{"label": "HDB", "pattern": "What is proof of ownership in HDB?"}
+{"label": "HDB", "pattern": "When does proof of ownership in HDB become necessary"}
+{"label": "HDB", "pattern": "How to acquire proof of ownership in HDB"}
+{"label": "HDB", "pattern": "What other documents do I need to request"}
+{"label": "OTHER", "pattern": "Application for Temporary Occupation Licence (TOL)"}
+{"label": "OTHER", "pattern": "Application for Temporary Occupation Licence"}
+{"label": "OTHER", "pattern": "TOL"}
+{"label": "OTHER", "pattern": "ATOL"}
+{"label": "OTHER", "pattern": "Common uses of TOL"}
+{"label": "OTHER", "pattern": "Application process for TOL"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Key considerations"}
+{"label": "OTHER", "pattern": "Why TOL matters"}
+{"label": "OTHER", "pattern": "The real cost of borrowing: Why you should care About effective interest rates"}
+{"label": "OTHER", "pattern": "TWA"}
+{"label": "FINANCE&RATES", "pattern": "difference between nominal and effective interest rates"}
+{"label": "FINANCE&RATES", "pattern": "What is the difference between nominal and effective interest rates?"}
+{"label": "OTHER", "pattern": "Why effective rates matter for borrowers"}
+{"label": "FINANCE&RATES", "pattern": "How to calculate the effective interest rate"}
+{"label": "OTHER", "pattern": "Academic Year at a Glance"}
+{"label": "OTHER", "pattern": "AYG"}
+{"label": "OTHER", "pattern": "Junior Colleges & Millennia Institute"}
+{"label": "OTHER", "pattern": "JCMI"}
+{"label": "OTHER", "pattern": "Public Holidays & Built-In Long Weekends (2025)"}
+{"label": "OTHER", "pattern": "Public Holidays & Built-In Long Weekends"}
+{"label": "OTHER", "pattern": "2025"}
+{"label": "OTHER", "pattern": "PHBILW"}
+{"label": "OTHER", "pattern": "Tips to Maximise the Breaks"}
+{"label": "OTHER", "pattern": "TMB"}
+{"label": "OTHER", "pattern": "Key Dates Parents Should Flag"}
+{"label": "OTHER", "pattern": "KDPSF"}
+{"label": "OTHER", "pattern": "6. Quick Planning Checklist"}
+{"label": "OTHER", "pattern": "QPC"}
+{"label": "OTHER", "pattern": "The unethical practice of blockbusting in real estate"}
+{"label": "OTHER", "pattern": "The practice of blockbusting"}
+{"label": "LEGAL&DOCS", "pattern": "Why canvassing your neighbourhood is still the #1 strategy for agents"}
+{"label": "HDB", "pattern": "What happens if: My partner and I exceed the BTO income ceiling"}
+{"label": "HDB", "pattern": "WM"}
+{"label": "OTHER", "pattern": "How to calculate Gross Floor Area (GFA)"}
+{"label": "OTHER", "pattern": "How to calculate Gross Floor Area"}
+{"label": "OTHER", "pattern": "GFA"}
+{"label": "OTHER", "pattern": "HGFA"}
+{"label": "OTHER", "pattern": "Factors affecting the gross floor area in Singapore"}
+{"label": "OTHER", "pattern": "Gross Floor Area vs. Gross Leasable Area: What is the difference"}
+{"label": "OTHER", "pattern": "Bonus Gross Floor Area"}
+{"label": "OTHER", "pattern": "BGFA"}
+{"label": "OTHER", "pattern": "Understanding Gross Plot Ratio"}
+{"label": "OTHER", "pattern": "UGPR"}
+{"label": "AGENCY&AUTHORITY", "pattern": "GFA incentive schemes"}
+{"label": "AGENCY&AUTHORITY", "pattern": "GFA"}
+{"label": "OTHER", "pattern": "Regional Variations in Gross Floor Area"}
+{"label": "OTHER", "pattern": "RVGFA"}
+{"label": "OTHER", "pattern": "Triple Net Lease or NNN"}
+{"label": "OTHER", "pattern": "What is Triple Net Lease or NNN?"}
+{"label": "OTHER", "pattern": "NNN"}
+{"label": "OTHER", "pattern": "TNL"}
+{"label": "OTHER", "pattern": "Single Net Lease vs Double Net Lease vs Triple Net Lease or NNN – What’s the difference"}
+{"label": "LEGAL&DOCS", "pattern": "Are there exceptions to the Triple Net Lease or NNN"}
+{"label": "LEGAL&DOCS", "pattern": "NNN"}
+{"label": "LEGAL&DOCS", "pattern": "ATNL"}
+{"label": "OTHER", "pattern": "encroachment"}
+{"label": "OTHER", "pattern": "What is encroachment?"}
+{"label": "OTHER", "pattern": "Understanding encroachment"}
+{"label": "OTHER", "pattern": "Importance of encroachment in real estate and property"}
+{"label": "OTHER", "pattern": "Understanding puffing"}
+{"label": "OTHER", "pattern": "Importance of recognising puffing in real estate"}
+{"label": "OTHER", "pattern": "GST on sales of commercial or industrial properties"}
+{"label": "OTHER", "pattern": "What is GST on sales of commercial or industrial properties?"}
+{"label": "OTHER", "pattern": "commercial or industrial properties in Singapore"}
+{"label": "OTHER", "pattern": "What are commercial or industrial properties in Singapore?"}
+{"label": "OTHER", "pattern": "How to pay GST on sales of commercial or industrial properties"}
+{"label": "OTHER", "pattern": "Are leased commercial or industrial properties exempt from GST"}
+{"label": "LEGAL&DOCS", "pattern": "novation"}
+{"label": "LEGAL&DOCS", "pattern": "What is novation?"}
+{"label": "HDB", "pattern": "Guide to renovation loan in Singapore & best renovation loan interest rates in 2024"}
+{"label": "HDB", "pattern": "GS"}
+{"label": "OTHER", "pattern": "a renovation loan"}
+{"label": "OTHER", "pattern": "What is a renovation loan?"}
+{"label": "OTHER", "pattern": "How does a renovation loan work"}
+{"label": "HDB", "pattern": "Key aspects of renovation loans in Singapore"}
+{"label": "HDB", "pattern": "KS"}
+{"label": "HDB", "pattern": "How to choose the best renovation loan"}
+{"label": "TENURE", "pattern": "Best renovation loan interest rates for 2024"}
+{"label": "PROCESS", "pattern": "Inland Revenue Authority of Singapore (IRAS)"}
+{"label": "PROCESS", "pattern": "What is the Inland Revenue Authority of Singapore (IRAS)?"}
+{"label": "PROCESS", "pattern": "Inland Revenue Authority of Singapore"}
+{"label": "OTHER", "pattern": "What does the Inland Revenue Authority of Singapore (IRAS) do"}
+{"label": "OTHER", "pattern": "WIRAS"}
+{"label": "OTHER", "pattern": "Who are Singapore expats"}
+{"label": "OTHER", "pattern": "Does Singapore have a high expat population"}
+{"label": "OTHER", "pattern": "types of expats in Singapore"}
+{"label": "OTHER", "pattern": "What are the types of expats in Singapore?"}
+{"label": "FINANCE&RATES", "pattern": "fixed interest rates for home loans"}
+{"label": "FINANCE&RATES", "pattern": "What are fixed interest rates for home loans?"}
+{"label": "FINANCE&RATES", "pattern": "floating interest rates for home loans"}
+{"label": "FINANCE&RATES", "pattern": "What are floating interest rates for home loans?"}
+{"label": "FINANCE&RATES", "pattern": "Fixed vs floating interest rates for home loans – which is better"}
+{"label": "OTHER", "pattern": "Definition of Gross Leasable Area (GLA)"}
+{"label": "OTHER", "pattern": "Definition of Gross Leasable Area"}
+{"label": "OTHER", "pattern": "GLA"}
+{"label": "OTHER", "pattern": "DGLA"}
+{"label": "OTHER", "pattern": "Importance of GLA in Singapore’s Commercial Real Estate"}
+{"label": "OTHER", "pattern": "ISCRE"}
+{"label": "AGENCY&AUTHORITY", "pattern": "Factors Influencing GLA in Singapore"}
+{"label": "AGENCY&AUTHORITY", "pattern": "GLA"}
+{"label": "AGENCY&AUTHORITY", "pattern": "FIS"}
+{"label": "AGENCY&AUTHORITY", "pattern": "GLA vs. Net Leasable Area (NLA)"}
+{"label": "AGENCY&AUTHORITY", "pattern": "GLA vs. Net Leasable Area"}
+{"label": "AGENCY&AUTHORITY", "pattern": "NLA"}
+{"label": "OTHER", "pattern": "The Future of GLA in Singapore’s Evolving Landscape"}
+{"label": "OTHER", "pattern": "TFSEL"}
+{"label": "OTHER", "pattern": "Also check out"}
+{"label": "OTHER", "pattern": "arbitrage"}
+{"label": "OTHER", "pattern": "What is arbitrage?"}
+{"label": "OTHER", "pattern": "Understanding arbitrage"}
+{"label": "OTHER", "pattern": "Importance of arbitrage in real estate"}
+{"label": "FINANCE&RATES", "pattern": "Equated Monthly Instalment (EMI) in a loan"}
+{"label": "FINANCE&RATES", "pattern": "What is Equated Monthly Instalment (EMI) in a loan?"}
+{"label": "FINANCE&RATES", "pattern": "EMI"}
+{"label": "FINANCE&RATES", "pattern": "How do I calculate a loan’s Equated Monthly Instalment (EMI)"}
+{"label": "FINANCE&RATES", "pattern": "How do I calculate a loan’s Equated Monthly Instalment"}
+{"label": "FINANCE&RATES", "pattern": "HEMI"}
+{"label": "FINANCE&RATES", "pattern": "What influences the Equated Monthly Instalment (EMI) in a loan"}
+{"label": "FINANCE&RATES", "pattern": "WEMI"}
+{"label": "OTHER", "pattern": "Debt Service Coverage Ratio (DSCR)"}
+{"label": "OTHER", "pattern": "What is Debt Service Coverage Ratio (DSCR)?"}
+{"label": "OTHER", "pattern": "Debt Service Coverage Ratio"}
+{"label": "OTHER", "pattern": "DSCR"}
+{"label": "OTHER", "pattern": "DSCR Formula: Breaking Down the Debt Service Coverage Ratio"}
+{"label": "OTHER", "pattern": "Why is DSCR Important in Singapore"}
+{"label": "OTHER", "pattern": "WIS"}
+{"label": "OTHER", "pattern": "What’s a Good DSCR in Singapore"}
+{"label": "OTHER", "pattern": "How Can You Improve Your DSCR"}
+{"label": "OTHER", "pattern": "HCYIY"}
+{"label": "FINANCE&RATES", "pattern": "The Total Debt Servicing Ratio (TDSR) vs. DSCR"}
+{"label": "FINANCE&RATES", "pattern": "TTDSR"}
+{"label": "OTHER", "pattern": "Real-Life Implications of DSCR in Singapore"}
+{"label": "OTHER", "pattern": "RLIS"}
+{"label": "OTHER", "pattern": "The Limitations of DSCR"}
+{"label": "OTHER", "pattern": "TL"}
+{"label": "OTHER", "pattern": "Prevalent DSCR Myths Debunked"}
+{"label": "OTHER", "pattern": "PMD"}
+{"label": "OTHER", "pattern": "a Warranty deed"}
+{"label": "OTHER", "pattern": "What is a Warranty deed?"}
+{"label": "OTHER", "pattern": "Key features of a warranty deed include:"}
+{"label": "OTHER", "pattern": "types of warranty deeds in Singapore"}
+{"label": "OTHER", "pattern": "What are the types of warranty deeds in Singapore?"}
+{"label": "OTHER", "pattern": "How a warranty deed shields buyers"}
+{"label": "OTHER", "pattern": "Get the protection you need"}
+{"label": "FINANCE&RATES", "pattern": "How to navigate the conveyance maze in real estate deals"}
+{"label": "OTHER", "pattern": "affidavit"}
+{"label": "OTHER", "pattern": "What is affidavit?"}
+{"label": "OTHER", "pattern": "Understanding affidavits"}
+{"label": "OTHER", "pattern": "Importance of affidavits in real estate"}
+{"label": "PROPERTYTYPE", "pattern": "a corner terrace house"}
+{"label": "PROPERTYTYPE", "pattern": "What is a corner terrace house?"}
+{"label": "PROPERTYTYPE", "pattern": "pros and cons of a corner terrace house"}
+{"label": "PROPERTYTYPE", "pattern": "What are the pros and cons of a corner terrace house?"}
+{"label": "HDB", "pattern": "Application for change of tenant – HDB E-Services Guide"}
+{"label": "HDB", "pattern": "ASG"}
+{"label": "HDB", "pattern": "Getting HDB approval for rental changes"}
+{"label": "HDB", "pattern": "Administrative fee and documentation"}
+{"label": "HDB", "pattern": "Application steps for change of tenant"}
+{"label": "HDB", "pattern": "Important considerations"}
+{"label": "HDB", "pattern": "Power of attorney"}
+{"label": "HDB", "pattern": "Key features:"}
+{"label": "HDB", "pattern": "Benefits:"}
+{"label": "OTHER", "pattern": "Shouldering the burden: The risks and responsibilities of being a loan guarantor"}
+{"label": "OTHER", "pattern": "a loan guarantor"}
+{"label": "OTHER", "pattern": "What is a loan guarantor?"}
+{"label": "OTHER", "pattern": "The risks of being a guarantor"}
+{"label": "OTHER", "pattern": "The responsibilities of a guarantor"}
+{"label": "OTHER", "pattern": "Carefully consider before becoming a guarantor"}
+{"label": "FINANCE&RATES", "pattern": "How to calculate the real ROI of your rental property investment"}
+{"label": "FINANCE&RATES", "pattern": "ROI"}
+{"label": "LEGAL&DOCS", "pattern": "commercial leases"}
+{"label": "LEGAL&DOCS", "pattern": "What are commercial leases?"}
+{"label": "OTHER", "pattern": "Which types of properties are considered commercial in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "Do I need a commercial lease agreement"}
+{"label": "HDB", "pattern": "Seize the debtor’s assets: The creditor’s powerful remedy of attachment"}
+{"label": "HDB", "pattern": "ST"}
+{"label": "OTHER", "pattern": "Definition of PMI"}
+{"label": "OTHER", "pattern": "PMI"}
+{"label": "FINANCE&RATES", "pattern": "Understanding PMI"}
+{"label": "FINANCE&RATES", "pattern": "PMI"}
+{"label": "FINANCE&RATES", "pattern": "Importance of PMI in Real Estate"}
+{"label": "FINANCE&RATES", "pattern": "IRE"}
+{"label": "PROCESS", "pattern": "The vendor’s guide to navigating real estate sales with or without an agent"}
+{"label": "OTHER", "pattern": "Capital Asset Pricing Model (CAPM)"}
+{"label": "OTHER", "pattern": "What is Capital Asset Pricing Model (CAPM)?"}
+{"label": "OTHER", "pattern": "Capital Asset Pricing Model"}
+{"label": "OTHER", "pattern": "CAPM"}
+{"label": "OTHER", "pattern": "Understanding the Capital Asset Pricing Model (CAPM)"}
+{"label": "OTHER", "pattern": "Understanding the Capital Asset Pricing Model"}
+{"label": "OTHER", "pattern": "UCAPM"}
+{"label": "OTHER", "pattern": "Importance of CAPM in real estate and property"}
+{"label": "OTHER", "pattern": "income tax relief"}
+{"label": "OTHER", "pattern": "What is income tax relief?"}
+{"label": "LEGAL&DOCS", "pattern": "types of income tax reliefs available in Singapore"}
+{"label": "LEGAL&DOCS", "pattern": "What are the types of income tax reliefs available in Singapore?"}
+{"label": "OTHER", "pattern": "Is there a cap for income tax relief in Singapore"}
+{"label": "OTHER", "pattern": "IS"}
+{"label": "HDB", "pattern": "What is Total Debt Servicing Ratio (TDSR)?"}
+{"label": "FINANCE&RATES", "pattern": "What does the Total Debt Servicing Ratio (TDSR) do"}
+{"label": "FINANCE&RATES", "pattern": "WTDSR"}
+{"label": "FINANCE&RATES", "pattern": "How to calculate Total Debt Servicing Ratio (TDSR)"}
+{"label": "FINANCE&RATES", "pattern": "How to calculate Total Debt Servicing Ratio"}
+{"label": "FINANCE&RATES", "pattern": "HTDSR"}
+{"label": "OTHER", "pattern": "Basics of the COE System"}
+{"label": "OTHER", "pattern": "COE"}
+{"label": "OTHER", "pattern": "COE Bidding Process"}
+{"label": "OTHER", "pattern": "BP"}
+{"label": "OTHER", "pattern": "How to Renew Your COE"}
+{"label": "OTHER", "pattern": "HRY"}
+{"label": "OTHER", "pattern": "COE Prices & Latest Bidding Results – 2024"}
+{"label": "OTHER", "pattern": "PLBR"}
+{"label": "OTHER", "pattern": "Keeping Up with COE Prices"}
+{"label": "OTHER", "pattern": "KUP"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "advantages"}], "id": "Advantages"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "advantages"}, {"LOWER": "and"}, {"LOWER": "disadvantages"}, {"LOWER": "of"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "investment"}, {"LOWER": "trust"}, {"LOWER": "(reit)"}], "id": "Advantages and Disadvantages of Real Estate Investment Trust (REIT)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "advantages"}, {"LOWER": "of"}, {"LOWER": "reit"}, {"LOWER": "dividends"}], "id": "Advantages of REIT dividends"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "are"}, {"LOWER": "serviced"}, {"LOWER": "apartments"}, {"LOWER": "legal"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "Are serviced apartments legal in Singapore"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "boost"}, {"LOWER": "returns"}, {"LOWER": "with"}, {"LOWER": "dividend"}, {"LOWER": "reinvestment"}], "id": "Boost returns with dividend reinvestment"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "cea’s"}, {"LOWER": "minimum"}, {"LOWER": "professional"}, {"LOWER": "indemnity"}, {"LOWER": "insurance"}, {"LOWER": "(pii)"}, {"LOWER": "policy"}, {"LOWER": "requirements"}], "id": "CEA’s minimum Professional Indemnity Insurance (PII) policy requirements"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "can"}, {"LOWER": "i"}, {"LOWER": "appeal"}, {"LOWER": "for"}, {"LOWER": "my"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "agency"}, {"LOWER": "examination"}, {"LOWER": "results"}], "id": "Can I appeal for my real estate agency examination results"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "council"}, {"LOWER": "for"}, {"LOWER": "estate"}, {"LOWER": "agencies"}, {"LOWER": "(cea)"}], "id": "Council for Estate Agencies (CEA)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "council"}, {"LOWER": "of"}, {"LOWER": "estate"}, {"LOWER": "agencies"}, {"LOWER": "(cea)"}], "id": "Council of Estate Agencies (CEA)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "disadvantages"}], "id": "Disadvantages"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "diversify"}, {"LOWER": "your"}, {"LOWER": "reit"}, {"LOWER": "investments"}], "id": "Diversify your REIT investments"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "factors"}, {"LOWER": "influencing"}, {"LOWER": "gla"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "Factors Influencing GLA in Singapore"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "factors"}, {"LOWER": "affecting"}, {"LOWER": "zoning"}, {"LOWER": "and"}, {"LOWER": "the"}, {"LOWER": "application"}, {"LOWER": "process"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "Factors affecting zoning and the application process in Singapore"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "gfa"}, {"LOWER": "incentive"}, {"LOWER": "schemes"}], "id": "GFA incentive schemes"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "gla"}, {"LOWER": "vs."}, {"LOWER": "net"}, {"LOWER": "leasable"}, {"LOWER": "area"}, {"LOWER": "(nla)"}], "id": "GLA vs. Net Leasable Area (NLA)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "how"}, {"LOWER": "does"}, {"LOWER": "reit"}, {"LOWER": "work"}], "id": "How does REIT work"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "check"}, {"LOWER": "if"}, {"LOWER": "my"}, {"LOWER": "property"}, {"LOWER": "agent"}, {"LOWER": "is"}, {"LOWER": "licensed"}], "id": "How to check if my property agent is licensed"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "importance"}, {"LOWER": "of"}, {"LOWER": "dividends"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "Importance of dividends in real estate"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "jurong"}, {"LOWER": "point"}], "id": "Jurong Point"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "key"}, {"LOWER": "considerations"}], "id": "Key considerations"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "land"}, {"LOWER": "dealings"}, {"LOWER": "approval"}, {"LOWER": "unit"}, {"LOWER": "(ldau)"}], "id": "Land Dealings Approval Unit (LDAU)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "salesperson"}, {"LOWER": "(res)"}], "id": "Real Estate Salesperson (RES)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "sasseur"}, {"LOWER": "reit"}], "id": "SASSEUR REIT"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "should"}, {"LOWER": "my"}, {"LOWER": "property"}, {"LOWER": "agent"}, {"LOWER": "be"}, {"LOWER": "registered"}, {"LOWER": "with"}, {"LOWER": "cea"}], "id": "Should my property agent be registered with CEA"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "singapore"}, {"LOWER": "land"}, {"LOWER": "authority"}, {"LOWER": "(sla)"}], "id": "Singapore Land Authority (SLA)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "types"}, {"LOWER": "of"}, {"LOWER": "zoning"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "Types of zoning in Singapore"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "urban"}, {"LOWER": "redevelopment"}, {"LOWER": "authority"}, {"LOWER": "(ura)"}], "id": "Urban Redevelopment Authority (URA)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "what"}, {"LOWER": "occurs"}, {"LOWER": "when"}, {"LOWER": "the"}, {"LOWER": "99-year"}, {"LOWER": "lease"}, {"LOWER": "expires"}], "id": "What occurs when the 99-year lease expires"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "what"}, {"LOWER": "should"}, {"LOWER": "i"}, {"LOWER": "know"}, {"LOWER": "about"}, {"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "in"}, {"LOWER": "singapore’s"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "What should I know about risk management in Singapore’s real estate"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "what"}, {"LOWER": "should"}, {"LOWER": "buyers"}, {"LOWER": "and"}, {"LOWER": "sellers"}, {"LOWER": "do"}, {"LOWER": "before"}, {"LOWER": "engaging"}, {"LOWER": "in"}, {"LOWER": "a"}, {"LOWER": "private"}, {"LOWER": "property"}, {"LOWER": "transaction"}], "id": "What should buyers and sellers do before engaging in a private property transaction"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "when"}, {"LOWER": "will"}, {"LOWER": "i"}, {"LOWER": "know"}, {"LOWER": "my"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "agency"}, {"LOWER": "examination"}, {"LOWER": "results"}], "id": "When will I know my real estate agency examination results"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "why"}, {"LOWER": "are"}, {"LOWER": "mixed-use"}, {"LOWER": "developments"}, {"LOWER": "rising"}, {"LOWER": "in"}, {"LOWER": "popularity"}], "id": "Why are mixed-use developments rising in popularity"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "a"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "investment"}, {"LOWER": "trust"}, {"LOWER": "(reit)"}], "id": "a Real Estate Investment Trust (REIT)"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "a"}, {"LOWER": "housing"}, {"LOWER": "estate"}], "id": "a housing estate"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "dividend"}, {"LOWER": "yield"}], "id": "dividend yield"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "redevelopment"}, {"LOWER": "plans"}, {"LOWER": "for"}, {"LOWER": "the"}, {"LOWER": "woodlands"}, {"LOWER": "checkpoint"}], "id": "redevelopment plans for the Woodlands Checkpoint"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "responsibilities"}, {"LOWER": "and"}, {"LOWER": "functions"}, {"LOWER": "of"}, {"LOWER": "cea"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "responsibilities and functions of CEA in Singapore"}
+{"label": "AGENCY_AUTHORITY", "pattern": [{"LOWER": "zoning"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "zoning in Singapore"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "advantages"}, {"LOWER": "and"}, {"LOWER": "disadvantages"}, {"LOWER": "of"}, {"LOWER": "mortgage"}], "id": "Advantages and disadvantages of mortgage"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "annual"}, {"LOWER": "percentage"}, {"LOWER": "rate"}, {"LOWER": "(apr)"}], "id": "Annual Percentage Rate (APR)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "avoid"}, {"LOWER": "buyer’s"}, {"LOWER": "remorse:"}, {"LOWER": "a"}, {"LOWER": "guide"}, {"LOWER": "to"}, {"LOWER": "navigating"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "due"}, {"LOWER": "diligence"}], "id": "Avoid buyer’s remorse: A guide to navigating real estate due diligence"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "comparing"}, {"LOWER": "equity"}, {"LOWER": "with"}, {"LOWER": "other"}, {"LOWER": "property-related"}, {"LOWER": "concepts"}], "id": "Comparing equity with other property-related concepts"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "comparing"}, {"LOWER": "mortgage"}, {"LOWER": "with"}, {"LOWER": "other"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "terms"}], "id": "Comparing mortgage with other real estate terms"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "comparing"}, {"LOWER": "title"}, {"LOWER": "insurance"}, {"LOWER": "with"}, {"LOWER": "other"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "terms"}], "id": "Comparing title insurance with other real estate terms"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "equated"}, {"LOWER": "monthly"}, {"LOWER": "instalment"}, {"LOWER": "(emi)"}, {"LOWER": "in"}, {"LOWER": "a"}, {"LOWER": "loan"}], "id": "Equated Monthly Instalment (EMI) in a loan"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "factors"}, {"LOWER": "influencing"}, {"LOWER": "equity"}, {"LOWER": "and"}, {"LOWER": "the"}, {"LOWER": "process"}, {"LOWER": "of"}, {"LOWER": "utilising"}, {"LOWER": "it"}], "id": "Factors influencing equity and the process of utilising it"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "factors"}, {"LOWER": "influencing"}, {"LOWER": "mortgage"}, {"LOWER": "and"}, {"LOWER": "the"}, {"LOWER": "application"}, {"LOWER": "process"}], "id": "Factors influencing mortgage and the application process"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "fixed"}, {"LOWER": "vs"}, {"LOWER": "floating"}, {"LOWER": "interest"}, {"LOWER": "rates"}, {"LOWER": "for"}, {"LOWER": "home"}, {"LOWER": "loans"}, {"LOWER": "–"}, {"LOWER": "which"}, {"LOWER": "is"}, {"LOWER": "better"}], "id": "Fixed vs floating interest rates for home loans – which is better"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "home"}, {"LOWER": "equity"}, {"LOWER": "loan"}, {"LOWER": "amount"}, {"LOWER": "and"}, {"LOWER": "limits"}], "id": "Home Equity Loan amount and limits"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "do"}, {"LOWER": "i"}, {"LOWER": "calculate"}, {"LOWER": "a"}, {"LOWER": "loan’s"}, {"LOWER": "equated"}, {"LOWER": "monthly"}, {"LOWER": "instalment"}, {"LOWER": "(emi)"}], "id": "How do I calculate a loan’s Equated Monthly Instalment (EMI)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "do"}, {"LOWER": "mill"}, {"LOWER": "levies"}, {"LOWER": "impact"}, {"LOWER": "homebuyers"}], "id": "How do Mill levies impact homebuyers"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "does"}, {"LOWER": "loan"}, {"LOWER": "forbearance"}, {"LOWER": "work"}], "id": "How does loan forbearance work"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "be"}, {"LOWER": "eligible"}, {"LOWER": "for"}, {"LOWER": "the"}, {"LOWER": "home"}, {"LOWER": "protection"}, {"LOWER": "scheme"}, {"LOWER": "(hps)"}, {"LOWER": "coverage"}], "id": "How to be eligible for the Home Protection Scheme (HPS) coverage"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "calculate"}, {"LOWER": "total"}, {"LOWER": "debt"}, {"LOWER": "servicing"}, {"LOWER": "ratio"}, {"LOWER": "(tdsr)"}], "id": "How to calculate Total Debt Servicing Ratio (TDSR)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "calculate"}, {"LOWER": "rental"}, {"LOWER": "income"}, {"LOWER": "tax"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "How to calculate rental income tax in Singapore"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "calculate"}, {"LOWER": "the"}, {"LOWER": "capitalisation"}, {"LOWER": "rate"}], "id": "How to calculate the capitalisation rate"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "calculate"}, {"LOWER": "the"}, {"LOWER": "debt-to-income"}, {"LOWER": "ratio"}], "id": "How to calculate the debt-to-income ratio"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "calculate"}, {"LOWER": "the"}, {"LOWER": "effective"}, {"LOWER": "interest"}, {"LOWER": "rate"}], "id": "How to calculate the effective interest rate"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "calculate"}, {"LOWER": "the"}, {"LOWER": "real"}, {"LOWER": "roi"}, {"LOWER": "of"}, {"LOWER": "your"}, {"LOWER": "rental"}, {"LOWER": "property"}, {"LOWER": "investment"}], "id": "How to calculate the real ROI of your rental property investment"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "navigate"}, {"LOWER": "the"}, {"LOWER": "conveyance"}, {"LOWER": "maze"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "deals"}], "id": "How to navigate the conveyance maze in real estate deals"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "negotiate"}, {"LOWER": "for"}, {"LOWER": "the"}, {"LOWER": "best"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "deals"}], "id": "How to negotiate for the best real estate deals"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "how"}, {"LOWER": "would"}, {"LOWER": "sora"}, {"LOWER": "interest"}, {"LOWER": "rates"}, {"LOWER": "affect"}, {"LOWER": "me"}], "id": "How would SORA interest rates affect me"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "importance"}, {"LOWER": "of"}, {"LOWER": "compound"}, {"LOWER": "interest"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "Importance of Compound Interest in Real Estate"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "importance"}, {"LOWER": "of"}, {"LOWER": "pmi"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "Importance of PMI in Real Estate"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "importance"}, {"LOWER": "of"}, {"LOWER": "abandonment"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "and"}, {"LOWER": "property"}], "id": "Importance of abandonment in real estate and property"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "importance"}, {"LOWER": "of"}, {"LOWER": "underwriters"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "Importance of underwriters in real estate"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "key"}, {"LOWER": "considerations"}, {"LOWER": "for"}, {"LOWER": "subordination"}], "id": "Key considerations for subordination"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "loan-to-value"}, {"LOWER": "(ltv)"}], "id": "Loan-to-Value (LTV)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "mortgage-reducing"}, {"LOWER": "term"}, {"LOWER": "assurance"}, {"LOWER": "(mrta)"}], "id": "Mortgage-Reducing Term Assurance (MRTA)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "pros"}, {"LOWER": "of"}, {"LOWER": "co-op"}, {"LOWER": "living"}], "id": "Pros of Co-op living"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "refinance/repricing"}], "id": "Refinance/Repricing"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "sora"}, {"LOWER": "interest"}, {"LOWER": "rate"}, {"LOWER": "benchmark"}], "id": "SORA interest rate benchmark"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "singapore"}, {"LOWER": "interbank"}, {"LOWER": "offer"}, {"LOWER": "rate"}, {"LOWER": "(sibor)"}], "id": "Singapore Interbank Offer Rate (SIBOR)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "singapore"}, {"LOWER": "interbank"}, {"LOWER": "offered"}, {"LOWER": "rate"}, {"LOWER": "(sibor)"}], "id": "Singapore Interbank Offered Rate (SIBOR)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "swap"}, {"LOWER": "offer"}, {"LOWER": "rate"}, {"LOWER": "(sor)"}], "id": "Swap Offer Rate (SOR)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "tdsr"}, {"LOWER": "limits"}, {"LOWER": "on"}, {"LOWER": "loans"}, {"LOWER": "and"}, {"LOWER": "incomes"}], "id": "TDSR Limits on Loans and Incomes"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "the"}, {"LOWER": "dangers"}, {"LOWER": "of"}, {"LOWER": "waiving"}, {"LOWER": "contingencies"}], "id": "The Dangers of Waiving Contingencies"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "the"}, {"LOWER": "mortgage"}, {"LOWER": "point"}, {"LOWER": "of"}, {"LOWER": "no"}, {"LOWER": "return:"}, {"LOWER": "when"}, {"LOWER": "your"}, {"LOWER": "loan"}, {"LOWER": "gets"}, {"LOWER": "consummated"}], "id": "The Mortgage point of no return: When your loan gets consummated"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "the"}, {"LOWER": "total"}, {"LOWER": "debt"}, {"LOWER": "servicing"}, {"LOWER": "ratio"}, {"LOWER": "(tdsr)"}, {"LOWER": "vs."}, {"LOWER": "dscr"}], "id": "The Total Debt Servicing Ratio (TDSR) vs. DSCR"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "the"}, {"LOWER": "consequences"}, {"LOWER": "of"}, {"LOWER": "skipping"}, {"LOWER": "notarisation"}], "id": "The consequences of skipping notarisation"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "the"}, {"LOWER": "underwriting"}, {"LOWER": "process"}], "id": "The underwriting process"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "understanding"}, {"LOWER": "pmi"}], "id": "Understanding PMI"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "understanding"}, {"LOWER": "cash"}, {"LOWER": "flow"}], "id": "Understanding cash flow"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "does"}, {"LOWER": "an"}, {"LOWER": "amortisation"}, {"LOWER": "loan"}, {"LOWER": "schedule"}, {"LOWER": "look"}, {"LOWER": "like"}], "id": "What does an amortisation loan schedule look like"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "does"}, {"LOWER": "the"}, {"LOWER": "total"}, {"LOWER": "debt"}, {"LOWER": "servicing"}, {"LOWER": "ratio"}, {"LOWER": "(tdsr)"}, {"LOWER": "do"}], "id": "What does the Total Debt Servicing Ratio (TDSR) do"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "factors"}, {"LOWER": "affect"}, {"LOWER": "sora"}, {"LOWER": "rates"}], "id": "What factors affect SORA rates"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "factors"}, {"LOWER": "affect"}, {"LOWER": "the"}, {"LOWER": "loan-to-value"}, {"LOWER": "(ltv)"}, {"LOWER": "ratio"}], "id": "What factors affect the loan-to-value (LTV) ratio"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "factors"}, {"LOWER": "influence"}, {"LOWER": "the"}, {"LOWER": "annual"}, {"LOWER": "percentage"}, {"LOWER": "rate"}, {"LOWER": "(apr)"}], "id": "What factors influence the Annual Percentage Rate (APR)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "influences"}, {"LOWER": "the"}, {"LOWER": "equated"}, {"LOWER": "monthly"}, {"LOWER": "instalment"}, {"LOWER": "(emi)"}, {"LOWER": "in"}, {"LOWER": "a"}, {"LOWER": "loan"}], "id": "What influences the Equated Monthly Instalment (EMI) in a loan"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "influences"}, {"LOWER": "the"}, {"LOWER": "sibor"}], "id": "What influences the SIBOR"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "is"}, {"LOWER": "the"}, {"LOWER": "sora"}, {"LOWER": "interest"}, {"LOWER": "rate"}, {"LOWER": "benchmark?"}], "id": "What is the SORA interest rate benchmark?"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "is"}, {"LOWER": "the"}, {"LOWER": "swap"}, {"LOWER": "offer"}, {"LOWER": "rate"}, {"LOWER": "(sor)?"}], "id": "What is the Swap Offer Rate (SOR)?"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "measures"}, {"LOWER": "are"}, {"LOWER": "in"}, {"LOWER": "place"}, {"LOWER": "to"}, {"LOWER": "ensure"}, {"LOWER": "the"}, {"LOWER": "protection"}, {"LOWER": "of"}, {"LOWER": "borrowers’"}, {"LOWER": "interests"}], "id": "What measures are in place to ensure the protection of borrowers’ interests"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "should"}, {"LOWER": "sibor"}, {"LOWER": "borrowers"}, {"LOWER": "expect"}], "id": "What should SIBOR borrowers expect"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "should"}, {"LOWER": "sor"}, {"LOWER": "borrowers"}, {"LOWER": "expect"}], "id": "What should SOR borrowers expect"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what"}, {"LOWER": "type"}, {"LOWER": "of"}, {"LOWER": "reverse"}, {"LOWER": "mortgage"}, {"LOWER": "is"}, {"LOWER": "available"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "What type of reverse mortgage is available in Singapore"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "what’s"}, {"LOWER": "the"}, {"LOWER": "difference"}, {"LOWER": "–"}, {"LOWER": "sora"}, {"LOWER": "vs"}, {"LOWER": "sibor"}, {"LOWER": "&"}, {"LOWER": "sor"}], "id": "What’s the difference – SORA vs SIBOR & SOR"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "where"}, {"LOWER": "is"}, {"LOWER": "the"}, {"LOWER": "property"}, {"LOWER": "title"}, {"LOWER": "deed"}, {"LOWER": "kept"}], "id": "Where is the property title deed kept"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "who"}, {"LOWER": "gets"}, {"LOWER": "paid?"}, {"LOWER": "understanding"}, {"LOWER": "payees"}, {"LOWER": "and"}, {"LOWER": "how"}, {"LOWER": "they"}, {"LOWER": "work"}, {"LOWER": "in"}, {"LOWER": "financial"}, {"LOWER": "transactions"}], "id": "Who gets paid? Understanding payees and how they work in financial transactions"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "why"}, {"LOWER": "is"}, {"LOWER": "subordination"}, {"LOWER": "necessary"}], "id": "Why is subordination necessary"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "you"}, {"LOWER": "might"}, {"LOWER": "also"}, {"LOWER": "be"}, {"LOWER": "interested"}, {"LOWER": "in"}], "id": "You Might Also Be Interested In"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "a"}, {"LOWER": "break-even"}, {"LOWER": "price"}], "id": "a break-even price"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "a"}, {"LOWER": "reverse"}, {"LOWER": "mortgage"}], "id": "a reverse mortgage"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "an"}, {"LOWER": "ideal"}, {"LOWER": "debt-to-income"}, {"LOWER": "ratio"}], "id": "an ideal debt-to-income ratio"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "an"}, {"LOWER": "underwriter"}], "id": "an underwriter"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "benefits"}, {"LOWER": "of"}, {"LOWER": "subordination"}], "id": "benefits of subordination"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "covered"}, {"LOWER": "under"}, {"LOWER": "the"}, {"LOWER": "mortgage-reducing"}, {"LOWER": "term"}, {"LOWER": "assurance"}, {"LOWER": "(mrta)"}], "id": "covered under the Mortgage-Reducing Term Assurance (MRTA)"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "current"}, {"LOWER": "sora"}, {"LOWER": "rates"}], "id": "current SORA rates"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "definition"}, {"LOWER": "of"}, {"LOWER": "loan"}, {"LOWER": "forbearance"}], "id": "definition of loan forbearance"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "difference"}, {"LOWER": "between"}, {"LOWER": "nominal"}, {"LOWER": "and"}, {"LOWER": "effective"}, {"LOWER": "interest"}, {"LOWER": "rates"}], "id": "difference between nominal and effective interest rates"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "difference"}, {"LOWER": "between"}, {"LOWER": "the"}, {"LOWER": "annual"}, {"LOWER": "percentage"}, {"LOWER": "rate"}, {"LOWER": "(apr)"}, {"LOWER": "and"}, {"LOWER": "the"}, {"LOWER": "interest"}, {"LOWER": "rate"}], "id": "difference between the Annual Percentage Rate (APR) and the interest rate"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "discharge"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "cpf"}, {"LOWER": "charge"}], "id": "discharge of the CPF charge"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "fixed"}, {"LOWER": "interest"}, {"LOWER": "rates"}, {"LOWER": "for"}, {"LOWER": "home"}, {"LOWER": "loans"}], "id": "fixed interest rates for home loans"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "floating"}, {"LOWER": "interest"}, {"LOWER": "rates"}, {"LOWER": "for"}, {"LOWER": "home"}, {"LOWER": "loans"}], "id": "floating interest rates for home loans"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "liquidity"}, {"LOWER": "risk"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "liquidity risk in real estate"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "lock-in"}, {"LOWER": "period"}], "id": "lock-in period"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "mortgage"}, {"LOWER": "subordination"}], "id": "mortgage subordination"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "occupancy"}, {"LOWER": "costs"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "occupancy costs in Singapore"}
+{"label": "FINANCE_RATES", "pattern": [{"LOWER": "penalty"}, {"LOWER": "fee"}, {"LOWER": "for"}, {"LOWER": "breaking"}, {"LOWER": "the"}, {"LOWER": "lock-in"}, {"LOWER": "period"}], "id": "penalty fee for breaking the lock-in period"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "additional"}, {"LOWER": "reading"}], "id": "Additional reading"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "advantages"}, {"LOWER": "and"}, {"LOWER": "disadvantages"}, {"LOWER": "of"}, {"LOWER": "cam"}], "id": "Advantages and disadvantages of cam"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "are"}, {"LOWER": "there"}, {"LOWER": "exceptions"}, {"LOWER": "to"}, {"LOWER": "the"}, {"LOWER": "triple"}, {"LOWER": "net"}, {"LOWER": "lease"}, {"LOWER": "or"}, {"LOWER": "nnn"}], "id": "Are there exceptions to the Triple Net Lease or NNN"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "cea’s"}, {"LOWER": "prescribed"}, {"LOWER": "estate"}, {"LOWER": "agency"}, {"LOWER": "agreement"}], "id": "CEA’s prescribed estate agency agreement"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "calculating"}, {"LOWER": "cam"}, {"LOWER": "and"}, {"LOWER": "influencing"}, {"LOWER": "factors"}], "id": "Calculating CAM and influencing factors"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "can"}, {"LOWER": "i"}, {"LOWER": "back"}, {"LOWER": "out"}, {"LOWER": "of"}, {"LOWER": "signing"}, {"LOWER": "my"}, {"LOWER": "letter"}, {"LOWER": "of"}, {"LOWER": "intent"}, {"LOWER": "(loi)"}], "id": "Can I back out of signing my Letter Of Intent (LOI)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "can"}, {"LOWER": "i"}, {"LOWER": "issue"}, {"LOWER": "more"}, {"LOWER": "than"}, {"LOWER": "one"}, {"LOWER": "option"}, {"LOWER": "to"}, {"LOWER": "purchase"}, {"LOWER": "(otp)"}], "id": "Can I issue more than one Option to Purchase (OTP)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "can"}, {"LOWER": "you"}, {"LOWER": "convert"}, {"LOWER": "from"}, {"LOWER": "joint"}, {"LOWER": "tenancy"}, {"LOWER": "to"}, {"LOWER": "tenancy"}, {"LOWER": "in"}, {"LOWER": "common"}, {"LOWER": "(tic)"}], "id": "Can You Convert from Joint Tenancy to Tenancy In Common (TIC)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "can"}, {"LOWER": "the"}, {"LOWER": "power"}, {"LOWER": "of"}, {"LOWER": "attorney"}, {"LOWER": "(poa)"}, {"LOWER": "be"}, {"LOWER": "revoked"}], "id": "Can the Power of Attorney (POA) be revoked"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "certificate"}, {"LOWER": "of"}, {"LOWER": "statutory"}, {"LOWER": "completion"}, {"LOWER": "(csc)"}], "id": "Certificate of Statutory Completion (CSC)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "common"}, {"LOWER": "area"}, {"LOWER": "maintenance"}, {"LOWER": "(cam)"}], "id": "Common Area Maintenance (CAM)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "comparing"}, {"LOWER": "en"}, {"LOWER": "bloc"}, {"LOWER": "sales"}, {"LOWER": "with"}, {"LOWER": "other"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "transactions"}], "id": "Comparing en bloc sales with other real estate transactions"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "defects"}, {"LOWER": "liability"}, {"LOWER": "period"}, {"LOWER": "(dlp)"}], "id": "Defects Liability Period (DLP)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "diplomatic"}, {"LOWER": "clause"}], "id": "Diplomatic Clause"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "do"}, {"LOWER": "i"}, {"LOWER": "need"}, {"LOWER": "a"}, {"LOWER": "commercial"}, {"LOWER": "lease"}, {"LOWER": "agreement"}], "id": "Do I need a commercial lease agreement"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "do"}, {"LOWER": "i"}, {"LOWER": "need"}, {"LOWER": "to"}, {"LOWER": "use"}, {"LOWER": "cea’s"}, {"LOWER": "prescribed"}, {"LOWER": "estate"}, {"LOWER": "agency"}, {"LOWER": "agreement"}], "id": "Do I need to use CEA’s prescribed estate agency agreement"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "exclusive"}, {"LOWER": "vs"}, {"LOWER": "non-exclusive"}, {"LOWER": "estate"}, {"LOWER": "agency"}, {"LOWER": "agreement:"}, {"LOWER": "what’s"}, {"LOWER": "the"}, {"LOWER": "difference"}], "id": "Exclusive vs non-exclusive estate agency agreement: What’s the difference"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "factors"}, {"LOWER": "affecting"}, {"LOWER": "en"}, {"LOWER": "bloc"}, {"LOWER": "potential"}, {"LOWER": "and"}, {"LOWER": "the"}, {"LOWER": "process"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "Factors affecting en bloc potential and the process in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "factors"}, {"LOWER": "influencing"}, {"LOWER": "en"}, {"LOWER": "bloc"}, {"LOWER": "sale"}, {"LOWER": "and"}, {"LOWER": "the"}, {"LOWER": "application"}, {"LOWER": "process"}], "id": "Factors influencing en bloc sale and the application process"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "good"}, {"LOWER": "faith"}, {"LOWER": "deposit"}, {"LOWER": "vs"}, {"LOWER": "security"}, {"LOWER": "deposit"}, {"LOWER": "–"}, {"LOWER": "what’s"}, {"LOWER": "the"}, {"LOWER": "difference"}], "id": "Good faith deposit vs security deposit – What’s the difference"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "have"}, {"LOWER": "a"}, {"LOWER": "bidding"}, {"LOWER": "strategy"}], "id": "Have a bidding strategy"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "did"}, {"LOWER": "the"}, {"LOWER": "main"}, {"LOWER": "upgrading"}, {"LOWER": "programme"}, {"LOWER": "(mup)"}, {"LOWER": "work"}], "id": "How did the Main Upgrading Programme (MUP) work"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "do"}, {"LOWER": "i"}, {"LOWER": "apply"}, {"LOWER": "for"}, {"LOWER": "a"}, {"LOWER": "certificate"}, {"LOWER": "of"}, {"LOWER": "statutory"}, {"LOWER": "completion"}, {"LOWER": "(csc)"}], "id": "How do I apply for a Certificate of Statutory Completion (CSC)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "do"}, {"LOWER": "i"}, {"LOWER": "remove"}, {"LOWER": "a"}, {"LOWER": "home"}, {"LOWER": "lien"}], "id": "How do I remove a home lien"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "do"}, {"LOWER": "i"}, {"LOWER": "set"}, {"LOWER": "up"}, {"LOWER": "power"}, {"LOWER": "of"}, {"LOWER": "attorney"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "How do I set up power of attorney in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "does"}, {"LOWER": "tenancy"}, {"LOWER": "in"}, {"LOWER": "common"}, {"LOWER": "differ"}, {"LOWER": "from"}, {"LOWER": "joint"}, {"LOWER": "tenancy"}], "id": "How does Tenancy In Common differ from Joint Tenancy"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "does"}, {"LOWER": "a"}, {"LOWER": "progressive"}, {"LOWER": "payment"}, {"LOWER": "scheme"}, {"LOWER": "(pps)"}, {"LOWER": "work"}], "id": "How does a Progressive Payment Scheme (PPS) work"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "does"}, {"LOWER": "forfeiture"}, {"LOWER": "work"}], "id": "How does forfeiture work"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "does"}, {"LOWER": "higher"}, {"LOWER": "rent"}, {"LOWER": "affect"}, {"LOWER": "the"}, {"LOWER": "rental"}, {"LOWER": "income"}, {"LOWER": "tax"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "How does higher rent affect the rental income tax in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "does"}, {"LOWER": "subordination"}, {"LOWER": "work"}], "id": "How does subordination work"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "does"}, {"LOWER": "tenancy-in-common"}, {"LOWER": "work"}], "id": "How does tenancy-in-common work"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "is"}, {"LOWER": "sibor"}, {"LOWER": "calculated"}], "id": "How is SIBOR calculated"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "is"}, {"LOWER": "rental"}, {"LOWER": "income"}, {"LOWER": "tax"}, {"LOWER": "charged"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "How is rental income tax charged in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "long"}, {"LOWER": "does"}, {"LOWER": "the"}, {"LOWER": "defects"}, {"LOWER": "liability"}, {"LOWER": "period"}, {"LOWER": "(dlp)"}, {"LOWER": "last"}], "id": "How long does the Defects Liability Period (DLP) last"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "set"}, {"LOWER": "up"}, {"LOWER": "tenancy"}, {"LOWER": "in"}, {"LOWER": "common"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "How to Set Up Tenancy In Common in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "apply"}, {"LOWER": "for"}, {"LOWER": "a"}, {"LOWER": "temporary"}, {"LOWER": "occupation"}, {"LOWER": "permit"}, {"LOWER": "(top)"}], "id": "How to apply for a Temporary Occupation Permit (TOP)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "check"}, {"LOWER": "credit"}, {"LOWER": "score"}], "id": "How to check credit score"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "keep"}, {"LOWER": "your"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "investments"}, {"LOWER": "running"}, {"LOWER": "smoothly"}, {"LOWER": "with"}, {"LOWER": "power"}, {"LOWER": "of"}, {"LOWER": "attorney"}], "id": "How to keep your real estate investments running smoothly with Power of Attorney"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "quickly"}, {"LOWER": "liquidate"}, {"LOWER": "your"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "assets"}], "id": "How to quickly liquidate your real estate assets"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "importance"}, {"LOWER": "of"}, {"LOWER": "reconciliation"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "Importance of reconciliation in real estate"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "joint"}, {"LOWER": "tenancy"}], "id": "Joint Tenancy"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "joint"}, {"LOWER": "tenancy"}, {"LOWER": "vs"}, {"LOWER": "tenancy-in-common"}, {"LOWER": "–"}, {"LOWER": "what’s"}, {"LOWER": "the"}, {"LOWER": "difference"}], "id": "Joint tenancy vs Tenancy-in-common – What’s the difference"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "key"}, {"LOWER": "documents"}, {"LOWER": "to"}, {"LOWER": "notarise"}], "id": "Key documents to notarise"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "key"}, {"LOWER": "laws"}, {"LOWER": "and"}, {"LOWER": "regulations"}], "id": "Key laws and regulations"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "lasting"}, {"LOWER": "power"}, {"LOWER": "of"}, {"LOWER": "attorney"}, {"LOWER": "(lpa)"}], "id": "Lasting Power of Attorney (LPA)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "letter"}, {"LOWER": "of"}, {"LOWER": "intent"}, {"LOWER": "(loi)"}], "id": "Letter of Intent (LOI)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "option"}, {"LOWER": "to"}, {"LOWER": "purchase"}, {"LOWER": "(otp)"}], "id": "Option to Purchase (OTP)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "popular"}, {"LOWER": "uses"}, {"LOWER": "of"}, {"LOWER": "tenancy"}, {"LOWER": "in"}, {"LOWER": "common"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "Popular Uses of Tenancy In Common in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "promissory"}, {"LOWER": "note"}, {"LOWER": "vs."}, {"LOWER": "loan"}, {"LOWER": "agreement"}], "id": "Promissory Note vs. Loan Agreement"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "protect"}, {"LOWER": "your"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "deal:"}, {"LOWER": "why"}, {"LOWER": "you"}, {"LOWER": "need"}, {"LOWER": "an"}, {"LOWER": "ironclad"}, {"LOWER": "purchase"}, {"LOWER": "agreement"}], "id": "Protect your real estate deal: Why you need an ironclad purchase agreement"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "sale"}, {"LOWER": "and"}, {"LOWER": "purchase"}, {"LOWER": "agreement"}, {"LOWER": "(s&p)"}], "id": "Sale and Purchase Agreement (S&P)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "streamline"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "disputes"}, {"LOWER": "with"}, {"LOWER": "arbitration"}], "id": "Streamline real estate disputes with arbitration"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "temporary"}, {"LOWER": "occupation"}, {"LOWER": "permit"}, {"LOWER": "(top)"}], "id": "Temporary Occupation Permit (TOP)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "tenancy"}, {"LOWER": "agreement"}], "id": "Tenancy Agreement"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "tenancy-in-common"}], "id": "Tenancy-in-Common"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "this"}, {"LOWER": "is"}, {"LOWER": "how"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "franchising"}, {"LOWER": "can"}, {"LOWER": "fast-track"}, {"LOWER": "your"}, {"LOWER": "business"}, {"LOWER": "success"}], "id": "This is how real estate franchising can fast-track your business success"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "understanding"}, {"LOWER": "reconciliation"}], "id": "Understanding reconciliation"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "understanding"}, {"LOWER": "tenants"}], "id": "Understanding tenants"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "understanding"}, {"LOWER": "the"}, {"LOWER": "ins-and-outs"}, {"LOWER": "of"}, {"LOWER": "lease"}, {"LOWER": "agreements:"}, {"LOWER": "an"}, {"LOWER": "essential"}, {"LOWER": "guide"}, {"LOWER": "for"}, {"LOWER": "tenants"}, {"LOWER": "and"}, {"LOWER": "landlords"}], "id": "Understanding the ins-and-outs of lease agreements: An essential guide for tenants and landlords"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what"}, {"LOWER": "happens"}, {"LOWER": "if"}, {"LOWER": "a"}, {"LOWER": "tenant"}, {"LOWER": "in"}, {"LOWER": "common"}, {"LOWER": "wants"}, {"LOWER": "to"}, {"LOWER": "sell"}], "id": "What happens if a Tenant In Common wants to sell"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what"}, {"LOWER": "if"}, {"LOWER": "there’s"}, {"LOWER": "a"}, {"LOWER": "disagreement"}, {"LOWER": "among"}, {"LOWER": "tenants"}, {"LOWER": "in"}, {"LOWER": "common"}], "id": "What if there’s a disagreement among Tenants In Common"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what"}, {"LOWER": "is"}, {"LOWER": "joint"}, {"LOWER": "tenancy?"}], "id": "What is joint tenancy?"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what"}, {"LOWER": "is"}, {"LOWER": "tenancy-in-common?"}], "id": "What is tenancy-in-common?"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what"}, {"LOWER": "measures"}, {"LOWER": "can"}, {"LOWER": "you"}, {"LOWER": "take"}, {"LOWER": "as"}, {"LOWER": "a"}, {"LOWER": "buyer"}, {"LOWER": "to"}, {"LOWER": "protect"}, {"LOWER": "your"}, {"LOWER": "legal"}, {"LOWER": "rights"}], "id": "What measures can you take as a buyer to protect your legal rights"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what"}, {"LOWER": "should"}, {"LOWER": "be"}, {"LOWER": "included"}, {"LOWER": "in"}, {"LOWER": "a"}, {"LOWER": "tenancy"}, {"LOWER": "agreement"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "What should be included in a Tenancy Agreement in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what"}, {"LOWER": "should"}, {"LOWER": "you"}, {"LOWER": "consider"}, {"LOWER": "before"}, {"LOWER": "subletting"}], "id": "What should you consider before subletting"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what"}, {"LOWER": "terms"}, {"LOWER": "are"}, {"LOWER": "in"}, {"LOWER": "a"}, {"LOWER": "letter"}, {"LOWER": "of"}, {"LOWER": "intent"}, {"LOWER": "(loi)"}], "id": "What terms are in a Letter Of Intent (LOI)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "what’s"}, {"LOWER": "the"}, {"LOWER": "key"}, {"LOWER": "difference"}, {"LOWER": "between"}, {"LOWER": "top"}, {"LOWER": "and"}, {"LOWER": "csc"}], "id": "What’s the Key Difference Between TOP and CSC"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "when"}, {"LOWER": "to"}, {"LOWER": "use"}, {"LOWER": "the"}, {"LOWER": "power"}, {"LOWER": "of"}, {"LOWER": "attorney"}, {"LOWER": "(poa)"}], "id": "When to use the Power of Attorney (POA)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "where"}, {"LOWER": "do"}, {"LOWER": "i"}, {"LOWER": "get"}, {"LOWER": "a"}, {"LOWER": "tenancy"}, {"LOWER": "agreement"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "Where do I get a Tenancy Agreement in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "why"}, {"LOWER": "a"}, {"LOWER": "well-drafted"}, {"LOWER": "promissory"}, {"LOWER": "note"}, {"LOWER": "matters"}, {"LOWER": "in"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "Why a well-drafted Promissory Note matters in real estate"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "why"}, {"LOWER": "canvassing"}, {"LOWER": "your"}, {"LOWER": "neighbourhood"}, {"LOWER": "is"}, {"LOWER": "still"}, {"LOWER": "the"}, {"LOWER": "#1"}, {"LOWER": "strategy"}, {"LOWER": "for"}, {"LOWER": "agents"}], "id": "Why canvassing your neighbourhood is still the #1 strategy for agents"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "why"}, {"LOWER": "do"}, {"LOWER": "people"}, {"LOWER": "choose"}, {"LOWER": "investment"}, {"LOWER": "insurance"}, {"LOWER": "plans"}], "id": "Why do people choose investment insurance plans"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "a"}, {"LOWER": "certificate"}, {"LOWER": "of"}, {"LOWER": "statutory"}, {"LOWER": "completion"}, {"LOWER": "(csc)"}], "id": "a Certificate of Statutory Completion (CSC)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "a"}, {"LOWER": "letter"}, {"LOWER": "of"}, {"LOWER": "intent"}, {"LOWER": "(loi)"}], "id": "a Letter Of Intent (LOI)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "a"}, {"LOWER": "power"}, {"LOWER": "of"}, {"LOWER": "attorney"}, {"LOWER": "(poa)"}], "id": "a Power of Attorney (POA)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "a"}, {"LOWER": "temporary"}, {"LOWER": "occupation"}, {"LOWER": "permit"}, {"LOWER": "(top)"}], "id": "a Temporary Occupation Permit (TOP)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "a"}, {"LOWER": "tenancy"}, {"LOWER": "agreement"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "a Tenancy Agreement in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "a"}, {"LOWER": "property"}, {"LOWER": "title"}, {"LOWER": "deed"}], "id": "a property title deed"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "a"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "mandate"}], "id": "a real estate mandate"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "an"}, {"LOWER": "express"}, {"LOWER": "temporary"}, {"LOWER": "occupation"}, {"LOWER": "permit"}, {"LOWER": "(top)"}], "id": "an Express Temporary Occupation Permit (TOP)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "an"}, {"LOWER": "option"}, {"LOWER": "to"}, {"LOWER": "purchase"}, {"LOWER": "(otp)"}], "id": "an Option to Purchase (OTP)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "an"}, {"LOWER": "estate"}, {"LOWER": "agency"}, {"LOWER": "agreement"}], "id": "an estate agency agreement"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "caveat"}, {"LOWER": "emptor"}], "id": "caveat emptor"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "commercial"}, {"LOWER": "leases"}], "id": "commercial leases"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "forfeiture"}], "id": "forfeiture"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "novation"}], "id": "novation"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "process"}, {"LOWER": "of"}, {"LOWER": "applying"}, {"LOWER": "for"}, {"LOWER": "a"}, {"LOWER": "certificate"}, {"LOWER": "of"}, {"LOWER": "statutory"}, {"LOWER": "completion"}, {"LOWER": "(csc)"}], "id": "process of applying for a Certificate of Statutory Completion (CSC)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "process"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "payment"}, {"LOWER": "and"}, {"LOWER": "signing"}, {"LOWER": "of"}, {"LOWER": "the"}, {"LOWER": "tenancy"}, {"LOWER": "agreement"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "process of the payment and signing of the Tenancy Agreement in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "reconciliation"}], "id": "reconciliation"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "stages"}, {"LOWER": "in"}, {"LOWER": "the"}, {"LOWER": "progressive"}, {"LOWER": "payment"}, {"LOWER": "scheme"}, {"LOWER": "(pps)"}], "id": "stages in the Progressive Payment Scheme (PPS)"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "types"}, {"LOWER": "of"}, {"LOWER": "income"}, {"LOWER": "tax"}, {"LOWER": "reliefs"}, {"LOWER": "available"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "types of income tax reliefs available in Singapore"}
+{"label": "LEGAL_DOCS", "pattern": [{"LOWER": "vesting"}], "id": "vesting"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "additional"}, {"LOWER": "buyer’s"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(absd)"}], "id": "Additional Buyer’s Stamp Duty (ABSD)"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "buyer's"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(bsd)"}], "id": "Buyer's Stamp Duty (BSD)"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "can"}, {"LOWER": "i"}, {"LOWER": "use"}, {"LOWER": "cpf"}, {"LOWER": "to"}, {"LOWER": "pay"}, {"LOWER": "for"}, {"LOWER": "the"}, {"LOWER": "buyer’s"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(bsd)"}, {"LOWER": "and"}, {"LOWER": "additional"}, {"LOWER": "buyer’s"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(absd)"}], "id": "Can I use CPF to pay for the Buyer’s Stamp Duty (BSD) and Additional Buyer’s Stamp Duty (ABSD)"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "decoupling"}], "id": "Decoupling"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "development"}, {"LOWER": "charge"}, {"LOWER": "(dc)"}], "id": "Development Charge (DC)"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "how"}, {"LOWER": "much"}, {"LOWER": "is"}, {"LOWER": "buyer’s"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(bsd)"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "How much is Buyer’s Stamp Duty (BSD) in Singapore"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "how"}, {"LOWER": "to"}, {"LOWER": "calculate"}, {"LOWER": "break-even"}, {"LOWER": "prices"}, {"LOWER": "for"}, {"LOWER": "real"}, {"LOWER": "estate"}], "id": "How to calculate break-even prices for real estate"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "land"}, {"LOWER": "betterment"}, {"LOWER": "charge"}, {"LOWER": "(lbc)"}], "id": "Land Betterment Charge (LBC)"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "legal"}, {"LOWER": "methods"}, {"LOWER": "to"}, {"LOWER": "avoid"}, {"LOWER": "or"}, {"LOWER": "mitigate"}, {"LOWER": "absd"}], "id": "Legal methods to avoid or mitigate ABSD"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "reasons"}, {"LOWER": "to"}, {"LOWER": "avoid"}, {"LOWER": "absd"}], "id": "Reasons to avoid ABSD"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "risks"}, {"LOWER": "and"}, {"LOWER": "considerations"}], "id": "Risks and considerations"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "seller"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(ssd)"}], "id": "Seller Stamp Duty (SSD)"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "stamp"}, {"LOWER": "duty"}], "id": "Stamp Duty"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "ways"}, {"LOWER": "to"}, {"LOWER": "avoid"}, {"LOWER": "absd"}, {"LOWER": "(and"}, {"LOWER": "why"}, {"LOWER": "you"}, {"LOWER": "should"}, {"LOWER": "think"}, {"LOWER": "twice"}, {"LOWER": "before"}, {"LOWER": "doing"}, {"LOWER": "it)"}], "id": "Ways to avoid ABSD (and why you should think twice before doing it)"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "what"}, {"LOWER": "is"}, {"LOWER": "additional"}, {"LOWER": "buyer’s"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(absd)?"}], "id": "What is Additional Buyer’s Stamp Duty (ABSD)?"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "what"}, {"LOWER": "types"}, {"LOWER": "of"}, {"LOWER": "property"}, {"LOWER": "taxes"}, {"LOWER": "are"}, {"LOWER": "out"}, {"LOWER": "there"}, {"LOWER": "in"}, {"LOWER": "singapore"}], "id": "What types of property taxes are out there in Singapore"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "when"}, {"LOWER": "should"}, {"LOWER": "i"}, {"LOWER": "pay"}, {"LOWER": "the"}, {"LOWER": "buyer’s"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(bsd)"}, {"LOWER": "and"}, {"LOWER": "additional"}, {"LOWER": "buyer’s"}, {"LOWER": "stamp"}, {"LOWER": "duty"}, {"LOWER": "(absd)"}], "id": "When should I pay the Buyer’s Stamp Duty (BSD) and Additional Buyer’s Stamp Duty (ABSD)"}
+{"label": "TAX_DUTY", "pattern": [{"LOWER": "where"}, {"LOWER": "can"}, {"LOWER": "i"}, {"LOWER": "pay"}, {"LOWER": "my"}, {"LOWER": "property"}, {"LOWER": "tax"}], "id": "Where can I pay my property tax"}

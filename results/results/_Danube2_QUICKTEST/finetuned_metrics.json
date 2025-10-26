@@ -1,0 +1,7 @@
+{
+  "samples": 30,
+  "overall_sentiment_accuracy": 0.6666666666666666,
+  "macro_f1": 0.163265306122449,
+  "macro_precision": 0.14285714285714285,
+  "macro_recall": 0.19047619047619047
+}

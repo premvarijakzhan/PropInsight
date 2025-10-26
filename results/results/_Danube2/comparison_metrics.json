@@ -1,0 +1,41 @@
+{
+  "baseline": {
+    "overall_sentiment_accuracy": 0.29422382671480146,
+    "macro_precision": 0.04289504422658387,
+    "macro_recall": 0.05153461562445922,
+    "macro_f1": 0.03330880769873851,
+    "weighted_f1": 0.26044398053304313,
+    "singlish_coverage": 1.0,
+    "entity_recognition": 0.6696750902527075,
+    "domain_avg": 0.8348375451263538
+  },
+  "finetuned": {
+    "overall_sentiment_accuracy": 0.8375451263537906,
+    "macro_precision": 0.7865650646734696,
+    "macro_recall": 0.7538619191704002,
+    "macro_f1": 0.7684824428506739,
+    "weighted_f1": 0.8352719970400379,
+    "singlish_coverage": 1.0,
+    "entity_recognition": 0.648014440433213,
+    "domain_avg": 0.8240072202166064,
+    "labels": [
+      "negative",
+      "neutral",
+      "positive"
+    ],
+    "per_label_f1": {
+      "negative": 0.8482490272373541,
+      "neutral": 0.9518248175182482,
+      "positive": 0.7631578947368421
+    }
+  },
+  "improvements": {
+    "accuracy_delta": 0.5433212996389891,
+    "f1_delta": 0.7351736351519353,
+    "precision_delta": 0.7436700204468858,
+    "recall_delta": 0.702327303545941,
+    "singlish_coverage_delta": 0.0,
+    "entity_recognition_delta": -0.02166064981949456,
+    "domain_avg_delta": -0.010830324909747335
+  }
+}

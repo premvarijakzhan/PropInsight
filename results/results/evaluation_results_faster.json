@@ -1,0 +1,14 @@
+{
+  "preset": "faster",
+  "samples": 554,
+  "overall_sentiment_accuracy": 0.8303249097472925,
+  "macro_f1": 0.5540256446061214,
+  "macro_precision": 0.5853804859891356,
+  "macro_recall": 0.5322371540330706,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive",
+    "rising"
+  ]
+}

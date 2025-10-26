@@ -1,0 +1,12 @@
+{
+  "samples": 554,
+  "overall_sentiment_accuracy": 0.8176895306859205,
+  "macro_f1": 0.7261319073083778,
+  "macro_precision": 0.7576045705016138,
+  "macro_recall": 0.7026949607107257,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ]
+}

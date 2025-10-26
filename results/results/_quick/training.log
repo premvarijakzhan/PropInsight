@@ -1,0 +1,48 @@
+================================================================================
+PROPINSIGHT DANUBE2 FINETUNING - TRAINING LOG
+================================================================================
+
+Training Start: 2025-10-26T03:12:05.848327
+Training End:   2025-10-26T03:12:40.544251
+Total Duration: 0h 0m 34s
+Quick Test Mode: True
+
+--------------------------------------------------------------------------------
+CONFIGURATION
+--------------------------------------------------------------------------------
+Model ID: h2oai/danube2-singlish-finetuned
+Train Samples: 50
+Val Samples: 20
+Test Samples: 30
+Epochs: 1
+Max Length: 512
+Learning Rate: 0.0002
+Batch Size: 1
+Gradient Accumulation: 4
+Effective Batch Size: 4
+
+--------------------------------------------------------------------------------
+LORA CONFIGURATION
+--------------------------------------------------------------------------------
+LoRA r: 16
+LoRA alpha: 32
+LoRA dropout: 0.05
+Target modules: down_proj, gate_proj, up_proj, v_proj, q_proj, o_proj, k_proj
+
+--------------------------------------------------------------------------------
+TRAINING PROGRESS (STEP-BY-STEP)
+--------------------------------------------------------------------------------
+
+[Step     5] Epoch: 0.40 | Train Loss: 3.269300 | LR: 1.71e-04
+[Step    10] Epoch: 0.80 | Train Loss: 3.113700 | LR: 5.00e-05
+[Step    10] >>> EVAL <<< | Val Loss: 2.555434 | Runtime: 2.82s
+
+--------------------------------------------------------------------------------
+TRAINING SUMMARY
+--------------------------------------------------------------------------------
+Total Steps: 13
+Final Train Loss: 3.063961982727051
+Best Metric: 2.555433750152588
+Best Checkpoint: /content/drive/MyDrive/PropInsight/models/finetuned/_quick/checkpoint-10
+Samples/Second: 1.46
+Steps/Second: 0.38

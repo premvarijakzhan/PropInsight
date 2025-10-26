@@ -1,0 +1,55 @@
+{
+  "baseline": {
+    "samples": 30,
+    "overall_sentiment_accuracy": 0.43333333333333335,
+    "macro_f1": 0.08658658658658658,
+    "macro_precision": 0.140625,
+    "macro_recall": 0.06746031746031746,
+    "label_set": [
+      "++++",
+      "+1.5",
+      "-",
+      "0.67, price sentiment: 0.67, policy sentiment: 0.67, affordability sentiment: 0.67, location: \"\", aspect: \"\", entity: \"\", policy mentioned: \"\", singlish detected: \"\", cultural context: \"\", emotion: \"\", datetime",
+      "negative",
+      "neutral",
+      "positive",
+      "positive (boredom + good intentions)",
+      "positive (good feeling)",
+      "positive (neutral)",
+      "the sentiment of the text is quite negative lah. the person wants to get away from their toxic and abusive environment, which shows they feel unhappy or uncomfortable there.",
+      "the text is positive since got \"condos\" mentioned, can afford, and \"my wife\"."
+    ],
+    "ground_truth_distribution": {
+      "neutral": 21,
+      "negative": 7,
+      "positive": 2
+    },
+    "prediction_distribution": {
+      "neutral": 16,
+      "positive": 3,
+      "+1.5": 1,
+      "negative": 2,
+      "0.67, price sentiment: 0.67, policy sentiment: 0.67, affordability sentiment: 0.67, location: \"\", aspect: \"\", entity: \"\", policy mentioned: \"\", singlish detected: \"\", cultural context: \"\", emotion: \"\", datetime": 1,
+      "-": 1,
+      "++++": 1,
+      "positive (good feeling)": 1,
+      "positive (boredom + good intentions)": 1,
+      "the text is positive since got \"condos\" mentioned, can afford, and \"my wife\".": 1,
+      "positive (neutral)": 1,
+      "the sentiment of the text is quite negative lah. the person wants to get away from their toxic and abusive environment, which shows they feel unhappy or uncomfortable there.": 1
+    }
+  },
+  "finetuned": {
+    "samples": 30,
+    "overall_sentiment_accuracy": 0.6666666666666666,
+    "macro_f1": 0.163265306122449,
+    "macro_precision": 0.14285714285714285,
+    "macro_recall": 0.19047619047619047
+  },
+  "improvements": {
+    "accuracy_delta": 0.23333333333333328,
+    "f1_delta": 0.07667871953586242,
+    "precision_delta": 0.002232142857142849,
+    "recall_delta": 0.12301587301587301
+  }
+}

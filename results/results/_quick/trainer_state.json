@@ -1,0 +1,9 @@
+{
+  "global_step": 13,
+  "epoch": 1.0,
+  "total_flos": 271347115622400.0,
+  "best_metric": 2.555433750152588,
+  "best_model_checkpoint": "/content/drive/MyDrive/PropInsight/models/finetuned/_quick/checkpoint-10",
+  "is_local_process_zero": true,
+  "is_world_process_zero": true
+}

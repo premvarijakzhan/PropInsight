@@ -1,0 +1,20 @@
+{
+  "overall_sentiment_accuracy": 0.6666666666666666,
+  "macro_precision": 0.4012345679012346,
+  "macro_recall": 0.34920634920634924,
+  "macro_f1": 0.33796296296296297,
+  "weighted_f1": 0.6060185185185186,
+  "singlish_coverage": 1.0,
+  "entity_recognition": 0.5333333333333333,
+  "domain_avg": 0.7666666666666666,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "per_label_f1": {
+    "negative": 0.25,
+    "neutral": 0.95,
+    "positive": 0.0
+  }
+}
