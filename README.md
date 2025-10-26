@@ -35,7 +35,6 @@ Place the downloaded folders/files into the project root preserving the structur
 ## Key Features
 - Robust fine-tuning script with automatic checkpointing and best model selection
 - Comprehensive evaluation suite (accuracy, precision, recall, F1, confusion matrices)
-- RESI alignment evaluation for reasoning consistency
 - Preprocessing pipelines for Reddit, forums, and government sources
 - Dashboard for visual exploration of policies and signals
 
