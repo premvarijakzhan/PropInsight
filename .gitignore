@@ -1,22 +1,37 @@
-# .gitignore
-echo "*.pyc
+# Python
+*.pyc
 __pycache__/
 .env
+.DS_Store
+*.log
+
+# Models and checkpoints
 models/*.pt
 models/*.pkl
-.DS_Store
-*.log" > .gitignore
+*.bin
+*.safetensors
 
-# requirements.txt
-echo "pandas
-numpy
-scikit-learn
-torch
-transformers
-praw
-beautifulsoup4
-requests
-matplotlib
-seaborn
-jupyter" > requirements.txt
-PropInsightData.md
+# Large data files (available on Google Drive)
+data/raw/reddit_property_nested.json
+data/raw/reddit_property_nested_sgpropinvesting.json
+data/processed/reddit_corpus_2023_2025.csv
+src/preprocessing/data/processed/reddit/reddit_corpus_2023_2025.csv
+src/preprocessing/data/processed/reddit/reddit_corpus_2023_2025.csv.gz
+src/preprocessing/data/processed/reddit/reddit_corpus_2023_2025.parquet
+
+# Large result files
+results/tensorboard/
+results/results/tensorboard/
+*.png
+*.jpg
+*.jpeg
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db

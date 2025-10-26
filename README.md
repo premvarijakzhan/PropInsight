@@ -1,0 +1,111 @@
+# PropInsight
+
+PropInsight is a practical, end-to-end framework for collecting, preprocessing, fine-tuning, and evaluating language models on Singapore real estate domain data. It focuses on sentiment analysis, Singlish/cultural context understanding, and domain knowledge grounded in government policies and market conditions.
+
+All large datasets, processed files, checkpoints, and model artifacts are available on Google Drive:
+
+Google Drive: https://drive.google.com/drive/folders/1HiABarjnxIutrmpsY2b8eVDGweu5Xyfi?usp=sharing
+
+Place the downloaded folders/files into the project root preserving the structure shown below.
+
+## Key Features
+- Robust fine-tuning script with automatic checkpointing and best model selection
+- Comprehensive evaluation suite (accuracy, precision, recall, F1, confusion matrices)
+- RESI alignment evaluation for reasoning consistency
+- Preprocessing pipelines for Reddit, forums, and government sources
+- Dashboard for visual exploration of policies and signals
+
+## Project Structure
+- `src/models/qwen_sealion_finetune.py` — main fine-tuning entrypoint
+- `src/models/evaluate_model.py` — evaluation of trained/baseline models
+- `src/models/resi_evaluation.py` — RESI alignment and reasoning checks
+- `src/preprocessing/*` — data preprocessing pipelines (Reddit, government agencies, forums)
+- `dashboard/streamlit_app.py` — interactive dashboard
+- `data/` — corpus, raw, and processed datasets (download from Drive)
+- `results/` — metrics, predictions, visualizations, and training configs
+
+## Getting Started
+
+### Prerequisites
+- Windows or Linux with Python 3.10+
+- NVIDIA GPU with CUDA recommended for training
+- Recommended Python packages: `torch`, `transformers`, `datasets`, `peft`, `accelerate`, `scikit-learn`, `pandas`, `numpy`, `pyarrow`, `matplotlib`, `seaborn`, `tensorboard`, `wandb`
+
+Example installation (adjust CUDA as needed):
+```
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install transformers datasets peft accelerate scikit-learn pandas numpy pyarrow matplotlib seaborn tensorboard wandb
+```
+
+### Download Data and Models
+- Visit the Google Drive folder:
+  - https://drive.google.com/drive/folders/1HiABarjnxIutrmpsY2b8eVDGweu5Xyfi?usp=sharing
+- Download the datasets, processed files, model checkpoints, and any large artifacts.
+- Place them under `data/` and `results/` following this structure:
+  - `data/raw/` (forums, government, Reddit JSONs)
+  - `data/processed/` (cleaned corpora and parquet/CSV)
+  - `data/corpus/` (Singlish and property domain lexicons)
+  - `results/` (metrics, predictions, visualizations, tensorboard logs)
+
+## Usage
+
+### 1) Fine-Tuning
+Run the main fine-tuning script:
+```
+python src/models/qwen_sealion_finetune.py
+```
+Highlights:
+- Saves checkpoints every N steps (default 500)
+- Keeps a limited number of best checkpoints
+- Automatically loads the best model at the end based on evaluation metrics
+- Early stopping supported (configurable in the script)
+
+Outputs:
+- `results/results/training_config*.json`
+- `results/visualizations/*` (training curves, confusion matrices, sentiment comparisons)
+
+### 2) Evaluation
+Evaluate a trained model or baseline:
+```
+python src/models/evaluate_model.py --model_path <your_model_or_checkpoint_path> --output_dir ./results/results
+```
+Generates:
+- `evaluation_results.json`
+- `baseline_metrics.json` / `finetuned_predictions_faster.json` (depending on mode)
+- Visualizations under `results/visualizations/`
+
+### 3) RESI Alignment
+Run reasoning consistency evaluation:
+```
+python src/models/resi_evaluation.py
+```
+Produces RESI alignment summaries, error analyses, and optional plots.
+
+### 4) Preprocessing Pipelines
+Examples (run as needed depending on your data sources):
+```
+python src/preprocessing/run_reddit_preprocessing.py
+python src/preprocessing/reddit_corpus_preprocessor.py
+python src/preprocessing/bca_articles_preprocessor.py
+python src/preprocessing/hdb_articles_preprocessor.py
+python src/preprocessing/mas_articles_preprocessor.py
+python src/preprocessing/mnd_articles_preprocessor.py
+python src/preprocessing/sfa_articles_preprocessor.py
+python src/preprocessing/sla_articles_preprocessor.py
+```
+
+### 5) Dashboard
+Explore a simple dashboard:
+```
+streamlit run dashboard/streamlit_app.py
+```
+Shows policy events, panel views, and basic analytics.
+
+## Notes & Tips
+- Large files are intentionally distributed via Google Drive. If you encounter GitHub push/pull limits, use the Drive link above instead.
+- Keep directory names consistent with the project structure; many scripts assume relative paths under `data/` and `results/`.
+- Enable TensorBoard or Weights & Biases for real-time training monitoring (optional).
+- For reproducibility, the training script writes out a configuration JSON with the exact arguments used.
+
+## Acknowledgements
+This project integrates public datasets, community forums, and government information to tailor language models to the Singapore property context. Thanks to open-source contributors in the ecosystem (PyTorch, Hugging Face, scikit-learn, Streamlit, etc.).
