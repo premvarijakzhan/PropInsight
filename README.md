@@ -97,14 +97,9 @@ Generates:
 - `baseline_metrics.json` / `finetuned_predictions_faster.json` (depending on mode)
 - Visualizations under `results/visualizations/`
 
-### 3) RESI Alignment
-Run reasoning consistency evaluation:
-```
-python src/models/resi_evaluation.py
-```
-Produces RESI alignment summaries, error analyses, and optional plots.
 
-### 4) Preprocessing Pipelines
+
+### 3) Preprocessing Pipelines
 Examples (run as needed depending on your data sources):
 ```
 python src/preprocessing/run_reddit_preprocessing.py
@@ -117,7 +112,7 @@ python src/preprocessing/sfa_articles_preprocessor.py
 python src/preprocessing/sla_articles_preprocessor.py
 ```
 
-### 5) Dashboard
+### 4) Dashboard
 Explore a simple dashboard:
 ```
 streamlit run dashboard/streamlit_app.py
