@@ -2,6 +2,30 @@
 
 PropInsight is a practical, end-to-end framework for collecting, preprocessing, fine-tuning, and evaluating language models on Singapore real estate domain data. It focuses on sentiment analysis, Singlish/cultural context understanding, and domain knowledge grounded in government policies and market conditions.
 
+## Academic Context
+
+This project was developed for the Graduate Certificate in Practical Language Processing Practice module (STK) under the supervision of:
+- Dr. Fan Zhenzhen
+- Dr. Wang Aobo  
+- Dr. Gary Leung
+
+## Team Contributions
+
+**Prem Varijakzhan (A0291913B)**
+- Preprocessing pipelines
+- Data labeling workflows
+- Government dataset scraping
+- Model fine-tuning implementation
+- Evaluation framework
+- Report writing
+- Presentation slides
+
+**Ong Wee Yang (A0017030A)**
+- Forum and Reddit data scraping
+- Report writing
+- Demo video production
+- Dashboard development
+
 All large datasets, processed files, checkpoints, and model artifacts are available on Google Drive:
 
 Google Drive: https://drive.google.com/drive/folders/1HiABarjnxIutrmpsY2b8eVDGweu5Xyfi?usp=sharing
