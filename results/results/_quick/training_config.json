@@ -1,0 +1,10 @@
+{
+  "quick_test_mode": true,
+  "model_id": "h2oai/danube2-singlish-finetuned",
+  "train_samples": 50,
+  "val_samples": 20,
+  "test_samples": 30,
+  "epochs": 1,
+  "max_len": 512,
+  "lr": 0.0002
+}

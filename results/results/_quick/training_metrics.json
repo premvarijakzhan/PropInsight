@@ -1,0 +1,12 @@
+{
+  "start_time": "2025-10-26T03:12:05.848327",
+  "end_time": "2025-10-26T03:12:40.544251",
+  "total_duration_seconds": 34.695924,
+  "total_duration_formatted": "0h 0m 34s",
+  "train_runtime": 34.1738,
+  "train_samples_per_second": 1.463,
+  "train_steps_per_second": 0.38,
+  "total_train_steps": 13,
+  "train_loss": 3.063961982727051,
+  "epoch": 1.0
+}

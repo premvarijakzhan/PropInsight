@@ -1,0 +1,19 @@
+{
+  "samples": 554,
+  "overall_sentiment_accuracy": 0.6534296028880866,
+  "label_set": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "ground_truth_distribution": {
+    "positive": 47,
+    "neutral": 359,
+    "negative": 148
+  },
+  "prediction_distribution": {
+    "neutral": 549,
+    "negative": 4,
+    "positive": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "start_time": "2025-10-26T01:19:00.341575",
+  "end_time": "2025-10-26T02:30:27.950380",
+  "total_duration_seconds": 4287.608805,
+  "total_duration_formatted": "1h 11m 27s",
+  "train_runtime": 4287.0787,
+  "train_samples_per_second": 1.977,
+  "train_steps_per_second": 0.124,
+  "total_train_steps": 500,
+  "train_loss": 7.138362075805664,
+  "epoch": 2.826902654867257
+}

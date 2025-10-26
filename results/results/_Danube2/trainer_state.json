@@ -1,0 +1,9 @@
+{
+  "global_step": 500,
+  "epoch": 2.826902654867257,
+  "total_flos": 1.733582452288389e+17,
+  "best_metric": 7.092198848724365,
+  "best_model_checkpoint": "/content/drive/MyDrive/PropInsight/models/finetuned/_Danube2/checkpoint-350",
+  "is_local_process_zero": true,
+  "is_world_process_zero": true
+}

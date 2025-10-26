@@ -1,0 +1,10 @@
+{
+  "overall_sentiment_accuracy": 0.29422382671480146,
+  "macro_precision": 0.04289504422658387,
+  "macro_recall": 0.05153461562445922,
+  "macro_f1": 0.03330880769873851,
+  "weighted_f1": 0.26044398053304313,
+  "singlish_coverage": 1.0,
+  "entity_recognition": 0.6696750902527075,
+  "domain_avg": 0.8348375451263538
+}
