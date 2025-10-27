@@ -15,6 +15,7 @@ This project was developed for the Graduate Certificate in Practical Language Pr
 - Evaluation framework
 - Report writing
 - Presentation slides
+- Property Domain Corpus
 
 **Ong Wee Yang (A0017030A)**
 - Forum and Reddit data scraping
