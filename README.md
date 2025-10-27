@@ -4,11 +4,7 @@ PropInsight is a practical, end-to-end framework for collecting, preprocessing, 
 
 ## Academic Context
 
-This project was developed for the Graduate Certificate in Practical Language Processing Practice module (STK) under the supervision of:
-- Dr. Fan Zhenzhen
-- Dr. Wang Aobo  
-- Dr. Gary Leung
-
+This project was developed for the Graduate Certificate in Practical Language Processing Practice module (STK) 
 ## Team Contributions
 
 **Prem Varijakzhan (A0291913B)**
@@ -67,7 +63,7 @@ pip install transformers datasets peft accelerate scikit-learn pandas numpy pyar
 - Place them under `data/` and `results/` following this structure:
   - `data/raw/` (forums, government, Reddit JSONs)
   - `data/processed/` (cleaned corpora and parquet/CSV)
-  - `data/corpus/` (Singlish and property domain lexicons)
+  - `data/corpus/` (Singlish , Singlish is from (https://github.com/SingDict/singdict) and property domain lexicons is developed by ourselves)
   - `results/` (metrics, predictions, visualizations, tensorboard logs)
 
 ## Usage
