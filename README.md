@@ -70,10 +70,7 @@ pip install transformers datasets peft accelerate scikit-learn pandas numpy pyar
 ## Usage
 
 ### 1) Fine-Tuning
-Run the main fine-tuning script:
-```
-python src/models/qwen_sealion_finetune.py
-```
+
 Highlights:
 - Saves checkpoints every N steps (default 500)
 - Keeps a limited number of best checkpoints
@@ -85,11 +82,7 @@ Outputs:
 - `results/visualizations/*` (training curves, confusion matrices, sentiment comparisons)
 
 ### 2) Evaluation
-Evaluate a trained model or baseline:
-```
-python src/models/evaluate_model.py --model_path <your_model_or_checkpoint_path> --output_dir ./results/results
-```
-Generates:
+
 - `evaluation_results.json`
 - `baseline_metrics.json` / `finetuned_predictions_faster.json` (depending on mode)
 - Visualizations under `results/visualizations/`
