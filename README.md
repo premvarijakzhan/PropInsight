@@ -69,40 +69,8 @@ pip install transformers datasets peft accelerate scikit-learn pandas numpy pyar
 
 ## Usage
 
-### 1) Fine-Tuning
 
-Highlights:
-- Saves checkpoints every N steps (default 500)
-- Keeps a limited number of best checkpoints
-- Automatically loads the best model at the end based on evaluation metrics
-- Early stopping supported (configurable in the script)
-
-Outputs:
-- `results/results/training_config*.json`
-- `results/visualizations/*` (training curves, confusion matrices, sentiment comparisons)
-
-### 2) Evaluation
-
-- `evaluation_results.json`
-- `baseline_metrics.json` / `finetuned_predictions_faster.json` (depending on mode)
-- Visualizations under `results/visualizations/`
-
-
-
-### 3) Preprocessing Pipelines
-Examples (run as needed depending on your data sources):
-```
-python src/preprocessing/run_reddit_preprocessing.py
-python src/preprocessing/reddit_corpus_preprocessor.py
-python src/preprocessing/bca_articles_preprocessor.py
-python src/preprocessing/hdb_articles_preprocessor.py
-python src/preprocessing/mas_articles_preprocessor.py
-python src/preprocessing/mnd_articles_preprocessor.py
-python src/preprocessing/sfa_articles_preprocessor.py
-python src/preprocessing/sla_articles_preprocessor.py
-```
-
-### 4) Dashboard
+### Dashboard
 Explore a simple dashboard:
 ```
 streamlit run dashboard/streamlit_app.py
